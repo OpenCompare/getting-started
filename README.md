@@ -26,7 +26,32 @@ for (PCMContainer pcmContainer : pcmContainers) {
 ## Browse a PCM
 
 ### Using the API
+```java
+// Browse the cells of the PCM
+for (Product product : pcm.getProducts()) {
+  for (Feature feature : pcm.getConcreteFeatures()) {
+    // Find the cell corresponding to the current feature and product
+    Cell cell = product.findCell(feature);
 
+    // Get information contained in the cell
+    String content = cell.getContent();
+    String rawContent = cell.getRawContent();
+    Value interpretation = cell.getInterpretation();
+
+    // Print the content of the cell
+    System.out.println("(" + product.getName() + ", " + feature.getName() + ") = " + content);
+  }
+}
+```
 ### Using a visitor
+See src/test/java/org.opencompare/VisitorTest.java
 
 ## Export
+If we want to export or serialize the PCM to a specific format, we can use a PCMExporter.
+In this example, we export our PCM to a CSV file.
+
+```java
+CSVExporter csvExporter = new CSVExporter();
+String csv = csvExporter.export(pcmContainer);
+```
+
