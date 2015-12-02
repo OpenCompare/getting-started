@@ -6,23 +6,23 @@
 
     <groupId>org.opencompare</groupId>
     <artifactId>getting-started</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.1</version>
 
 
 
     <dependencies>
 
-        <!-- Dependencies to Java PCM API and its implementation -->
+        <!-- Dependencies to Java API of OpenCompare and its implementation -->
         <dependency>
             <groupId>org.opencompare</groupId>
             <artifactId>api-java</artifactId>
-            <version>0.5</version>
+            <version>0.6.1</version>
         </dependency>
 
         <dependency>
             <groupId>org.opencompare</groupId>
             <artifactId>api-java-impl</artifactId>
-            <version>0.5</version>
+            <version>0.6.1</version>
         </dependency>
 
         <!-- Dependency to Junit for testing our project -->
@@ -38,6 +38,8 @@
 	<build>
 		<pluginManagement>
 			<plugins>
+
+                <!-- OpenCompare requires Java 8 -->
 				<plugin>
 					<groupId>org.apache.maven.plugins</groupId>
 					<artifactId>maven-compiler-plugin</artifactId>

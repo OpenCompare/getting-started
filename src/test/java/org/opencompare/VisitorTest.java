@@ -13,7 +13,7 @@ import java.io.IOException;
 /**
  * Created by gbecan on 02/02/15.
  */
-public class MyPCMPrinterTest {
+public class VisitorTest {
 
     @Test
     public void testMyPCMPrinter() throws IOException {
