@@ -20,7 +20,7 @@ public class MyPCMPrinter implements PCMVisitor {
         // We start by listing the names of the products
         System.out.println("--- Products ---");
         for (Product product : pcm.getProducts()) {
-            System.out.println(product.getName());
+            System.out.println(product.getKeyContent());
         }
 
         // Then, we use a visitor to print the content of the cells that represent a boolean value

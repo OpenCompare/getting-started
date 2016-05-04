@@ -50,7 +50,7 @@ public class GettingStartedTest {
                     Value interpretation = cell.getInterpretation();
 
                     // Print the content of the cell
-                    System.out.println("(" + product.getName() + ", " + feature.getName() + ") = " + content);
+                    System.out.println("(" + product.getKeyContent() + ", " + feature.getName() + ") = " + content);
                 }
             }
 
