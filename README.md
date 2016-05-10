@@ -55,3 +55,15 @@ CSVExporter csvExporter = new CSVExporter();
 String csv = csvExporter.export(pcmContainer);
 ```
 
+## Import 
+
+If we want to import a PCM from a CSV file, we can use a CSVLoader.
+
+```java
+ CSVLoader csvL = new CSVLoader(
+                new PCMFactoryImpl(),
+                new CellContentInterpreter(new PCMFactoryImpl()));
+List<PCMContainer> pcms = csvL.load(new File("pcms/pokemon.csv"));
+...
+```
+
