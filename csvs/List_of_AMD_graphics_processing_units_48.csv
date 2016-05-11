@@ -1,0 +1,10 @@
+"Model","Launch","Code name","Fab (nm)","Bus interface","Memory (MB)","Clock rate","Clock rate","Config core","Fillrate","Fillrate","Memory","Memory","Memory","Processing Power
+GFLOPs","Processing Power
+GFLOPs","API compliance (version)","API compliance (version)","API compliance (version)","TDP watts","Notes"
+"Model","Launch","Code name","Fab (nm)","Bus interface","Memory (MB)","Core (MHz)","Memory (MHz)","Config core","Texture (GT/s)","Bandwidth (GB/s)","Bus type","Bus width (bit)","Single Precision","Double Precision","DirectX","OpenGL","OpenCL","","TDP watts","Notes"
+"FirePro W2100","August 13, 2014","Oland XT","28","PCIe 3.0 x8","2048","630","900","320:20:8","5.04","12.6","28.8","DDR3","128","403.2","25.5","11.2","4.4","1.2","<26","Two Standard DisplayPort 1.2a outputs"
+"FirePro W4100","August 13, 2014","Cape Verde","28","PCIe 3.0 x16","2048","630","1125","512:32:16","10.08","20.16","72","GDDR5","128","645.1","40.3","11.2","4.4","1.2","<50","Four Standard Mini-DisplayPort 1.2a outputs"
+"FirePro W5100","August 13, 2014","Bonaire Pro","28","PCIe 3.0 x16","4096","930","1500","768:48:16","14.88","44.64","96","GDDR5","128","1430","89.2","11.1/12","4.4","2.0","<75","DirectGMA, GeometryBoost, Four Standard DisplayPort display outputs, DisplayPort 1.2a support, including Adaptive-Sync and HBR2 support"
+"FirePro W7100","August 13, 2014","Tonga","28","PCIe 3.0 x16","8192","920","1400","1792:112:32","29.4","103","160","GDDR5","256","3297","206","11.2/12","4.4","2.0","<150","DirectGMA, GeometryBoost, Four Standard DisplayPort display outputs, DisplayPort 1.2a support, including Adaptive-Sync and HBR2 support"
+"FirePro W8100","June 26, 2014","Hawaii Pro","28","PCIe 3.0 x16","8192","824","1250","2560:160:64","52.7","145","320","GDDR5","512","4218.9","2109.45","11.1","4.3","2.0","220","ECC RAM, Six Mini DisplayPort + SDI-Link"
+"FirePro W9100","March 26, 2014","Hawaii XT","28","PCIe 3.0 x16","16384","930","1250","2816:176:64","59.5","163.7","320","GDDR5","512","5237.8","2618.9","11.1","4.3","2.0","275","ECC RAM, Six Mini DisplayPort + SDI-Link"

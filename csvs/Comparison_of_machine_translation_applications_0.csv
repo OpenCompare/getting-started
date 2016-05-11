@@ -1,0 +1,35 @@
+"Name","Platform","License","Price","Latest stable release","Source availability","Notes"
+"Asia Online
+Language Studio","Windows, Linux, Web","Proprietary software","Depends on configuration.","2.1","No","Language Studio is a server platform for mass scale translation designed as well as a set of desktop tools to aid in translation. Language Studio is a hybrid rules-based and statistical machine translation (SMT) platform."
+"Apertium","Unix compatible
+Precompiled packages available for Debian","GPL","No Fee Required","3.1.1","Yes","Rule-based, shallow transfer; all programs and language data are free and open source"
+"Anusaaraka","Unix compatible","GPL","No Fee Required","0.50","Yes","Rule-based, deep parser based, paninian framework based; all programs and language data are free and open-source"
+"IBM","Cross-platform","Proprietary software","Commercial","?","No","Both rule-based and statistical models developed by IBM Research. Only the rule-based engine is available as a product, WebSphere Translation Server."
+"lingenio translate","Windows 
+Web-Application
+ iOS, Android]","Commercial","single users from 39,99€
+
+network from 549,00€","12.1","No","Rule-based"
+"OpenLogos","Windows, Linux","GPL or Paid
+initiative taker","No Fee Required","1.0.3","Yes","Rule-based, deep transfer"
+"Moses (machine translation)","Cross-platform","LGPL","No Fee Required","2008-07-11","Yes","Drop-in replacement for Pharaoh, features factored translation models and decoding of confusion networks."
+"Moses for Mere Mortals","Ubuntu Linux","GPL","No Fee Required","2010-11-11","Yes","Free open source; based on Moses; translation memories integration."
+"NiuTrans","Cross-platform","GPL","No fee required","1.1.0","Yes","Competitive performance for Chinese translation tasks; statistical machine translation.  Supports phrase-based, hierarchical phrase-based, and syntax-based (string-to-tree, tree-to-string, and tree-to-tree) models for research purposes."
+"Google Translate","Cross-platform
+(Web application)","SaaS","No fee required","Beta","No","Statistical"
+"Bing Translator","Cross-platform
+(Web application)","SaaS","No fee required","Final","No","Microsoft's linguistically informed statistical MT system"
+"Yandex.Translate","Cross-platform
+(Web application)","SaaS","No fee required","","No",""
+"SAIC Omnifluent","Windows, Linux, Web, i0S","Commercial        License, Server, SaaS","Depends on configuration","3.0","No","Hybrid machine translation combines rule-based machine translation and statistical machine translation, integrated with automatic speech recognition on a single platform that translates text and audio files."
+"SYSTRAN","Cross-platform
+(Web application)","Proprietary software","$200 (desktop) – $15,000 and up (enterprise server)","Version 7","No","Hybrid rules-based and SMT"
+"GramTrans","Cross-platform
+(Web application)","Freeware","No Required Fee","?","No","Rule-based, using constraint grammar"
+"Promt","Cross-platform
+(Web application)","Proprietary software","Commercial","9.5","No","Hybrid rules-based and SMT"
+"SDL Language Weaver","Cross-platform
+(Web application)","Commercial","Commercial","?","No",""
+"Babylon","Windows, Mac","Proprietary software","Depend on license ($9.90–$89 for one license)","10.3","No","Prompts to install the Babylon Toolbar, a browser hijacker which is difficult to remove."
+"IdiomaX","Windows, Symbian S60, Windows Mobile","Proprietary software","Depends on configuration","6.0","No","Rule-based"
+"Transsoftware","Windows","Proprietary software","Commercial","1.0","No",""

@@ -1,0 +1,9 @@
+"Name","Country","Year","Planned Prod./Actual 
+total","Crew","Armament 
+[ammo (rds.)]","Armour thickness 
+ (front/side/top)","Weight
+(tonne)","Engine","Speed","Range"
+"FCM Char 2C","France","1918","300+/10","12","75 mm, 4× 7.92 mm MG","45/22/10  mm","70 t","Petrol 2×200/250 hp","15 km/h","160 km"
+"Mark VIII","US/UK","1918","1500/125","12","2× 6 pdr; 7 MGs","16/16/6 mm","33.6 t","Petrol 300/340 hp","8 km/h","89 km (55 mi)"
+"Medium Mark B","UK","1918","","","","","","","",""
+"Medium Mark C","UK","1918","","","5 Machine guns","","","","",""

@@ -1,0 +1,8 @@
+"Metadata","Java","C#"
+"Metadata annotations/attributes","Interface based; user-defined annotations can be created","Class based"
+"Positional arguments","No; unless a single argument","Yes"
+"Named arguments","Yes","Yes"
+"Default values","At definition","Through initialization"
+"Nested types","Yes","Yes"
+"Specialization","No","Yes"
+"Conditional metadata","No","Yes"

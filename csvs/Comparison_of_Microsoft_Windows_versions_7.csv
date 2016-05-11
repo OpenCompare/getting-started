@@ -1,0 +1,5 @@
+"Name","Kernel","Kernel type","Architecture","Integrated firewall","SMP support","USB support","UDMA support","LFN support","Update management","APIs","Safe Mode"
+"Windows 95","MS-DOS 7.0 (Win95, Win95A), MS-DOS 7.1 (Win95B, Win95C)","Monolithic kernel","x86, hybrid 16/32-bit","No","No","Partial (OSR 2.1/2.5 only)","No","Yes","Windows Update","Win16, Win32","Yes"
+"Windows 98","MS-DOS 7.1","Monolithic kernel","x86, hybrid 16/32-bit","No","No","Yes","Yes","Yes","Windows Update","Win16, Win32","Yes"
+"Windows 98 Second Edition","MS-DOS 7.1","Monolithic kernel","x86, hybrid 16/32-bit","No","No","Yes","Yes","Yes","Windows Update","Win16, Win32","Yes"
+"Windows Me","MS-DOS 8.0","Monolithic kernel","x86, hybrid 16/32-bit","No","No","Yes","Yes","Yes","Windows Update","Win16, Win32","Yes"

@@ -1,0 +1,6 @@
+"Kernel name","CRC-32 (IEEE)","CRC32c","MD2","MD4","MD5","SHA-1","SHA-256","SHA-384","SHA-512","Michael MIC","RIPEMD-128","RIPEMD-160","RIPEMD-256","RIPEMD-320","Tiger","Whirlpool","HMAC","MDC2","GOST","LASH-160","LASH-256","LASH-384","LASH-512"
+"Linux","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?","?","?","?","?","?","?"
+"Solaris kernel","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?","?","Yes","?","?","Yes","?","Yes","Yes","?","?","?","?","?"
+"Windows NT kernel","?","?","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No"
+"FreeBSD kernel","Yes","Yes","?","Yes","Yes","Yes","Yes","Yes","Yes","?","?","Yes","?","?","Yes","?","Yes","?","?","?","?","?","?"
+"","","","","","","","","","","","","","","","","","","","","","","",""

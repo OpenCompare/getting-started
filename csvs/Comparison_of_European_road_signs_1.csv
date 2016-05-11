@@ -1,0 +1,114 @@
+"Products"," ","Austria","Belgium","Czech 
+ Republic","Denmark","Estonia","Finland","France","Germany","Greece","Hungary","Iceland","Ireland","Italy","Netherlands","Norway","Poland","Russia 
+ & 
+ Belarus","Slovakia","Spain","Sweden","Switzerland","Turkey","Ukraine","United 
+ Kingdom"
+"P42","","","","","","","","","","","","","","","","","","","","","","","","",""
+"P43","","","","","","","","","","","","","","","","","","","","","","","","",""
+"P1","Give Way ahead","","","","","","","","","","","","","","","","","","","","","","","",""
+"P2","Stop ahead","","","","","","","","","","","","","","","","","","","","","","","",""
+"P3","Traffic signals ahead","","","","","","","","","","","","","or","","","","","","","","","","",""
+"P4","Roundabout ahead","","NOT 
+ USED","","","","","","NOT 
+ USED","","","","or","","","","","","","","","","","",""
+"P5","Two-way traffic ahead","","","","","or","","","","","","","or","","","","","","","","","","","","or"
+"P6","Traffic queues likely ahead","","","","","","","","","","","NOT 
+ USED","","","","","","","","","","","","",""
+"P7","Level crossing without barriers ahead","","","","","","","","","","","NOT 
+ USED","","","","","","","","","","","","",""
+"P8","Level crossing with barriers ahead","","","","","","","","","","","NOT 
+ USED","or","","","","","","","","","","","",""
+"P9","Level crossing","","","","","","","","","","","NOT 
+ USED","NOT 
+ USED","","","","","","","","","","","",""
+"P10","Level crossing (multiple tracks)","","","","","","","","NOT 
+ USED","","","NOT 
+ USED","NOT 
+ USED","","","","","","","","","","","","NOT 
+ USED"
+"P11","","Austria","Belgium","Czech 
+ Republic","Denmark","Estonia","Finland","France","Germany","Greece","Hungary","Iceland","Ireland","Italy","Netherlands","Norway","Poland","Russia 
+ & 
+ Belarus","Slovakia","Spain","Sweden","Switzerland","Turkey","Ukraine","United 
+ Kingdom"
+"P12","Tram crossing","","","","","","","","NOT 
+ USED","","","NOT 
+ USED","","","","","","","","","","","","",""
+"P13","Crossroads with priority to the right","","","","","","","","","","","","NOT 
+ USED","","","","","","","","","","","","NOT 
+ USED"
+"P14","Crossroads with a minor road","","","","","","","","","","","","","","","","","","","","","","","",""
+"P15","Junction with a minor side road","","","NOT 
+ USED","","","","","NOT 
+ USED","","","","","","","","","","","","","","","",""
+"P16","Road narrows on both sides","","","","","","","","","","","","","","","","","","","","","","","",""
+"P17","Road narrows","","","","","","","","","","","","","","","","","","","","","","","",""
+"P18","Dangerous crosswinds","","","","","","","","","","","","","","","","","","","","","","","",""
+"P19","Low-flying aircraft","","","","or","","","","","","","","","","","","","","","","or","","","","or"
+"P20","Steep descent","","","","","","","","","","","","","","","","","","","","","","","",""
+"P21","Steep ascent","","","","","","","NOT 
+ USED","","","","","","","","","","","","","","","","",""
+"P22","Road bump","","","","","","","","NOT 
+ USED","","","","","","","","","","","","","","","",""
+"P23","Uneven road ahead","","","","","","","","","","","","","","","","","","","","","","","",""
+"P24","Curve","","","","","","","","","","","","","","","","","","","","","","","",""
+"P25","Double curve","","","","","","","","","","","","","","","","","","","","","","","",""
+"P26","Slippery road surface","","","","","","","","","","","","","","","","","","","","","","","",""
+"P27","Loose road surface","","","","","","","","","","","","","","","","","","","","","","","",""
+"P28","Children","","","","","","","","","","","","","","","","","","","","","","","",""
+"P29","Pedestrian crossing ahead","","","","","","","","","","","","or","","","","","","","","","","","",""
+"P30","Cyclists","","","","","","","","","","","","","","","","","","","","","","","",""
+"P31","Falling rocks or debris","","","","","","","","","","","","","","","","","","","","","","","",""
+"P32","Opening or swing bridge","","","","","NOT 
+ USED","","","","","","NOT 
+ USED","","","","","","","","","","","","",""
+"P33","Unprotected quayside or riverbank","","","NOT 
+ USED","","","","","","","or","","","","","","","or","","","","","","","or"
+"P34","Domestic animals","","","","","","","","","","","","","","","","","","","","","","","",""
+"P35","Wild animals","","","","","","","","","","","","","","","","","","","","","","","",""
+"P36","Tunnel ahead","NOT 
+ USED","NOT 
+ USED","","","NOT 
+ USED","NOT 
+ USED","NOT 
+ USED","NOT 
+ USED","","NOT 
+ USED","","","NOT 
+ USED","NOT 
+ USED","","NOT 
+ USED","","","NOT 
+ USED","","NOT 
+ USED","NOT 
+ USED","",""
+"P37","Accident area / accident ahead","NOT 
+ USED","NOT 
+ USED","","NOT 
+ USED","","NOT 
+ USED","","","NOT 
+ USED","","NOT 
+ USED","NOT 
+ USED","","","","","NOT 
+ USED","","","","NOT 
+ USED","NOT 
+ USED","",""
+"P38","Roadworks ahead","","","","","","","","","","","","","","","","","","","","","","","",""
+"P39","Other danger","","","","","","","","","","","","","","","","","","","","","","","",""
+"P40","Other danger (temporary)","NOT 
+ USED","NOT 
+ USED","NOT 
+ USED","NOT 
+ USED","","NOT 
+ USED","","NOT 
+ USED","NOT 
+ USED","NOT 
+ USED","NOT 
+ USED","NOT 
+ USED","","NOT 
+ USED","","NOT 
+ USED","NOT 
+ USED","","","NOT 
+ USED","NOT 
+ USED","","NOT 
+ USED","NOT 
+ USED"
+"P41","","","","","","","","","","","","","","","","","","","","","","","","",""

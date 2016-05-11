@@ -1,0 +1,25 @@
+"Symbol","Languages"
+"¢ ~ ¢,
+# ~ #,co ~ co,
+comment ~ comment","ALGOL 68"
+"/* ~ */","ActionScript, AutoHotkey, C, C++, C#, D, Go, Java, JavaScript, Objective-C, PHP, PL/I, Rust (can be nested), Scala (can be nested), SASS, SQL, Swift, Visual Prolog, CSS"
+"#cs ~ #ce","AutoIt"
+"/+ ~ +/","D (can be nested)"
+"/# ~ #/","Cobra (can be nested)"
+"# ~ #","Powershell"
+"=begin ~ =cut","Perl"
+"#`( ~ )","Perl6 (bracketing characters can be (), <>, {}, [], any Unicode characters with BiDi mirrorings, or Unicode characters with Ps/Pe/Pi/Pf properties)"
+"=begin ~ =end","Ruby"
+"#<TAG> ~ #</TAG>, #stop ~ EOF,
+#iffalse ~ #endif, #ifntrue ~ #endif,
+ #if false ~ #endif, #if !true ~ #endif","S-Lang"
+"{- ~ -}","Haskell (can be nested)"
+"(* ~ *)","Object Pascal (Delphi), ML, Mathematica, Pascal, Seed7, Applescript, OCaml (can be nested), Standard ML (can be nested), Maple, Newspeak"
+"{ ~ }","Object Pascal (Delphi), Pascal"
+"~","Curl"
+"%{ ~ %}","MATLAB (the symbols must be in a separate line)"
+"~","Lisp, Scheme, Racket (can be nested in all three)."
+"--[[ ~ ]],
+--[=[ ~ ]=]","Lua (the former form can be nested, but only within the latter, which can't be nested)"
+""" ~ ""","Smalltalk"
+"(comment ~ )","Clojure"

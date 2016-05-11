@@ -1,0 +1,8 @@
+"Preprocessing, Compilation and Packaging","Java","C#"
+"Namespaces","Packages","Namespaces"
+"File contents","Restricted","Free"
+"Packaging","Package","Assembly"
+"Classes/assembly search path","ClassPath","Both compile-time and runtime"
+"Conditional compilation","Yes","Yes"
+"Custom errors/warnings","Yes; AnnotationProcessor","Yes"
+"Explicit regions","No","Yes"

@@ -1,0 +1,30 @@
+"Program","Operating systems","License","Open Source","Protocols","Codecs","Encryption","Other capabilities","Latest release"
+"Acrobits Softphone","Android v2.2+, iOS v7.0+","Proprietary","No","SIP","G.711, G.722, iLBC, GSM, G.729","TLS, SRTP, ZRTP","VOIP over Wi-Fi or 3G iOS only - Push Notifications, video, number rewriting, address book matching, sms for betamax providers and pennytel","Acrobits Softphone (iOS) 5.2, Acrobits Softphone (Android) 3.20"
+"iCall Mobile","iOS v4.3+","Freeware / Proprietary","No","SIP AIM ICQ XMPP, Facebook, Yahoo! Messenger, Windows Live.","Speex, CELT, WebM","TLS, ZRTP","VoIP over Wi-Fi or 3G, SMS, Voicemail.","2.0.1 (as of Apr '12)"
+"Jajah Mobile Web","Symbian OS, Windows Mobile (version unknown)","web based service, Call back,no download","No","","Unknown","Unknown","",""
+"JusTex by Juphoon","iOS v5.1+","Proprietary","No","SIP","PCMA, PCMU, G.722, iLBC, iSAC, Opus, H.264, VP8, H.263","TLS, TCP, UDP, SRTP","JusTex Softphone over Wi-Fi or 3G, HD voice and video call, Multiparty call, conference.","JusTex (iOS) 3.0.1 updated on 13 July. 2014; JusTex (Android) 3.0 updated on 9 July 2014"
+"Line2","iOS, Android","Freeware / Proprietary","No","Proprietary with SIP core","Unknown","Unknown","Tri-mode calling (cellular, 3G/4G data, Wi-Fi), SMS over IP, visual voicemail, 20-person conference calls, auto-attendant, call-forwarding","1.0.4 Android, 3.2.1 iOS"
+"Media5-fone","iOS, Android","Proprietary","No","SIP","PCMA, PCMU, G.722*, iLBC, iSAC*, G.729*","TLS*, SRTP*","Wi-Fi and 3G/4G data, second call*, conference calls*, HD Voice, Bluetooth* (* Additional fees)","Unknown"
+"RedPhone by Open Whisper Systems","Android","GPLv3","Yes","A custom signaling protocol.","Unknown","TLS, SRTP, ZRTP, AES 128","VoIP over Wi-Fi or a data connection. Compatible with Signal on iOS.","1.0.3 on Android"
+"Signal by Open Whisper Systems","iOS","GPLv3","Yes","A custom signaling protocol.","Unknown","TLS, SRTP, ZRTP, AES 128","VoIP over Wi-Fi or a data connection. Compatible with RedPhone on Android. TextSecure instant messaging capabilities.","iOS 2.0.3 (April 7, 2015; 2 months ago)"
+"Sipdroid","Android","GPL","Yes","SIP","Unknown","Unknown","Uses Wi-Fi, 3G or EDGE","2.7"
+"Tango by TangoME Inc.,","iOS, Android, Microsoft Windows, OS X, Windows Phone","Freeware / Proprietary","Unknown","Unknown","Unknown","Unknown","Wi-Fi VoIP out & in, SMS over IP, call-through & call-back,  	Voice over IP, Instant messaging, Videoconferencing","Unknown"
+"Truphone","Nokia-Symbian, iOS, Android, BlackBerry","Freeware / Proprietary","No","SIP","Unknown","Unknown","Wi-Fi VoIP out & in, SMS over IP, call-through & call-back, connection management, provisioning","Symbian 4.0, iOS 1.11.1"
+"Vopium","Symbian, Java ME, Android, BlackBerry RIM, iOS, Windows Mobile 2003 SE and higher","Freeware / Proprietary","No","SIP, MSN, Skype, Yahoo, AOL, ICQ, Google Talk, Facebook & Twitter","GSM","Unknown","Wi-Fi VoIP, GSM call-through, SMS over IP, least cost routing, Synchronisation/back-up of mobile contacts and calendar","2.0"
+"Windows Mobile 6","Windows Mobile 6 Professional/Standard","Proprietary","No","SIP to publicly and non-publicly routable servers","Unknown","Unknown","Wi-Fi Mobile VoIP","6.1"
+"X-PRO for Pocket PC","Windows Mobile 2003 (earlier versions support Windows PocketPC 2002)","Proprietary, discontinued in April 2007","No","SIP","Unknown","Unknown","Supported devices: AudioVox Maestro, Compaq/HP iPAQ: 365x, 37xx, 385x, 395x, hx4700, Dell Axim X51, X51v, Toshiba e550, e570. iPAQ 545x and Toshiba e7xx are not supported.","2.2"
+"Yuilop","Android, iOS, Windows Phone, BlackBerry OS","Freeware","No","XMPP, RTP","iLBC","TLS","VoIP over 3G/4G/LTE and Wifi, SMS, Group chat, Photo sharing, Location sharing, virtual phone numbers","iOS 2.4 (November 26, 2014; 6 months ago) 
+
+Android 2.0.2 (February 12, 2014; 15 months ago) 
+
+Windows Phone 7.x 1.0.1.7 (September 12, 2013; 20 months ago) 
+
+Windows Phone 8.x 1.0.0.4 (September 18, 2013; 20 months ago) 
+
+BlackBerry OS 1.0.1 (May 31, 2013; 2 years ago) 
+
+Kindle Fire 2.0 (December 19, 2013; 17 months ago) 
+
+
+
+Category:Upptalk"

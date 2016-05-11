@@ -1,0 +1,42 @@
+"Products","Model","Launch","Code name","Fab (nm)","Transistors (Million)","Die Size (mm)","Bus interface","Memory (MB)","Clock rate","Clock rate","Clock rate","Config core","Fillrate","Fillrate","Memory","Memory","Memory","Processing Power
+GFLOPS","Processing Power
+GFLOPS","TDP (W)","TDP (W)","GFLOPS/W
+Single Precision","API support (version)","API support (version)","API support (version)","API support (version)","Release Price (USD)"
+"Products","Model","Launch","Code name","Fab (nm)","Transistors (Million)","Die Size (mm)","Bus interface","Memory (MB)","Core (MHz)","Boost (MHz)","Memory (MHz)","Config core","Texture (GT/s)","Bandwidth (GB/s)","Bus type","Bus width (bit)","Single Precision","Double Precision","Idle","Max.","DirectX","GFLOPS/W
+Single Precision","OpenCL","Mantle","","","Release Price (USD)"
+"P1","Radeon HD 8350 (OEM)","2013","Cedar","40","292","59","PCIe 2.1 ×16","256
+512","400 - 650","400
+80080:8:41.6
+2.63.2
+5.26.4
+12.8DDR2
+DDR364104No6.419.15.4511.04.41.2OEM","","","","","","","","","","","","","","","","",""
+"P2","Radeon HD 8450 (OEM)","2013","Caicos","40","370","67","PCIe 2.1 ×16","512","625","533160:8:42.55.08.53DDR364200No918811.04.41.2OEM","","","","","","","","","","","","","","","","",""
+"P3","Radeon HD 8470 (OEM)","2013","Caicos","40","370","67","PCIe 2.1 ×16","1024","750","800160:8:43.06.025.6GDDR564240No935811.04.41.2OEM","","","","","","","","","","","","","","","","",""
+"P4","Radeon HD 8490 (OEM)","2013","Caicos","40","370","67","PCIe 2.1 ×16","1024","875","900160:8:43.57.028.8GDDR564280No935811.04.41.2OEM","","","","","","","","","","","","","","","","",""
+"P5","Radeon HD 8570 (OEM)","2013","Oland","28","1040","90","PCIe 3.0 ×8","2048","730","900
+1150384:24:86.419.228.8
+72DDR3
+GDDR512856035126611.6411.14.42.0OEM","","","","","","","","","","","","","","","","",""
+"P6","Radeon HD 8670 (OEM)","2013","Oland","28","1040","90","PCIe 3.0 ×8","2048","1000","1150384:24:882472GDDR512876848168611.7211.14.42.0OEM","","","","","","","","","","","","","","","","",""
+"P7","Radeon HD 8730","Sep 5th, 2013","Cape Verde LE","28","1500","123","PCIe 3.0 ×16","1024","800","1125384:24:86.419.272GDDR5128614.444.8104713.0711.14.41.2","","","","","","","","","","","","","","","","",""
+"P8","Radeon HD 8760 (OEM)","2013","Cape Verde XT","28","1500","123","PCIe 3.0 ×16","2048","1000","1125640:40:16164072GDDR512812808016801611.14.41.2OEM","","","","","","","","","","","","","","","","",""
+"P9","Radeon HD 8770","2013","Bonaire XT","28","2080","160","PCIe 3.0 ×16","2048","1000","1500896:56:1616.056.096GDDR51281792128108521.0811.14.41.2?","","","","","","","","","","","","","","","","",""
+"P10","Radeon HD 8870 (OEM)","2013","Pitcairn XT","28","2800","212","PCIe 3.0 x16","2048","1000","12001280:80:323280153.6GDDR525625601601515017.0611.14.41.2OEM","","","","","","","","","","","","","","","","",""
+"P11","Radeon HD 8950 (OEM)","2013","Tahiti Pro","28","4313","352","PCIe 3.0 x16","3072","850","925","1250","1792:112:32","27.2
+29.6","95.2
+103.6","240","GDDR5","384","3046.4
+3315.2","761.6
+828.8","15","225+","14.734","11.1","4.4","2.0","OEM",""
+"P12","Radeon HD 8970 (OEM)","2013","Tahiti XT2","28","4313","352","PCIe 3.0 x16","3072","1000","1050","1500","2048:128:32","32
+33.6","128.0
+134.4","288","GDDR5","384","4096
+4301","1024
+1075","15","250+","17.2","11.1","4.4","1.2","OEM",""
+"P13","Radeon HD 8990 (OEM)","2013","Malta","28","4313 x2","352 x2","PCIe 3.0 ×16","3072 x2","950","1000","1500","2048:128:32 x2","32 x2","128 x2","288 x2","GDDR5","384 x2","7782
+8192","1946
+2048","15","375","21.86","11.1","4.4","1.2","OEM",""
+"P14","Model","Launch","Code name","Fab (nm)","Transistors (Million)","Die Size (mm)","Bus interface","Memory (MB)","Core (MHz)","Boost (MHz)","Memory (MHz)","Config core","Pixel (GP/s)","Texture (GT/s)","Bandwidth (GB/s)","Bus type","Bus width (bit)","Single Precision","Double Precision","Idle","Max.","GFLOPS/W
+Single Precision","DirectX","OpenGL","OpenCL","Mantle",""
+"P15","","","","","","","","","","","","","","","","","","","","","","","","","","","Release Price (USD)"
+"P16","","","","","","","","","","","","","","","","","","","","","","","","","","",""

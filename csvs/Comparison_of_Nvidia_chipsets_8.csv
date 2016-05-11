@@ -1,0 +1,42 @@
+"Model","Code Name","Release Date","Processors Supported","Fabrication
+process (nm)","FSB/HT
+Frequency (MHz)","PCI-Express","SLI","PCI","USB","PATA","SATA","LAN","Sound","Features","Notes"
+"nForce 500","CK8-04","2006","Athlon 64 X2, Athlon 64, Sempron 64
+Socket AM2","","HT 1 GHz","1.0a
+20 lanes","No","5 Ports","10 Ports Rev 2.0","2 Ports UDMA 133","4 Ports 1.5 Gbit/s","1000 Mbit/s","AC'97 2.3","","Rebranded nForce4"
+"nForce 500 Ultra","CK8-04","2006","Athlon 64 X2, Athlon 64, Sempron 64
+Socket AM2","","HT 1 GHz","1.0a
+20 lanes","No","5 Ports","10 Ports Rev 2.0","2 Ports UDMA 133","4 Ports 3.0 Gbit/s","1000 Mbit/s","AC'97 2.3","","Rebranded nForce4 Ultra"
+"nForce 500 SLI","CK8-04","2006","Athlon 64 X2, Athlon 64, Sempron 64
+Socket AM2","","HT 1 GHz","1.0a
+20 lanes","x8+x8","5 Ports","10 Ports Rev 2.0","2 Ports UDMA 133","4 Ports 3.0 Gbit/s","1000 Mbit/s","AC'97 2.3","","Rebranded nForce4 SLI"
+"nForce 510","MCP51","2006","Athlon 64 X2, Athlon 64, Sempron 64
+Socket AM2","","HT 1 GHz","1.0a
+20 lanes","No","5 Ports","8 Ports Rev 2.0","1 Ports UDMA 133","2 Ports 3.0 Gbit/s","100 Mbit/s","HDA","",""
+"nForce 520 LE","MCP65","2007","Athlon 64 X2, Athlon 64, Sempron 64
+Socket AM2","","HT 1 GHz","1.1
+20 lanes","No","5 Ports","8 Ports Rev 2.0","1 Ports UDMA 133","2 Ports 3.0 Gbit/s","100 Mbit/s","HDA","",""
+"nForce 520","MCP65","2007","Athlon 64 X2, Athlon 64, Sempron 64
+Socket AM2","","HT 1 GHz","1.1
+20 lanes","No","5 Ports","10 Ports Rev 2.0","1 Ports UDMA 133","4 Ports 3.0 Gbit/s","100 Mbit/s","HDA","",""
+"nForce 550","MCP55","March 7, 2006","Athlon 64 X2, Athlon 64, Sempron 64
+Socket AM2","","HT 1 GHz","1.0a
+20 lanes","No","5 Ports","10 Ports Rev 2.0","1 Ports UDMA 133","4 Ports 3.0 Gbit/s","1000 Mbit/s","HDA","",""
+"nForce 560","MCP65","2007","Athlon 64 X2, Athlon 64, Sempron 64
+Socket AM2","","HT 1 GHz","1.1
+20 lanes","No","5 Ports","10 Ports Rev 2.0","1 Ports UDMA 133","4 Ports 3.0 Gbit/s","1000 Mbit/s","HDA","","Same chipset as nForce 570 LT SLI but with some resistors removed thus disabling SLI"
+"nForce 560 SLI","CK8-04","2007","Athlon 64 X2, Athlon 64, Sempron 64
+Socket AM2","","HT 1 GHz","1.0a
+20 lanes","x8+x8","5 Ports","10 Ports Rev 2.0","2 Ports UDMA 133","4 Ports 3.0 Gbit/s","1000 Mbit/s","AC'97 2.3","","Rebranded nForce4 SLI"
+"nForce 570 LT SLI","MCP65","2007","Athlon 64 X2, Athlon 64, Sempron 64
+Socket AM2","","HT 1 GHz","1.1
+20 lanes","x8+x8","5 Ports","10 Ports Rev 2.0","1 Ports UDMA 133","4 Ports 3.0 Gbit/s","1000 Mbit/s","HDA","",""
+"nForce 570 Ultra","MCP55","March 7, 2006","Athlon 64 X2, Athlon 64, Sempron 64
+Socket AM2","","HT 1 GHz","1.0a
+20 lanes","No","5 Ports","10 Ports Rev 2.0","1 Ports UDMA 133","6 Ports 3.0 Gbit/s","2× 1000 Mbit/s","HDA","",""
+"nForce 570 SLI","MCP55","March 7, 2006","Athlon 64 X2, Athlon 64, Sempron 64
+Socket AM2","","HT 1 GHz","1.0a
+28 lanes","x8+x8","5 Ports","10 Ports Rev 2.0","1 Ports UDMA 133","6 Ports 3.0 Gbit/s","2× 1000 Mbit/s","HDA","",""
+"nForce 590 SLI","Crush51 + MCP55","March 7, 2006","Athlon 64 X2, Athlon 64, Sempron 64
+Socket AM2","","HT 1 GHz","1.0a
+46 lanes","x16+x16","5 Ports","10 Ports Rev 2.0","1 Ports UDMA 133","6 Ports 3.0 Gbit/s","2× 1000 Mbit/s","HDA","",""

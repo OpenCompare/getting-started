@@ -1,0 +1,20 @@
+"Products","Model","Codename","Released","Fab (nm)","USB
+2.0 + 1.1","Audio","Parallel ATA","Features / Notes"
+"P13","","","","","","","",""
+"P1","AMD 640 chipset","AMD-645","","","","","2 × ATA/33",""
+"P2","AMD 750 chipset","AMD-756","1999","","0 + 4","","2 × ATA/66",""
+"P3","AMD 760 chipset","AMD-766","2001","","0 + 4","","2 × ATA/100",""
+"P4","AMD 760MPX chipset","AMD-768","2001","","0 + 4","AC'97","2 × ATA/100",""
+"P5","Geode GX1","Geode CS5530","","","","AC'97","2 × ATA/33","National Semiconductor release"
+"P6","Geode GXm
+Geode GXLV","Geode CS5530A","","","","AC'97","2 × ATA/33","National Semiconductor release"
+"P7","Geode GX","Geode CS5535","","","0 + 4","AC'97","2 × ATA/66",""
+"P8","Geode LX","Geode CS5536","","","4 + 0","AC'97","2 × ATA/100",""
+"P9","AMD-8111
+nForce Professional
+ULi-1563","AMD-8131","2004","","4 + 2","AC'97","2 × ATA/133","PCI-X"
+"P10","AMD-8111
+nForce Professional
+ULi-1563","AMD-8132","2004","","4 + 2","AC'97","2 × ATA/133","PCI-X 2.0"
+"P11","AMD-8151","AMD-8151","2004","","4 + 2","AC'97","2 × ATA/133","AGP 8X"
+"P12","","","","","","","",""

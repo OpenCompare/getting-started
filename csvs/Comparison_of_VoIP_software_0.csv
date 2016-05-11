@@ -1,0 +1,124 @@
+"Program","Operating systems","License","Costs","Protocols","Codecs","Encryption","Max conference peers","Other capabilities","Latest release"
+"Avaya Application Server 5300 Soft Client","Windows","Proprietary","?","SIP, RTP,","Unknown","TLS, SRTP","Unknown","","2.0 (2010)"
+"AudioCodes MobilityPLUS","Windows, Android, iOS","Proprietary","?","SIP, RTP, XMPP, STUN, ICE","G.722 wideband, G.711, G.711, iLBC, G.729a, SILK, GSM, VP8, H.264, Opus","TLS, SRTP","Unknown","Voice, video, IM, Group chat, content sharing, SMS and MMS over IP services, native and social network contacts integration, incoming call/IM push notifications.","(2014)"
+"Blink","GNU/Linux, Mac OS, Windows","Mixed (free software versions under GNU GPLv3 + shareware versions under gplv3 with exception of including proprietary code)","Windows and Linux are free, OSX version is available for a fee in Mac App Store, source code is freely available","ICE, SIP, MSRP, RFB (VNC), XCAP","Opus, speex, G.722, GSM, iLBC, PCMU, PCMA","TLS, SRTP, ZRTP for all versions, OTR/SMP for OSX version only","Unlimited","IM, File Transfer, Desktop Sharing, Multi-party conference, Wideband","Blink Qt"
+"Cisco IP Communicator","Windows, Android","Proprietary","Free (for Cisco SMB Partners only)","SCCP (Skinny), SIP, TFTP","G.722 wideband, G.711, G.711, iLBC, G.729a, G.729","SRTP","Unknown","Call Recording, Silent Monitoring, Multiple lines and directory numbers, Configurable speed dial, Calling name and number display, Call Waiting, Call Forward, Call Transfer, Three-Way Calling (conference), Call Park, Call Pickup, Redial, Hold, Barge, Callback, Extension Mobility, Message waiting indicator, iDivert, Meet Me conferencing, Group Pickup, Do Not Disturb","7.0.6 (Jan 2011)"
+"Ekiga","Linux, Windows, OpenSolaris","GPL","Free","SIP, H.323, STUN, Zeroconf, XMPP, RTP","H.263, H.264/MPEG-4 AVC, Theora, iLBC, Speex, SILK, GSM, ...","No","Unknown","Video, IM, LDAP, Call Forwarding, Call Transfer, Auto-answering, PC to phone, phone to PC, Multiple accounts, USP support, Message waiting indicator, SIMPLE-based presence etc.","4.0.1 (February 21, 2013; 2 years ago)"
+"Empathy","Linux","GPL","Free","SIP, XMPP (Jingle), ICE (STUN/TURN), Zeroconf","Unknown","No","Unknown","IM, multi-user A/V,  collaborative applications","3.16 (March 25, 2015; 2 months ago)"
+"Eyeball Chat","Windows","Proprietary","Free","SIP, STUN, ICE, XMPP","Unknown","Yes","5","IM, Conferencing, Voice, Video and SIMPLE based presence","Windows 3.2 (2009)"
+"eyeBeam","Windows","Proprietary","?","SIP / SIMPLE","Unknown","TLS, SRTP","6 party audio; 3 party video","Voice and Video calling; IM; Import Microsoft Outlook Contacts; USB Support; Call Recording and Conferencing","1.5.20.1 (March 2010)"
+"Google+ Hangouts","Linux, Windows, Mac OS X, Android, iOS","Proprietary (using libjingle)","Free","XMPP","H.264/SVC, H.264/AVC, H.263 and VP8","SRTP","10","Video, chat, screen sharing, with additional tools available as ""Hangout Apps"".","Google Chrome Web Store extension 
+ 2013.626.1614.1 (July 9, 2013; 22 months ago)"
+"IBM Sametime","Linux, Mac OS X, Windows, mobile","Proprietary","?","SIP, SIMPLE, T.120","H.323","TLS","Unknown","IM, File transfer, Voice, Presence, Server stored contact list, HTTP tunneling, plugins, embedable in Lotus Notes","8.5.2 (08. May 2011)"
+"iCall","Linux, Mac OS X, Windows, iOS, Android","Proprietary","Free","SIP, AIM, ICQ, XMPP","Speex, CELT, WebM","TLS, ZRTP","Unlimited","Video, file transfer, PC to phone, phone to PC, IM (MSN, AIM, ICQ, Yahoo!, XMPP, Google Talk), Voicemail","7.1.522"
+"Jitsi","Linux, Mac OS, Windows (all java supported). Experimental Android builds are also available.","LGPL","Free","SIP/SIMPLE, XMPP/Jingle STUN ICE, TURN","SILK, G.722, Speex, Opus, G.711 (PCMU/PCMA), iLBC, GSM, G.729, H.264, H.263, VP8","ZRTP, SRTP, TLS","Unknown","Text messaging, audio/video telephony, IPv6 (often broken, P2P not supported), call recording, 64-bit","2.8 (build.5426) (March 19, 2015; 2 months ago)"
+"KPhone","Linux (KDE)","GPL","Free","SIP, STUN, NAPTR/SRV","Unknown","SRTP","Unknown","Video, voice, IM, external Sessions, IPv6 support for UDP","1.2 (November 2008)"
+"Linphone","Linux, Windows, Mac OS, Android, iPhone, BlackBerry","GPL","Free","SIP","Speex, Opus, G711, GSM, G.722, VP8 (WebM), H263, MPEG4, Theora and H264 (plugin)","TLS, SRTP, ZRTP","Unknown","Video, IM, STUN, IPv6 (disables IPv4 support when enabled, P2P supported only by version 3.5.1-2)","3.8.0 (March 15 2015)"
+"Messages","Mac OS X","Proprietary","?","SIP AIM ICQ XMPP","H263, H264","Unknown","Unknown","Integrated, PBX independent","7.0 July 25, 2012; 2 years ago"
+"MicroSIP","Windows","GPL","Free","SIP, STUN, ICE, SIMPLE","Speex, iLBC, GSM, G.711, G.722, G.729, SILK, Linear PCM","TLS, SRTP","Unknown","Video, voice, IM and Presence","3.9.7 (February 4, 2015)"
+"Mirial Softphone (Mirial s.u.r.l.)","Windows 2000/XP/2003/Vista/7 (including 64bit versions), Mac OS X (x86)","Proprietary","not free","SIP, RTSP","H.323","DTLS-SRTP","Unknown","H.264 Full-HD 1080p video rx/tx, Two independent lines supporting Call Control and 3-Party videoconference in Continuous Presence, G.722.1/C wideband audio, Call recording/export, DV/HDMI/Component capture, Presentation (H.239, RFC-4796), Encryption, Far End Camera Control, GPU accel (D3D and OpenGL)","7.0.24 (May 26, 2010) discontinued"
+"Mumble","Linux, Mac OS X, iOS, Windows, Android","BSD","Free","Unknown","CELT, Speex, Opus","TLS and OCB-AES128","No max (limited only by server bandwidth and memory)","Chat with (limited) embedded HTML, Automatic Gain Control, very low  latency, Access Control Lists for user management, Customizable In-Game Overlay for OpenGL and DirectX, Directional Audio, Plugin Support, Nested Channels, Echo cancellation for headset free use, Global Public Server List, Logitech G15 support, Push-To-Talk and Voice-Activation","1.2.8 (August 8, 2014)"
+"Nymgo","Windows, Android, iOS","Proprietary","Free","SIP, RTP and RTCP","Unknown","Yes","No","Address Book integration, Call recording/export, Mute, On Hold, Caller ID definition","4.2.9 (March 2013)"
+"oovoo","Mac OS X, iOS, Windows, Android","Proprietary","Free","SIP, RTP and RTCP","Unknown","Yes","No","Address Book integration, Call recording/export, Mute, On Hold, Caller ID definition","4.2.9 (March 2013)"
+"Phoner","Windows","Proprietary","Free","SIP, TAPI, CAPI","Unknown","TLS, SRTP, ZRTP","8","Conferencing, call redirection, call recording","2.97 (17 April 2015; 55 days ago)"
+"PhonerLite","Windows","Proprietary","Free","SIP","Unknown","TLS, SRTP, ZRTP","8","Conferencing, call redirection, call recording","2.24 (17 April 2015; 55 days ago)"
+"QuteCom","Linux, Mac OS X, Windows XP/2000","GPL","Free","SIP","G.711, G.729, iLBC, AMR-NB, G.722, Speex, AMR-WB (G.722.2),  H.263, H.263+, H.264, Dirac","SRTP, but key exchange via Everbee key Exchange which is not a Standard","Unknown","Video, IM (MSN, AIM, ICQ, Yahoo!, XMPP, Google Talk), voicemail, wengo to phone, conferencing.","2.2.1 (June 22, 2011; 3 years ago)"
+"Revation Communicator","Windows, Mac OS X","Proprietary","?","Proprietary","G.722, G.711, VP8, Opus","TLS and SRTP","No max (limited by server mixing services)","Secure Multi-Party Chat/Instant Messaging, Presence, VoIP, Video, File Transfer, Desktop Sharing","7.0 (June 2014)"
+"Roger Wilco GameSpy","Windows","Proprietary","?","Proprietary","?","?","?","?","2001"
+"SFLphone","Linux","GPL3","Free","SIP, RTP, IAX2, STUN per account, SRV","Audio: Opus, Speex, G.722, G.711, GSM, VP8, G.729, iLBC. Video: H.264, H.263, VP8, MPEG-4","Voice encryption (SRTP with SDES or ZRTP) and signaling encryption (TLS), Multiple realms authentication mechanism","Unlimited","Gnome/KDE client, address book, multiple accounts, unlimited number of calls, call transfer, call hold/unhold, call recording, Multi-way conferencing","1.4.1 (September 2014)"
+"Skype","Linux, Mac OS X, Windows 2000/XP/Vista/7/Mobile (no longer supported), BREW, Windows Phone , Android, iPhone, PSP","Proprietary","Free","Proprietary P2P protocol","SILK","Advertises proprietary encryption which is not considered secure.","25 starting with version 3.6.0.216. 10 with 2.x","Conferencing, video, file transfer, voicemail, Skype to phone, phone to Skype, additional P2P extensions (games, whiteboard, etc...); depending on platform.","  List of releases"
+"Spikko","Windows 2000/XP/Vista/7/Mobile, iPhone,","Proprietary","Free","SIP","Unknown","Yes","8","Conferencing,  voicemail, PC to phone, phone to PC, Free international phone numbers, address book integration;","Dec 2010"
+"TeamSpeak","Linux, Windows, Mac OS X, FreeBSD, Android, iOS","Proprietary","Free","Unknown","CELT, Speex, Opus","Yes","32 unlicensed / 512 with Non-Profit License / 2000","Simultaneous Server Conferencing with Tabs, 3D Sound Effects, Scalable Permissions System, Firewall Friendly File Transfers, In-Game Overlay for DirectX & OpenGL Games, Global Public Server List, Plugin System","3.0.13"
+"TeamViewer","Linux, Windows, Mac OS X, iOS, Android","Proprietary","Free (personal use only)","Unknown","Unknown","AES256","Unknown","Unknown","  List of releases
+Windows (desktop app)
+
+10.0.38388 (January 29, 2015; 4 months ago) 
+
+
+Windows (Metro-style app)
+
+9.0.23230.0 (November 4, 2013; 18 months ago) 
+
+
+Linux
+
+9.0.27891 (July 4, 2014; 11 months ago) 
+
+
+OS X
+
+9.0.29200 (July 4, 2014; 11 months ago) 
+
+
+Android
+
+10.0.2551 (November 4, 2014; 7 months ago) 
+
+
+iOS
+
+9.0.10520 (November 4, 2013; 18 months ago) 
+
+
+Windows Phone
+
+9.0.1.0 (November 4, 2013; 18 months ago)"
+"Telephone","Mac OS X 10.10.2","BSD","Free","SIP, STUN, ICE","Unknown","No","Unknown","Address Book integration","1.1.4 (March 6, 2012; 3 years ago)"
+"Toktumi Unlimited / Line2 Pro","Windows XP/Vista/7, Mac OS X, iOS, Android","Proprietary","Free","Proprietary with SIP core","Unknown","Unknown","20","Conferencing, voicemail, caller ID, call-waiting, address book integration; auto-attendant, call-forwarding","Windows: August 2010 / OS X: October 2010"
+"Tru App","Windows 2000/XP/Vista/7, Mac OS X, Linux
+iOS, Android, Symbian, BlackBerry OS,","Proprietary","Free","SIP, XMPP","Unknown","Unknown","Unknown","Chat, file transfer, voicemail, inbound numbers, integration with GTalk, Microsoft Live, Skype",""
+"Twinkle","Linux","GPL","Free","SIP","G.711 A-law μ-law, G.726, GSM, iLBC, Speex narrow wide ultrawide","SRTP, ZRTP","3","Conferencing, chat, file transfer, Firefox integration, call redirection, voicemail, support of VoIP-to-Phone services","1.4.2 (February 25, 2009; 6 years ago)"
+"Ventrilo","Mac OS X, Windows","Proprietary","Free","Unknown","Unknown","No","8","Conferencing, chat, text-to-speech","3.0.8"
+"Viber","Linux, Mac OS X, Windows, Android, Bada, BlackBerry OS, iOS, Series 40, Symbian, Windows Phone","Proprietary","?","Unknown","Unknown","Unknown","Unknown","Varies by platform: Text, picture and video messaging on all, voice calling only on iPhone, Android and Microsoft's Windows Phone","Android:
+5.3.0.2339 (April 7, 2015; 2 months ago
+
+
+
+
+
+
+
+
+ ) 
+iOS:
+5.3.2 (April 17, 2015; 55 days ago
+
+
+
+
+
+
+
+
+ ) 
+BlackBerry OS:
+3.1.16 (November 19, 2013; 18 months ago
+
+
+
+
+
+
+
+
+ ) 
+Windows Phone:
+4.5.0.0 (March 31, 2015; 2 months ago
+
+
+
+
+
+
+
+ )"
+"Voice Operator Panel","Windows 2000/XP/Vista","Proprietary","?","SIP, RTP","Unknown","Unknown","Unknown","Call forwarding, Call transfer, Call recording, Presence, Outlook integration, Windows Messenger/MSN/Live integration, CRM, Built-in web browser & e-mailer, LDAP, APS.","1.3.2"
+"X-Lite","Mac OS, Windows","Proprietary","Free","SIP, STUN, ICE, TURN","H.263, H.263+, G.711, iLBC, Speex","No","3","VoIP over WiFi / 3G / 4G, Video, Instant Messaging / Presence (SIP SIMPLE), Call Waiting, Call Hold, Call Forwarding, Voice Mail / Messaging Waiting Indication, 3 Way Conferencing, Contacts integration, Background Noise Reduction (BNR), Automatic Gain Control (AGC)","Windows and Mac OS: 4.7 (2014)"
+"Yahoo! Messenger","Mac OS (8, 9, X), Windows, (Linux/FreeBSD version not VoIP capable)","Proprietary","Free","SIP (using TLS) and RTP (media)","Unknown","Unknown","Unknown","Video, file transfer, PC to phone, phone to PC","Windows: 11.5.0.228 / May 31, 2012; 3 years ago
+ Mac: 3.0.1 / July 20, 2011; 3 years ago
+ Linux: 1.0.6 / September 2003; 11 years ago
+ SunOS 5.7: 0.99.17-1 / September 2003; 11 years ago
+ Solaris 8: 1.0.4 / September 2003; 11 years ago
+ FreeBSD 4/5: 1.0.4 / September 2003; 11 years ago iOS: 2.2.6/ July 12, 2012; 2 years ago"
+"Yate Client","Linux, Mac OS, Windows","GPL","Free","SIP, IAX, XMPP, H.323","G.711, G.711, GSM 06.10, iLBC, Speex, G.723, G.726, G.728, G.729","SRTP, Perhaps ZRTP?","Unknown","","4.3 2013-01"
+"Zfone","Linux, Mac OS X, Windows","Viewable source","(includes time bomb provision)","SIP, RTP","Unknown","SRTP, ZRTP","Unknown","","Beta 2008-09-04 (Linux 0.9.224), (Mac OS 0.9.246), (Windows 0.9.206)"

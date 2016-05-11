@@ -1,0 +1,12 @@
+"Feature / Framework","Adobe Flex built-in charts","Axiis","BirdEye","Flare","Flexmonster","IBM ILOG Elixir","Kap IT Labs","yFiles","amCharts"
+"3D charts","No","No","No","No","No","Yes","No","No","Yes"
+"Rotate, zoom chart in 3D","No","No","No","No","No","Yes","No","No","No"
+"Show-up & other animation effects","Yes","No","Partial
+(only for Dependency Graph)","Yes","Partial
+(only for Pie Chart)","Yes","No","Yes","Yes"
+"Interactive legend","Via customization","No","No","No","No","Via customization","Yes","No","Yes"
+"Show total values over the bars","Yes","Yes","No","No","No","Yes","Yes","No","Yes"
+"String formater for labels","Yes","Yes","No","No","No","Yes","?","?","Yes"
+"Ability to define custom color for each bar (chart item)","Yes","?","?","?","?","Yes","?","?","Yes"
+"Combined charts","Yes","No","Yes","No","No","Yes","No","No","Yes"
+"Multiple axis","Yes","No","No","No","No","No","No","No","Yes"

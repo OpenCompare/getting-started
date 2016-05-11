@@ -1,0 +1,35 @@
+"Products","Model","Launch","Code name","Fab (nm)","Transistors (Million)","Die Size (mm)","Die Count","Bus interface","Memory (MB)","SM count","Core config","Clock rate","Clock rate","Clock rate","Fillrate","Fillrate","Memory Configuration","Memory Configuration","Memory Configuration","API support (version)","API support (version)","API support (version)","GFLOPS (FMA)","TDP (watts)","GFLOPS/W","Release Price (USD)"
+"Products","Model","Launch","Code name","Fab (nm)","Transistors (Million)","Die Size (mm)","Die Count","Bus interface","Memory (MB)","SM count","Core config","Core (MHz)","Shader (MHz)","Memory (MHz)","Pixel (GP/s)","Texture (GT/s)","Bandwidth (GB/s)","DRAM type","Bus width (bit)","DirectX","OpenGL","OpenCL","GFLOPS (FMA)","TDP (watts)","GFLOPS/W","Release Price (USD)"
+"P1","GeForce 510","September 29, 2011","GF119","40","292","79","1","PCIe 2.0 x16","1024
+2048","1","48:8:4","523","1046","1800","2.1","4.4","14.4","DDR3","64","11","4.5","1.1","100.4","25","4.02","OEM"
+"P2","GeForce GT 520","April 12, 2011","GF119","40","?","79","1","PCIe 2.0 x16
+PCIe 2.0 x1
+PCI","1024
+2048","1","48:8:4","810","1620","1800","3.25","6.5","14.4","DDR3","64","11","4.5","1.1","155.5","29","5.36","$59"
+"P3","GeForce GT 530","May 14, 2011","GF108? / GF118","40","~585","~116","1","PCIe 2.0 x16","1024
+2048","2","96:16:4","700","1400","1800","2.8","11.2","28.8","DDR3","128","11","4.5","1.1","268.8","50","5.38","OEM"
+"P4","GeForce GT 545 DDR3","May 14, 2011","GF116","40","~1170","~238","1","PCIe 2.0 x16","1536
+3072","3","144:24:16","720","1440","1800","11.52","17.28","43","DDR3","192","11","4.5","1.1","415.07","70","5.93","$149"
+"P5","GeForce GT 545 GDDR5","May 14, 2011","GF116","40","~1170","~238","1","PCIe 2.0 x16","1024","3","144:24:16","870","1740","1998","13.92","20.88","64","GDDR5","128","11","4.5","1.1","501.12","105","4.77","OEM"
+"P6","GeForce GTX 550 Ti","March 15, 2011","GF116-400","40","~1170","~238","1","PCIe 2.0 x16","1024
+3072","4","192:32:24","900","1800","4104","21.6","28.8","98.5","GDDR5","192","11","4.5","1.1","691.2","116","5.96","$149"
+"P7","GeForce GTX 555","14 May 2011","GF114","40","1950","332","1","PCIe 2.0 x16","1024","6","288:48:24","736","1472","3828","17.6","35.3","91.9","GDDR5","192","11","4.5","1.1","847.9","150","5.65","OEM"
+"P8","GeForce GTX 560 SE","N/A","GF114","40","1950","~332","1","PCIe 2.0 x16","1024","6","288:48:24","736","1472","3828","17.7","35.3","91.9","GDDR5","192","11","4.5","1.1","847.8","150","5.65","OEM"
+"P9","GeForce GTX 560","May 17, 2011","GF114","40","1950","~332","1","PCIe 2.0 x16","1024 2048","7","336:56:32","810","1620","4008","25.92","45.36","128.1","GDDR5","256","11","4.5","1.1","1088.6","150","7.26","$199"
+"P10","GeForce GTX 560 Ti","January 25, 2011","GF114","40","1950","~332","1","PCIe 2.0 x16","1024
+2048","8","384:64:32","822","1645","4008","26.3","52.61","128.26","GDDR5","256","11","4.5","1.1","1263.4","170","7.43","$249"
+"P11","GeForce GTX 560 Ti OEM","May 30, 2011","GF110","40","3000","520","1","PCIe 2.0 x16","1280
+2560","11","352:44:40","732","1464","3800","29.28","32.21","152","GDDR5","320","11","4.5","1.1","1030.7","210","4.91","OEM"
+"P12","GeForce GTX 560 Ti 448 Cores Limited Edition","November 29, 2011","GF110-270-A1","40","3000","520","1","PCIe 2.0 x16","1280","14","448:56:40","732","1464","3800","29.28","40.99","152","GDDR5","320","11","4.5","1.1","1311.7","210","6.25","$289"
+"P13","GeForce GTX 570","December 7, 2010","GF110-275-A1","40","3000","520","1","PCIe 2.0 x16","1280
+2560","15","480:60:40","732","1464","3800","29.28","43.92","152","GDDR5","320","11","4.5","1.1","1405.4","219","6.41","$349"
+"P14","GeForce GTX 580","November 9, 2010","GF110-375-A1","40","3000","520","1","PCIe 2.0 x16","1536
+3072","16","512:64:48","772","1544","4008","37.05","49.41","192.384","GDDR5","384","11","4.5","1.1","1581.1","244","6.48","$499"
+"P15","GeForce GTX 590","March 24, 2011","2x
+GF110-351-A1","40","2x
+3000","2x
+520","2","PCIe 2.0 x16","2x
+1536","2×16","2x
+512:64:48","607","1215","3414","2×29.14","2×38.85","2×163.87","GDDR5","2×384","11","4.5","1.1","2488.3","365","6.82","$699"
+"P16","Model","Launch","Code name","Fab (nm)","Transistors (Million)","Die Size (mm)","Die Count","Bus interface","Memory (MB)","SM count","Core config","Clock rate","Clock rate","Clock rate","Fillrate","Fillrate","Memory Configuration","Memory Configuration","Memory Configuration","API support (version)","API support (version)","API support (version)","GFLOPS (FMA)","TDP (watts)","GFLOPS/W","Release Price (USD)"
+"P17","Model","Launch","Code name","Fab (nm)","Transistors (Million)","Die Size (mm)","Die Count","Bus interface","Memory (MB)","SM count","Core config","Core (MHz)","Shader (MHz)","Memory (MHz)","Pixel (GP/s)","Texture (GT/s)","Bandwidth (GB/s)","DRAM type","Bus width (bit)","DirectX","OpenGL","OpenCL","GFLOPS (FMA)","TDP (watts)","GFLOPS/W","Release Price (USD)"

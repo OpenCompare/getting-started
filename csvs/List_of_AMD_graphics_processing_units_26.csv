@@ -1,0 +1,52 @@
+"Products","Model","Launch","Codename","Architecture","Fab (nm)","Transistors (Million)","Die Size (mm)","Bus interface","Memory (MB)","Clock rate","Clock rate","Clock rate","Config core","Fillrate","Fillrate","Memory","Memory","Memory","Processing Power
+GFLOPS","Processing Power
+GFLOPS","TDP (W)","TDP (W)","GFLOPS/W Single Precision","API support (version)","API support (version)","API support (version)","API support (version)","TrueAudio","Release Price (USD)"
+"Products","Model","Launch","Codename","Architecture","Fab (nm)","Transistors (Million)","Die Size (mm)","Bus interface","Memory (MB)","Core (MHz)","Boost (MHz)","Memory (MT/s)","Config core","Texture (GT/s)","Bus width (bit)","Bus type","Bandwidth (GB/s)","Single Precision","Double Precision","Idle","Max.","DirectX","GFLOPS/W Single Precision","OpenCL","Mantle","","","TrueAudio","Release Price (USD)"
+"P1","Radeon R5 210","Unknown","Cedar","Terascale 2","40","292","59","PCIe 2.0 ×16","256","400","Unknown","900","80:8:4","1.6","3.2","64","DDR3","7.2","64","No","Unknown","19","3.4","11.0","4.4","1.2","No","No","Unknown"
+"P2","Radeon R5 220","Unknown","Caicos PRO-L","Terascale 2","40","370","67","PCIe 2.0 ×16","1024","625","650","1066","80:8:4","2.5","5","64","DDR3","8.53","200","No","Unknown","18","11.1","11.0","4.4","1.2","No","No","Unknown"
+"P3","Radeon R5 230","Apr 3, 2014","Caicos","Terascale 2","40","370","67","PCIe 2.0 ×16","1024
+2048","625","N/A","1066","160:8:4","2.5","5","64","DDR3","8.53","200","No","Unknown","19","8","11.0","4.4","1.2","No","No","Unknown"
+"P4","Radeon R5 235","Unknown","Caicos XT","Terascale 2","40","370","67","PCIe 2.0 ×16","1024","775","Unknown","1800","160:8:4","3.1","6.2","64","DDR3","14.4","248","No","Unknown","35","7.1","11.0","4.4","1.2","No","No","Unknown"
+"P5","Radeon R5 235X","Unknown","Caicos XT","Terascale 2","40","370","67","PCIe 2.1 ×16","1024","875","Unknown","1800","160:8:4","3.5","7.0","64","DDR3","14.4","280","No","Unknown","18","15.6","11.0","4.4","1.2","No","No","Unknown"
+"P6","Radeon R5 240","Unknown","Oland","GCN 1.0","28","1040","90","PCIe 3.0 ×8","2048","730","780","1800","320:20:8","5.84","14.6","128","DDR3
+GDDR5","22.8
+ 57.6","467.2","Unknown","Unknown","50","9.3","11.2","4.4","1.2","Yes","No","Unknown"
+"P7","Radeon R7 240","Oct 8, 2013","Oland PRO","GCN 1.0","28","1040","90","PCIe 3.0 ×8","2048","730","780","1800
+4500","320:20:8","5.84","14.6","128","DDR3
+GDDR5","28.8
+72","467.2
+499.2","29.2","Unknown","30","15.6","12.0","4.4","1.2","Yes","No","$69"
+"P8","Radeon R7 250","Oct 8, 2013","Oland XT","GCN 1.0","28","1040","90","PCIe 3.0 ×8","1024
+2048","1000","1050","1800
+4600","384:24:8","8","24","128","DDR3
+GDDR5","73.6","768
+806.4","48","Unknown","75","11.8","12.0","4.4","1.2","Yes","No","$89"
+"P9","Radeon R7 250X","Feb 10, 2014","Cape Verde XT","GCN 1.0","28","1500","123","PCIe 3.0 ×16","1024
+2048","1000","N/A","4500","640:40:16","16","40","128","GDDR5","72","1280","80","Unknown","95","13.5","12.0","4.4","1.2","Yes","No","$99"
+"P10","Radeon R7 260","Dec 17, 2013","Bonaire","GCN 1.1","28","2080","160","PCIe 3.0 ×16","1024","1000","N/A","6000","768:48:16","16","48","128","GDDR5","96","1536","96","Unknown","95","16.2","12.0","4.4","2.0","Yes","Yes","$109"
+"P11","Radeon R7 260X","Oct 8, 2013","Bonaire XTX","GCN 1.1","28","2080","160","PCIe 3.0 ×16","1024
+2048","1100","N/A","6500","896:56:16","17.6","61.6","128","GDDR5","104","1971.2","123.2","Unknown","115","17.1","12.0","4.4","2.0","Yes","Yes","$139"
+"P12","Radeon R7 265","Feb 13, 2014","Curaçao PRO","GCN 1.0","28","2800","212","PCIe 3.0 ×16","2048","900","925","5600","1024:64:32","28.8","57.6","256","GDDR5","179.2","1843.2","115.2","Unknown","150","12.3","12.0","4.4","1.2","Yes","No","$149"
+"P13","Radeon R9 270","Nov 13, 2013","Curaçao XT","GCN 1.0","28","2800","212","PCIe 3.0 ×16","2048","900","925","5600","1280:80:32","28.8","72","256","GDDR5","179.2","2304
+2368","144
+148","Unknown","150","15.4","12.0","4.4","1.2","Yes","No","$179"
+"P14","Radeon R9 270X","Oct 8, 2013","Curaçao XT","GCN 1.0","28","2800","212","PCIe 3.0 ×16","2048
+4096","1000","1050","5600","1280:80:32","32","80","256","GDDR5","179.2","2560
+2688","160
+168","Unknown","180","14.2","12.0","4.4","1.2","Yes","No","$199"
+"P15","Radeon R9 280","Mar 4, 2014","Tahiti PRO","GCN 1.0","28","4313","352","PCIe 3.0 ×16","3072","827","933","5000","1792:112:32","26.5","92.6","384","GDDR5","240","2964
+3343.9","741
+836","Unknown","250","14.8","12.0","4.4","1.2","Yes","No","$249"
+"P16","Radeon R9 280X","Oct 8, 2013","Tahiti XT2
+Tahiti XTL","GCN 1.0","28","4313","352","PCIe 3.0 ×16","3072","850","1000","6000","2048:128:32","27.2 - 32","109 - 128","384","GDDR5","288","3481.6
+4096","870.4
+1024","Unknown","250","13.9","12.0","4.4","1.2","Yes","No","$299"
+"P17","Radeon R9 285","Sep 2, 2014","Tonga PRO","GCN 1.2","28","5000","359","PCIe 3.0 ×16","2048","918","Unknown","5500","1792:112:32","29.4","102.8","256","GDDR5","176","3290","206.6","Unknown","190","17.3","12.0","4.4","2.0","Yes","Yes","$249"
+"P18","Radeon R9 290","Nov 5, 2013","Hawaii PRO","GCN 1.1","28","6200","438","PCIe 3.0 ×16","4096","up to 947","N/A","5000","2560:160:64","60.608","151.52","512","GDDR5","320","4848.6","606.1","Unknown","275","17.6","12.0","4.4","2.0","Yes","Yes","$399"
+"P19","Radeon R9 290X","Oct 24, 2013","Hawaii XT","GCN 1.1","28","6200","438","PCIe 3.0 ×16","4096
+8192","up to 1000","N/A","5000","2816:176:64","64","176","512","GDDR5","320","5632","704","Unknown","290","19.4","12.0","4.4","2.0","Yes","Yes","$549"
+"P20","Radeon R9 295X2","Apr 8, 2014","Vesuvius","GCN 1.1","28","2× 6200","2× 438","PCIe 3.0 ×16","8192","1018","N/A","5000","2× 2816:176:64","2× 65.152","2× 179.168","2× 512","GDDR5","2× 320","2x 5733.326","2x 716.672","Unknown","500","22.9","12.0","4.4","2.0","Yes","Yes","$1499"
+"P21","Model","Launch","Codename","Architecture","Fab (nm)","Transistors (Million)","Die Size (mm)","Bus interface","Memory (MB)","Clock rate","Clock rate","Clock rate","Config core","Fillrate","Fillrate","Memory","Memory","Memory","Processing Power
+GFLOPS","Processing Power
+GFLOPS","TDP (W)","TDP (W)","GFLOPS/W Single Precision","API support (version)","API support (version)","API support (version)","API support (version)","True Audio","Release Price (USD)"
+"P22","Model","Launch","Codename","Architecture","Fab (nm)","Transistors (Million)","Die Size (mm)","Bus interface","Memory (MB)","Core (MHz)","Boost (MHz)","Memory (MT/s)","Config core","Pixel (GP/s)","Texture (GT/s)","Bus width (bit)","Bus type","Bandwidth (GB/s)","Single Precision","Double Precision","Idle","Max.","GFLOPS/W Single Precision","DirectX","OpenGL","OpenCL","Mantle","True Audio","Release Price (USD)"

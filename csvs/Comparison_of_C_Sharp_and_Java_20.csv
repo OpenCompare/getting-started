@@ -1,0 +1,7 @@
+"Threading and Synchronization","Java","C#"
+"Threads","Yes","Yes"
+"Thread pool","Yes","Yes"
+"Task-based parallelism","Partial","Yes"
+"Semaphores","Yes","Yes"
+"Monitors","Yes","Yes"
+"Thread-local variables","Yes","Yes; ThreadStaticAttribute"

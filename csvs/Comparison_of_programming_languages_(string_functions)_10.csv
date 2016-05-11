@@ -1,0 +1,18 @@
+"Format","Languages"
+"string == string","Python, C++ (STL), C#, Cobra, Go, JavaScript (similarity), PHP (similarity), Ruby, Erlang, Haskell, Lua, D, Mathematica, Swift, Ya"
+"string === string","JavaScript, PHP"
+"string == string or 
+ string .EQ. string","Fortran"
+"strcmp(string, string) == 0","C"
+"(string=? string string)","Scheme"
+"(string= string string)","Common Lisp, ISLISP"
+"string = string","ALGOL 68, Ada, Object Pascal (Delphi), OCaml, Pascal, REXX, Seed7, Standard ML, BASIC, VB, VB .NET, F#, Smalltalk, PL/I, COBOL"
+"test string = string, or 
+[ string = string ]","Bourne Shell"
+"string eq string","Perl"
+"string.equals(string)","Cobra, Java"
+"string.Equals(string)","C#"
+"string -eq string, or 
+[string]::Equals(string, string)","Windows PowerShell"
+"[string isEqualToString:string], or 
+[string isEqual:string]","Objective-C (NSString * only)"

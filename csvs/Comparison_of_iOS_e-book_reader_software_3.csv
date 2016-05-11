@@ -1,0 +1,59 @@
+"Product","Book store(s)","Book search","In-app Epub import","Import via in-app Browser","OPDS catalog","Other import via","Tag books","Sort books"
+"Apabi Reader","Yes","Yes","Yes","No","Yes","eMail (MIME type)
+
+Built-in web server","No","Yes"
+"Blio","No","No","Yes","No","No","eMail (MIME type)","No","No"
+"Bluefire Reader","Free ebook libraries only","Yes","No","No","No","eMail (MIME type)
+iTunes File Sharing
+
+Built-in Web Server","No","Yes"
+"DL Reader","Yes","No","Yes","Yes","No","eMail (MIME type)","Yes","No"
+"eBookMobi","Free ebook libraries only","Yes","Yes","No","No","eMail (MIME type)","No","Yes"
+"eBookReader","No","No","Yes","No","No","Built-in web server","Yes","Yes"
+"i2Reader","No","Yes","Yes","Yes","Yes","Calibre (Bonjour)
+
+Built-in web server","No","Yes"
+"iBooks","Apple iBookstore","Yes","No","No","No","eMail (MIME type)","No","Yes"
+"Kindle","No","No","No","No","No","iTunes File Sharing","No","No"
+"Kobo Reading App","No","No","No","No","No","eMail (MIME type)","No","No"
+"KyBook","Free ebook libraries only","Yes","Yes","Yes","Yes","eMail (MIME type)
+
+Google Books
+
+Dropbox
+
+Google Drive
+
+Yandex Disk
+
+VK Docs
+
+Network folders
+
+iTunes File Sharing","Yes","Yes"
+"Marvin","Free ebook libraries only","Yes","Yes","Yes","Yes","Calibre (Bonjour, Plugin)
+
+eMail (MIME type)
+
+Dropbox
+
+iTunes File Sharing","Yes","Yes"
+"MegaReader","No","Yes","Yes","No","Yes","Calibre (Bonjour)
+
+eMail (MIME type)","No","No"
+"PocketBook reader","Yes","Yes","No","Yes","Yes","iTunes File Sharing
+
+eMail (MIME type)","No","Yes"
+"ShuBook","Yes","Yes","Yes","Yes","Yes","Calibre (Bonjour)
+
+eMail (MIME type)
+
+iTunes File Sharing","Yes","Yes"
+"Stanza","No","Yes","Yes","No","Yes","Calibre (Bonjour)
+
+eMail (MIME type)
+
+iTunes File Sharing","Yes","Yes"
+"uBooks","No","No","Yes","no authentication support","No","eMail (MIME type)","Yes","No"
+"iBouquiniste","Free ebook libraries only","Yes","Yes","No","Yes","eMail (MIME type)","No","Yes"
+"","","","","","","","",""

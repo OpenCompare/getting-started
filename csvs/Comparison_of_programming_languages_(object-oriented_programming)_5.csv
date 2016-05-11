@@ -1,0 +1,64 @@
+"","read-write","read-only","write-only"
+"ABAP Objects","N/A","",""
+"C++ (STL)","N/A","",""
+"C#","","",""
+"D","","",""
+"Java","N/A","",""
+"Objective-C 2.0 (Cocoa)","and then inside","and then inside","N/A"
+"Swift","","","N/A"
+"Eiffel","","",""
+"Python","","",""
+"Visual Basic .NET","","",""
+"Xojo","","",""
+"PHP","","",""
+"Perl","","",""
+"Perl 6","N/A","",""
+"Ruby","","",""
+"Windows PowerShell","","",""
+"OCaml","N/A","",""
+"F#","","",""
+"JavaScript (ES6)","get bar(«parameters») { instructions ... return value}set bar(«parameters») { instructions }","get bar(«parameters») { instructions ... return value}","set bar(«parameters») { instructions }"
+"COBOL","METHOD-ID. GET PROPERTY bar.
+
+DATA DIVISION.
+
+LINKAGE SECTION.
+
+return-var declaration
+
+PROCEDURE DIVISION RETURNING return-var.
+
+END METHOD.
+
+METHOD-ID. SET PROPERTY bar.
+
+DATA DIVISION.
+
+LINKAGE SECTION.
+
+value-var declaration
+
+PROCEDURE DIVISION USING value-var.
+
+END METHOD.","METHOD-ID. GET PROPERTY bar.
+
+DATA DIVISION.
+
+LINKAGE SECTION.
+
+return-var declaration
+
+PROCEDURE DIVISION RETURNING return-var.
+
+END METHOD.","METHOD-ID. SET PROPERTY bar.
+
+DATA DIVISION.
+
+LINKAGE SECTION.
+
+value-var declaration
+
+PROCEDURE DIVISION USING value-var.
+
+END METHOD."
+"Cobra","","",""

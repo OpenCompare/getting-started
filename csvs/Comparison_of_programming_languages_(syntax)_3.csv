@@ -1,0 +1,107 @@
+"Language","In-line comment","Block comment"
+"Ada, Eiffel, Euphoria, Occam, SPARK, ANSI SQL, ToolBook OpenScript, and VHDL","-- InlineComment",""
+"ALGOL 60","","comment BlockComment;"
+"ALGOL 68","","¢ BlockComment ¢
+
+ BlockComment 
+
+ BlockComment 
+
+# BlockComment #
+
+£ BlockComment £"
+"AppleScript","-- InlineComment","(* BlockComment *)"
+"Assembly language (varies)","; InlineComment   one example (most assembly languages use line comments only)",""
+"AutoHotkey","; InlineComment","/* BlockComment */"
+"AWK, Bash, Bourne shell, C shell, Maple, R, Tcl, and Windows PowerShell","# InlineComment","<# BlockComment #>"
+"BASIC (various dialects):","'InlineComment (not all dialects)
+
+REM InlineComment",""
+"C (K&R, ANSI/C89/C90), CHILL, PL/I, and REXX","","/* BlockComment */"
+"C (C99), C++, Go, and JavaScript","// InlineComment","/* BlockComment */"
+"C#","// InlineComment
+/// InlineComment (XML documentation comment)","/* BlockComment */
+/** BlockComment */ (XML documentation comment)"
+"COBOL","InlineComment (when * or / is in column 7)
+*> InlineComment",""
+"Curl","|| InlineComment","|# BlockComment #|
+
+|foo# BlockComment #|"
+"Cobra","# InlineComment","/# BlockComment #/ (nestable)"
+"D","// InlineComment
+/// Documentation InlineComment (ddoc comments)","/* BlockComment */
+/** Documentation BlockComment */ (ddoc comments)
+
+/+ BlockComment +/ (nestable)
+/++ Documentation BlockComment +/ (nestable, ddoc comments)"
+"DCL","$! InlineComment",""
+"ECMAScript (JavaScript, ActionScript, etc.)","// InlineComment","/* BlockComment */"
+"Forth","\ InlineComment","( BlockComment ) (single line only)
+
+( before -- after ) stack comment convention"
+"FORTRAN 66/77","C InlineComment (the letter 'C' in the first column makes the entire line a comment).",""
+"Fortran 90","! InlineComment (all characters on the line, from the exclamation mark onwards, are comments)",""
+"Haskell","-- InlineComment","{- BlockComment -}"
+"Java","// InlineComment","/* BlockComment */
+
+/** BlockComment */ (Javadoc documentation comment)"
+"Lisp and Scheme","; InlineComment","#| BlockComment |#"
+"Lua","-- InlineComment","BlockComment (variable number of = signs)"
+"Maple","# InlineComment","(* BlockComment *)"
+"Mathematica","","(* BlockComment *)"
+"Matlab","% InlineComment","%{
+BlockComment (nestable)
+%}
+Note: Both percent–bracket symbols must be the only non-whitespace characters on their respective lines."
+"Object Pascal (Delphi)","// InlineComment","(* BlockComment *)
+{ BlockComment }"
+"OCaml","","(* BlockComment (* nestable *) *)"
+"Pascal, Modula-2, Modula-3, Oberon, and ML:","","(* BlockComment *)"
+"Perl and Ruby","# InlineComment","=begin
+BlockComment
+=cut (=end in Ruby) (POD documentation comment)
+
+
+Comments after end of code"
+"PHP","# InlineComment
+// InlineComment","/* BlockComment */
+/** Documentation BlockComment */ (PHP Doc comments)"
+"PILOT","R:InlineComment",""
+"PL/SQL and TSQL","-- InlineComment","/* BlockComment */"
+"Python","# InlineComment","BlockComment 
+"""""" BlockComment """"""
+
+(Documentation string when first line of module, class, method, or function)"
+"Rust","// InlineComment
+
+/// InlineComment  (""Outer"" rustdoc comment)
+
+//! InlineComment  (""Inner"" rustdoc comment)","/* BlockComment */  (nestable)
+
+/** BlockComment */  (""Outer"" rustdoc comment)
+
+/*! BlockComment */  (""Inner"" rustdoc comment)"
+"SAS","","* BlockComment;
+/* BlockComment */"
+"Seed7","# InlineComment","(* BlockComment *)"
+"Simula","","comment BlockComment;
+! BlockComment;"
+"Smalltalk","","""BlockComment"""
+"Smarty","","{* BlockComment *}"
+"Standard ML","","(* BlockComment *)"
+"TeX, LaTeX, PostScript, Erlang, and S-Lang","% InlineComment",""
+"Texinfo","@c InlineComment
+@comment InlineComment",""
+"TUTOR","* InlineComment
+command       $$ InlineComment",""
+"Visual Basic","InlineComment
+Rem InlineComment",""
+"Visual Basic .NET","InlineComment
+
+ InlineComment (XML documentation comment)
+
+Rem InlineComment",""
+"Visual Prolog","% InlineComment","/* BlockComment */"
+"Xojo","' InlineComment
+// InlineComment
+rem InlineComment",""

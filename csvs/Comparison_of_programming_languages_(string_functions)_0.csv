@@ -1,0 +1,3 @@
+"Definition","charAt(string,integer) returns character."
+"Description","Returns character at index in the string."
+"Equivalent","See substring of length 1 character."

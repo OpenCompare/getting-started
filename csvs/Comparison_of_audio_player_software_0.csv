@@ -1,0 +1,53 @@
+"Name","Author","First public release","stable version","Cost","Software license","Based framework","Written in"
+"AIMP","AIMP DevTeam","August 8, 2006","3.60 (Build 1483) (February 27, 2015; 3 months ago )","Free","Proprietary","BASS audio library (decoder)","Delphi"
+"Amarok","Mark Kretschmann","June 1, 2003","2.8 (August 16, 2013; 21 months ago)","Free","GPL","via Phonon: GStreamer, xine, MPlayer, VLC, DirectShow, QuickTime","C++"
+"Aqualung","Tom Szilagyi et al.","January 1, 2006","0.9beta11 January 30, 2013; 2 years ago","Free","GPL","","C"
+"aTunes","Alex Aranda et al.","January 1, 2006","3.1.2 (June 22, 2014; 11 months ago)","Free","GPL","","Java"
+"Audacious","Audacious Development Team","October 30, 2005","3.6.2 (May 30, 2015; 12 days ago)","Free","GPL","XMMS based","C, C++ (GTK+)"
+"Banshee","Aaron Bockover","February 17, 2005","2.6.2 (February 18, 2014; 15 months ago)","Free","MIT","GStreamer","C#"
+"Beep Media Player","Milosz Derezynski","June 6, 2004","0.9.7.1 (October 22, 2005; 9 years ago)","Free","GPL","XMMS based","C"
+"Clementine","Clementine Team","March 1, 2011","1.2.3 (March 8, 2014; 14 months ago)","Free","GPL","GStreamer","C++"
+"cmus","Timo Hirvonen","January 18, 2005","2.6.0 (August 11, 2014; 9 months ago)","Free","GPL","","C"
+"Cog","Vincent Spader","May 1, 2006","0.07 (December 24, 2007; 7 years ago)","Free","GPL","","Objective-C"
+"Exaile","Adam Olsen","May 24, 2006","3.4.2 (November 9, 2014; 6 months ago)","Free","GPL","GStreamer","Python (GTK+)"
+"Ecoute","Louka Desroziers & Julien Sagot","September 2008","3.0.8","Free (until version 4)","Proprietary","AV Foundation & QuickTime","Objective-C"
+"Flash MP3 Player","Reality Software","March 11, 2008","1.00","Free","Proprietary","",""
+"foobar2000","Peter Pawlowski","November 29, 2002","1.3.8 (March 26, 2015; 2 months ago
+
+
+
+)","Free","Proprietary (core),
+BSD (SDK)","","C++"
+"Guayadeque Music Player","","February 1, 2003","3.11 (February 4, 2014; 15 months ago)","Free","GPL","GStreamer","C++ (wxWidgets, wxSqlite)"
+"Gear Player","Zsolt Szatmári","April 2012","1.4.29","Non-free","Proprietary","Core Audio","Objective-C"
+"JuK","Scott Wheeler","February 1, 2003","3.11 (February 4, 2014; 15 months ago)","Free","GPL","","C++"
+"MediaMonkey Standard","Ventis Media Inc.","August 25, 2003","4.1.5.1719 (October 22, 2014; 7 months ago)","Free","Proprietary","","Delphi, C"
+"MediaMonkey Gold","Ventis Media Inc.","August 25, 2003","4.1.5.1719 (October 22, 2014; 7 months ago)","Non-free","Proprietary","","Delphi, C"
+"MediaMonkey Lifetime","Ventis Media Inc.","August 25, 2003","4.1.5.1719 (October 22, 2014; 7 months ago)","Non-free","Proprietary","","Delphi, C"
+"MPXPLAY","MPXPLAY","January 1, 1998","1.60 (February 8, 2015; 3 months ago)","Free","GPL","",""
+"Music on Console","Damian Pietras","January 1, 2002","2.5.0 (August 30, 2014; 9 months ago)","Free","GPL","","C"
+"Music Player Daemon","Warren Dukes","May 1, 2003","0.19.7 (December 17, 2014; 5 months ago)","Free","GPL","","C"
+"MusicBee","Steven Mayall","December 4, 2008","2.4 Final August 24, 2014; 9 months ago","Free","Proprietary","BASS audio library","Visual Basic .NET"
+"musikCube","Casey Langen","January 1, 2005","1.1 Final (March 23, 2012; 3 years ago)","Free","BSD","",""
+"Napster","William Christopher Gorog","October 1, 2003","4.6.3.4 (August 31, 2010; 4 years ago)","Non-free","Proprietary","",""
+"Quod Libet","Quod Libet Team","November 8, 2004","2.5 (December 19, 2012; 2 years ago)","Free","GPL","GStreamer","Python (GTK) PyGTK"
+"Rdio","Rdio Inc","","Microsoft Windows: 1.12.0.0 (2013) WP 8+ : 4.0.5.0 (28 October 2013; 19 months ago)
+iOS: 3.0.3 (27 September 2014; 8 months ago)","(subscription required)Category:Pages containing links to subscription-only content","Proprietary","",""
+"Rhapsody","RealNetworks","January 1, 2003","14.0 (16 October 2006)","(subscription required)Category:Pages containing links to subscription-only content","Proprietary","",""
+"Rhythmbox","Colin Walters","April 1, 2004","3.2 (March 29, 2015; 2 months ago)","Free","GPL","GStreamer","C"
+"Songbird","POTI Inc.","February 8, 2006","2.2.0, Build 2453 (February 4, 2013; 2 years ago)","Free","GPL","GStreamer",""
+"Sonique","Media Science","November 1, 1998","1.96 (March 2002)","Free","Proprietary","",""
+"Spotify","Spotify LTD","2008","; Microsoft Windows & Mac OS X
+0.9.8.296
+
+
+
+
+ (April 1, 2014; 14 months ago) 
+ iOS
+1.0.0 (April 2, 2014; 14 months ago)","Non-free","Proprietary","",""
+"Style Jukebox","Digital Geek LTD","July 1, 2009","1.3 (October 12, 2014; 7 months ago)","Free","Proprietary","","C#"
+"Winamp","Nullsoft","April 21, 1997","5.666.3516 (December 12, 2013; 17 months ago)","Free","Proprietary","Wasabi","C/C++"
+"XMMS","XMMS Team","November 1, 1997","1.2.11 (November 16, 2007; 7 years ago)","Free","GPL","original","C"
+"XMPlay","Un4seen Developments","1998","3.8 (December 23, 2013)","Free","Proprietary","original (based on the BASS audio library)",""
+"Name","Author","First public release date","Stable version","Cost","Software license","Based framework","Written in"

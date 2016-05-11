@@ -1,0 +1,7 @@
+"Manufacturer","Module","Transceiver Chip","Antenna","Sleep","TX","RX","TX Power","Sensitivity","PCB Size","Released","Interfacing","Protocol stacks"
+"FlexiPanel Ltd","EasyBee summary datasheet","Texas Instruments CC2420 datasheet errata","integral","","18 mA","20 mA","0 dBm","","26 mm x 20 mm","Mar, 2008","?","ZigBee stack"
+"Embit","EMB-TRX169PA, 169 MHz
+webpage","CC1120 datasheet","U.FL connector","<1 µA","400  mA @ +27 dBm","27 mA (full sens.)","27 dBm","-122 dBm","16 mm x 26 mm","2013","UART, SPI, JTAG","Wireless M-Bus stack"
+"Microchip Technology","MRF24J40MA
+datasheet","MRF24J40 datasheet","PCB trace","2 µA","23 mA","19 mA","0 dBm","-94 dBm","17.8 mm x 27.9 mm","Jun, 2008","SPI","Microchip ZigBee MiWi MiWi P2P"
+"","","","","","","","","","","","SPI",""

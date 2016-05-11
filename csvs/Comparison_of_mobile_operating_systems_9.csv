@@ -1,0 +1,13 @@
+"Media Playback and Controls","Media Playback and Controls","Media Playback and Controls","Media Playback and Controls","Media Playback and Controls","Media Playback and Controls","Media Playback and Controls","Media Playback and Controls","Media Playback and Controls","Media Playback and Controls"
+"Feature","iOS","Android","Firefox OS","Windows Phone","BlackBerry 10","Mer","Tizen","Sailfish OS","Ubuntu Touch"
+"Audio playback","AAC (8 to 320 kbit/s), protected AAC (from iTunes Store), HE-AAC, MP3 (8 to 320 kbit/s), MP3 VBR, Apple Lossless, AIFF, WAV","AAC LC/LTP 3GPP, HE-AACv1 (AAC+) (before Android2.1), HE-AACv2 (enhanced AAC+) (before Android2.1), AMR-NB, AMR-WB, MP3 (Mono/Stereo 8–320 kbit/s constant or variable bit-rate), MIDI (Type 0 and 1, DLS versions 1 and 2), Ogg Vorbis, PCM/WAVE (8- and 16-bit linear PCM, rates up to limit of hardware), WAVE, Opus","AAC, MP3, WAV, Opus, Vorbis","MP3, WMA Std 9.2, WMA Pro, AMR-NB, AAC-LC, AAC+, eAAC+","MP3, FLAC, AAC, AAC+, eAAC+, WAV, WMA pro, AMR-NB, MIDI, AWB, M4A, MKA, OGG","?","AAC, AAC+, eAAC+, AMR-NB, AMR-WB, MP3, Vorbis, WAV","MP3, FLAC, AAC, ALAC, AC3, DTS, Opus, Vorbis","?"
+"Video playback","H.264 (up to Main Profile), MPEG-4, M-JPEG","H.263, H.264 (up to Baseline Profile), MPEG-4 SP, DivX, XviD, VP8","H.264, Theora, VP8","H.263, H.264, WMV, MPEG4, MPEG4 @ HD 720p 30fps, DivX, XviD","MP4, WMV, H.263, H.264, DivX, WMV, XviD, 3GGP, 3GP2, ASF, AVI, F4V, M4V, MKV, MOV, MPEG4, MPEG-2","?","H.263, H.264, MPEG-4 Part 2","?","?"
+"Wired video out","Up to 720p via HDMI or VGA, 576p/480p via component or composite;
+5+: 1080p","1080p on select devices","?","8.1+ USB","10+ 1080p via microHDMI, SlimPort (BlackBerry Passport)","?","No","No","?"
+"Wired digital audio output","7+: USB Audio","5+ USB Audio","No","No","USB Audio","No","No","No","No"
+"Wireless video/audio streaming to set top boxes/TVs/speakers","AirPlay","4.2+ Miracast, but DLNA only available on selected devices","?","8.1+ Miracast on some devices","10+ DLNA, 10.2+ Miracast on some devices","?","DLNA","?","?"
+"Media player on-device playlist creation","Yes","Yes","?","Yes","Yes","?","?","Yes","Yes"
+"Media player video scrubbing","Yes","Yes","?","7.10.7720.0+","?","?","?","?","Yes"
+"Media player audio scrubbing","Yes","Yes","?","8.1+","?","?","?","?","Yes"
+"Media player fine scrubbing","Yes","No, 3rd party software like VLC media player, basic fine scrubbing removed on 4+","?","No","?","?","?","?","?"
+"Media player double speed playing","Only Podcast","No, 3rd party software","Yes","No","?","?","?","?","?"

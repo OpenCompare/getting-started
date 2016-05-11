@@ -1,0 +1,6 @@
+"Name","Run by","Access API"
+"Amazon S3","Amazon.com","HTTP (REST/SOAP)"
+"Google Cloud Storage","Google","HTTP (REST)"
+"SWIFT (part of OpenStack)","Rackspace, Hewlett-Packard, others","HTTP (REST)"
+"Microsoft Azure","Microsoft","HTTP (REST)"
+"Cleversafe","Cleversafe","HTTP (REST)"

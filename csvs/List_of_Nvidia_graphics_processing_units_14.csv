@@ -1,0 +1,25 @@
+"Model","Features","","",""
+"GeForce 9300 GE (G98)","Features","","",""
+"GeForce 9300 GS (G98)","Features","","",""
+"GeForce 9400 GT","Scalable Link Interface (SLI)","","",""
+"GeForce 9500 GT","Yes","","",""
+"GeForce 9600 GSO","","","",""
+"GeForce 9600 GT","Yes","PureVideo 2 with VP2,
+BSP Engine, and AES128 Engine","",""
+"GeForce 9800 GT","","No","",""
+"GeForce 9800 GTX","Yes
+3-way","","PureVideo 3 with VP3,
+BSP Engine, and AES128 Engine",""
+"GeForce 9800 GTX+","","No","Yes",""
+"GeForce 9800 GX2","Yes","","",""
+"GeForce 9300 GE (G98)","Yes","No","Yes",""
+"GeForce 9300 GS (G98)","","","",""
+"GeForce 9400 GT","Yes","No","",""
+"GeForce 9500 GT","","","",""
+"GeForce 9600 GSO","","","",""
+"GeForce 9600 GT","","","",""
+"GeForce 9800 GT","","","",""
+"GeForce 9800 GTX","Yes
+3-way","","",""
+"GeForce 9800 GTX+","","","",""
+"GeForce 9800 GX2","Yes","","",""

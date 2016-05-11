@@ -1,0 +1,16 @@
+"Model","Launch","Code name","Fab (nm)","Transistors (Million)","Die Size (mm)","Bus interface","Memory (MB)","Clock rate","Clock rate","Config core","Fillrate","Fillrate","Memory","Memory","Memory","Processing Power
+GFLOPs","Processing Power
+GFLOPs","API compliance (version)","API compliance (version)","API compliance (version)","TDP watts","Notes"
+"Model","Launch","Code name","Fab (nm)","Transistors (Million)","Die Size (mm)","Bus interface","Memory (MB)","Core (MHz)","Memory (MHz)","Config core","Texture (GT/s)","Bandwidth (GB/s)","Bus type","Bus width (bit)","Single Precision","Double Precision","DirectX","OpenGL","OpenCL","","TDP watts","Notes"
+"FirePro 3D V3700","August 8, 2008","RV620","55","Unknown","Unknown","PCIe 2.0 x16","256","800","950","40(8×5):4:4","3.2","3.2","15.2","GDDR3","64","64","-","10.1","3.0","-","32","UVD+, PowerPlay"
+"FirePro 3D V3750","September 11, 2008","RV730","55","Unknown","Unknown","PCIe 2.0 x16","256","550","750","320(64×5):32:8","4.4","17.6","24","GDDR3","128","352","-","10.1","3.3","-","48","UVD2, PowerPlay"
+"FirePro 3D V3800","April 26, 2010","Redwood Pro(RV830)","40","Unknown","Unknown","PCIe 2.1 x16","512","650","900","400(80×5):20:8","5.2","13","14.4","GDDR3","64","520","-","11.0","4.0","1.0","43","UVD2, PowerPlay, Eyefinity"
+"FirePro 3D V4800","April 26, 2010","Redwood XT(RV830)","40","672","104","PCIe 2.1 x16","1024","775","900","400(80×5):20:8","6.2","15.5","57.6","GDDR5","128","620","-","11.0","4.0","1.0","69","UVD2, PowerPlay, Eyefinity"
+"FirePro 3D V5700","August 8, 2008","RV730","55","Unknown","Unknown","PCIe 2.0 x16","512","700","900","320(64×5):32:8","5.6","22.4","28.8","GDDR3","128","448","-","10.1","3.3","-","58","UVD2, PowerPlay"
+"FirePro 3D V5800","April 26, 2010","Juniper XT(RV840)","40","Unknown","Unknown","PCIe 2.1 x16","1024","700","1000","800(160×5):40:16","11.2","28","64","GDDR5","128","1120","-","11.0","4.0","1.0","74","UVD2, PowerPlay, Eyefinity"
+"FirePro 3D V7750","March 27, 2009","RV730","55","Unknown","Unknown","PCIe 2.0 x16","1024","800","900","320(64×5):32:8","6.4","25.6","28.8","GDDR3","128","512","-","10.1","3.3","-","76","UVD2, PowerPlay"
+"FirePro 3D V7800","April 26, 2010","Cypress Pro(RV870)","40","Unknown","Unknown","PCIe 2.1 x16","2048","700","1000","1440(288×5):72:32","22.4","50.4","128","GDDR5","256","2016","403.2","11.0","4.0","1.0","138","UVD2, PowerPlay, Eyefinity"
+"FirePro 3D V8700","September 11, 2008","RV770 XT","55","Unknown","Unknown","PCIe 2.1 x16","1024","750","850","800(160×5):40:16","12","30","108.8","GDDR5","256","1200","240","10.1","3.3","-","151","UVD2, PowerPlay"
+"FirePro 3D V8750","July 28, 2009","RV770 XT","55","Unknown","Unknown","PCIe 2.1 x16","2048","750","900","800(160×5):40:16","12","30","115.2","GDDR5","256","1200","240","10.1","3.3","-","154","UVD2, PowerPlay"
+"FirePro 3D V8800","April 7, 2010","Cypress XT(RV870)","40","Unknown","Unknown","PCIe 2.1 x16","2048","825","1150","1600(320×5):80:32","26.4","66","147.2","GDDR5","256","2640","528","11.0","4.0","1.0","208","UVD2, PowerPlay, Eyefinity"
+"FirePro 3D V9800","September 9, 2010","Cypress XT(RV870)","40","Unknown","Unknown","PCIe 2.1 x16","4096","850","1150","1600(320×5):80:32","27.2","68","147.2","GDDR5","256","2720","544","11.0","4.0","1.0","225","UVD2, PowerPlay, Eyefinity"

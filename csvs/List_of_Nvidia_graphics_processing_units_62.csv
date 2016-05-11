@@ -1,0 +1,13 @@
+"Model","Code name","Fab (nm)","Bus interface","Memory (MB)","Core clock (MHz)","Shader clock (MHz)","Memory clock (MHz)","Core config","Fillrate","Fillrate","Memory","Memory","Memory","Processing Power 
+ GFLOPS","API support (version)","API support (version)","TDP (watts)","Notes"
+"Model","Code name","Fab (nm)","Bus interface","Memory (MB)","Core clock (MHz)","Shader clock (MHz)","Memory clock (MHz)","Core config","Pixel (GP/s)","Texture (GT/s)","Bandwidth (GB/s)","Bus type","Bus width (bit)","Single precision","DirectX","OpenGL","TDP (watts)","Notes"
+"Quadro NVS 110M","G72M","90","PCIe 1.0 x16","up to 512","300","300","600","3:4:4:2","0.6","1.2","4.8","DDR","64","","9.0c","2.1","10",""
+"Quadro NVS 120M","G72GLM","90","PCIe 1.0 x16","up to 512","450","450","700","3:4:4:2","0.9","1.8","5.6","DDR2","64","","9.0c","2.1","10",""
+"Quadro NVS 130M","G86M","80","PCIe 2.0 x16","up to 256","400?","800?","700","8:4:4","1.6?","1.6?","6.4?","DDR2","64","19.2","10.0","3.3","10",""
+"Quadro NVS 135M","G86M","80","PCIe 2.0 x16","up to 256","400","800","1188","16:8:4","1.6","3.2","9.504","GDDR3","64","38.4","10.0","3.3","10",""
+"Quadro NVS 140M","G86M","80","PCIe 2.0 x16","up to 512","400","800","1200","16:8:4","1.6","3.2","9.6","GDDR3","64","38.4","10.0","3.3","10",""
+"Quadro NVS 150M","G98M","65","PCIe 2.0 x16","up to 256","530","1300","1400","8:4:4","2.12","2.12","11.2","GDDR3","64","31.2","10.0","3.3","10",""
+"Quadro NVS 160M","G98M","65","PCIe 2.0 x16","256","580","1450","1400","8:8:4","2.12","4.24","11.2","GDDR3","64","34.8","10.0","3.3","12",""
+"Quadro NVS 300M","G72GLM","90","PCIe 1.0 x16","up to 512","450","450","1000","3:4:4:2","0.9","1.8","8","DDR2","64","","9.0c","2.1","16",""
+"Quadro NVS 320M","G84M","65","PCIe 2.0 x16","up to 512","575","1150","1400","32:16:8","4.6","9.2","22.4","GDDR3","128","110.4","10.0","3.3","20",""
+"Quadro NVS 510M","G72GLM","90","PCIe 1.0 x16","up to 1024","500","500","1200","8:24:24:16","8","12","38.4","GDDR3","256","","9.0c","2.1","45?","based on Go 7900 GTX"

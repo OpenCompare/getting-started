@@ -1,0 +1,13 @@
+"VC-1","H.264",""
+"Bitstream formats","single bit stream","NAL and byte stream"
+"Bitstream format","In advanced profile, each Bitstream Data Unit has its own header.
+Simple and Main profile provide neither sequence nor entry point headers.","SPS (sequence parameter set),
+ PPS (picture parameters set),
+ slice header, macroblock"
+"Deblocking filter","In-loop filter and overlap transform","In-loop only"
+"CABAC","No","Only supported in Main and higher profiles"
+"Variable transform size","Yes","Only in High profile and above"
+"Slice","Contiguous (integer number of macroblock rows only)","Contiguous or non-contiguous"
+"Sub-pixel interpolation methods","bicubic, bilinear","6-tap filter for half pixels; averaging for quarter pixels"
+"Variable Length Coding","Yes","Yes"
+"B frame used for predicting other pictures","Yes","Yes"

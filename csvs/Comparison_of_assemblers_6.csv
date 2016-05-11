@@ -1,0 +1,31 @@
+"Assembler","License","Instruction set","Host platform"
+"ALM (Assembly Language for Multics)","MIT License","GE-645
+Honeywell 6180","GE-645
+Honeywell 6180"
+"Babbage","Proprietary","GEC 4000 series","GEC 4000 series"
+"COMPASS","Proprietary","CDC mainframe","CDC mainframe"
+"MACRO-10","Free","PDP-10","PDP-10"
+"MACRO-11","Unknown","PDP-11","PDP-11"
+"MACRO-32","Unknown","VAX","VAX"
+"PASMO","GPL","Zilog Z80","numerous"
+"vasm","Free","Zilog Z80, Motorola 6800 family","various"
+"MRS","GPL","Zilog Z80, 8080","ZX Spectrum, PMD-85"
+"ASEM-51","Free","8051","Embedded Systems"
+"GPASM","GPL","PIC microcontroller","many"
+"ID3E","Free for academic use","SC123","SC123 emulator"
+"MIPS","Free","MIPS architecture","MIPS architecture"
+"SOAP
+(Symbolic Optimal Assembly Program)","Proprietary","IBM 650","IBM 650"
+"MPW IIgs Assembler","Proprietary","WD 65C816","Apple IIgs"
+"MetaSymbol","Free","SDS/XDS Sigma systems","SDS/XDS Sigma systems"
+"Autocoder","Free","IBM 705, 14xx, 1410, 7010, 7070, 7072, 7074, 7080","various"
+"FAP
+(Fortran Assembly Program)","Free","IBM 709, 704x, 709x","various"
+"MAP
+(Macro Assembly Program)","Free","IBM 709, 704x, 709x","various"
+"Symbolic Programming System (SPS)","Free","IBM 14xx, 1620, 1710","IBM 1401, 1440, 1460, 1620, 1710"
+"ASMB, ASBL, NSBL - Numeric op codes, 
+used for 1900 Operating System Executive","Proprietary","ICL 1900","ICL 1900"
+"GINerator mnemonic opcodes , 
+used for GEORGE_(operating_system)","Proprietary","ICL 1900","ICL 1900"
+"","Proprietary","ICL 1900","ICL 1900"

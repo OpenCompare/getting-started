@@ -1,0 +1,5 @@
+"Peripheral Support","Peripheral Support","Peripheral Support","Peripheral Support","Peripheral Support","Peripheral Support","Peripheral Support","Peripheral Support","Peripheral Support","Peripheral Support"
+"Feature","iOS","Android","Firefox OS","Windows Phone","BlackBerry 10","Mer","Tizen","Sailfish OS","Ubuntu Touch"
+"Bluetooth keyboard","Yes","2.3+; previous versions via 3rd party software","?","No","Yes","?","No","Yes","?"
+"USB keyboard","With Camera Connection Kit","3.1+","?","No","Yes","?","No","?","?"
+"Interchangeable external memory cards","Only for photo/video import with an optional accessory","Yes","Yes","8+","Yes","Yes","Yes","Yes","?"

@@ -1,0 +1,15 @@
+"Codename","Model","Year","Fabrication process (nm)","SATA Ports","USB Ports","Audio","IDE Channels (2 Devices/Channel)","Notes"
+"IXP200","Radeon 320(M)/330/34x(M)/350M/360 IGP","2002","","0","6 USB2","AC'97","2 ATA100","A-Link, 3Com 10/100 Ethernet"
+"IXP250","Radeon 320(M)/330/34x(M)/350M/360 IGP","2002","","0","6 USB2","AC'97","2 ATA100","A-Link, 3Com 10/100 Ethernet, DMI, MBA, ASF, WOL"
+"SB300C","","2003","","1 (SATA 150Mbit/s)","6","AC'97","2 (ATA133)","10/100 Ethernet, APM"
+"IXP380/SB380","","2003","","1 (SATA 150Mbit/s)","6 (USB 2.0)","AC'97","2 (ATA 133)","10/100 Ethernet, APM, 
+8-bit HyperTransport links"
+"IXP400/SB400","Radeon Xpress 200
+Radeon Xpress 1150","2004","","4","8","HD","2",""
+"IXP450/SB450","Radeon Xpress 200
+Radeon Xpress 1150","2004","","4","8","HD","2 (UDMA 100/133)","RAID 0 and 1"
+"IXP460/SB460","Radeon Xpress 1600
+Radeon Xpress 1150","2004","","4","8","HD","1",""
+"SB600","AMD 480/570/580 
+CrossFire Chipset","2006","130","4","10","HD","1 (ATA 133)","RAID 0, 1, 10
+eSATA, ASF 2.0"

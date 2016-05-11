@@ -1,0 +1,7 @@
+"Kernel Name","NFS","AFS","CIFS","Coda","9P","Ceph"
+"DragonFly BSD kernel","Yes","No","Yes","No","No","No"
+"FreeBSD kernel","Yes","Yes","Yes","Yes","No","No"
+"Linux kernel","Yes","Yes","Yes","Yes","Yes","Yes"
+"Solaris kernel","Yes","Yes","Yes","No","No","No"
+"Windows NT kernel","Yes","Yes","Yes","No","No","No"
+"XNU","Yes","Yes","Yes","No","No","No"

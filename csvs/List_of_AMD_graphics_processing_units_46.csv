@@ -1,0 +1,8 @@
+"Model","Launch","Code name","Fab (nm)","Bus interface","Memory (MB)","Clock rate","Clock rate","Config core","Fillrate","Fillrate","Memory","Memory","Memory","Processing Power
+GFLOPs","Processing Power
+GFLOPs","API compliance (version)","API compliance (version)","API compliance (version)","TDP watts","Notes"
+"Model","Launch","Code name","Fab (nm)","Bus interface","Memory (MB)","Core (MHz)","Memory (MHz)","Config core","Texture (GT/s)","Bandwidth (GB/s)","Bus type","Bus width (bit)","Single Precision","Double Precision","DirectX","OpenGL","OpenCL","","TDP watts","Notes"
+"FirePro V3900","February 7, 2012","Turks","40","PCIe 2.1 x16","1024","650","900","480(96×5):24:8","5.2","15.6","28.8","GDDR3","128","624","-","11.0","4.0","1.0","50","HD3D, UVD3, DP 1.2, PowerPlay, Eyefinity"
+"FirePro V4900","November 1, 2011","Turks","40","PCIe 2.1 x16","1024","800","1000","480(96×5):24:8","6.4","19.2","64","GDDR5","128","768","-","11.0","4.0","1.0","<75 Max","HD3D, UVD3, DP 1.2, PowerPlay, Eyefinity"
+"FirePro V5900","May 24, 2011","Cayman LE GL","40","PCIe 2.1 x16","2048","600","500","512(128×4):32:32","19.2","19.2","64","GDDR5","256","610","154","11.0","4.0","1.0","<75 Max","HD3D, UVD3, DP 1.2, PowerPlay, Eyefinity"
+"FirePro V7900","May 24, 2011","Cayman Pro GL","40","PCIe 2.1 x16","2048","725","1250","1280(320×4):80:32","23.2","58","160","GDDR5","256","1860","464","11.0","4.0","1.0","<150 Max","HD3D, UVD3, DP 1.2, PowerPlay, Eyefinity"

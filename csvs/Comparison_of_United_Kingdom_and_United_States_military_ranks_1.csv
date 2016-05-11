@@ -1,0 +1,53 @@
+"Products","NATO Rank code","US Army","USAF","USMC","USN and USCG","British Army","Royal Marines","Royal Navy","RAF",""
+"Products","NATO Rank code","Sergeant Major of the Army22","Chief Master Sergeant of the Air Force (CMSAF) 22","Sergeant Major of the Marine Corps 22","Sergeant Major of the Marine Corps 22","Master Chief Petty Officer of the Navy (MCPON)22
+ or Master Chief Petty Officer of the Coast Guard (MCPOCG) 22","Royal Marines","Warrant Officer of the Naval Service (WONS) 22","Chief of the Air Staff's Warrant Officer (CASWO) 22",""
+"Products","OR-9","Command Sergeant Major (CSM)","Command Chief Master Sergeant (CMSgt)","Sergeant Major (SgtMaj)18","Master Gunnery Sergeant (MGySgt)18","Fleet or Force Master Chief Petty Officer (FMCPO)","Warrant Officer Class 11
+ (WO1) (Regimental Sergeant Major etc.11
+)","Corps Regimental Sergeant Major22
+ (WO1) (Corps RSM)","Warrant Officer Class 11
+ (WO1) (other appointments)","Station Warrant Officer1
+ (SWO)"
+"P1","OR-9","Command Sergeant Major (CSM)","Command Chief Master Sergeant (CMSgt)","Sergeant Major (SgtMaj)18","Master Gunnery Sergeant (MGySgt)18","Fleet or Force Master Chief Petty Officer (FMCPO)","Warrant Officer Class 11
+ (WO1) (Regimental Sergeant Major etc.11
+)","Corps Regimental Sergeant Major22
+ (WO1) (Corps RSM)","Warrant Officer Class 11
+ (WO1) (other appointments)","Station Warrant Officer1
+ (SWO)"
+"P2","OR-9","Command Sergeant Major (CSM)","Command Chief Master Sergeant (CMSgt)","Sergeant Major (SgtMaj)18","Master Gunnery Sergeant (MGySgt)18","Command Master Chief Petty Officer (CMCPO)","Warrant Officer Class 11
+ (WO1) (Regimental Sergeant Major etc.11
+)","Corps Regimental Sergeant Major22
+ (WO1) (Corps RSM)","Warrant Officer Class 11
+ (WO1) (other appointments)","Station Warrant Officer1
+ (SWO)"
+"P3","OR-9","Sergeant Major (SGM)","Chief Master Sergeant (CMSgt)","Sergeant Major (SgtMaj)18","Master Gunnery Sergeant (MGySgt)18","Master Chief Petty Officer (MCPO)","Warrant Officer Class 11
+ (WO1) (other appointments)","Warrant Officer Class 11
+ (WO1) (other appointments)","Warrant Officer Class 11
+ (WO1) (other appointments)","Warrant Officer1
+ (WO) / Master Aircrew (MAcr)"
+"P4","OR-8","First Sergeant (1SG)18","Senior Master Sergeant (SMSgt)","First Sergeant (1st Sgt)18","Master Sergeant 18","Senior Chief Petty Officer (SCPO)","Warrant Officer Class 21
+ (WO2) (Company Sergeant Major etc.12
+)","Warrant Officer Class 21
+ (WO2)3","Warrant Officer Class 21
+ (WO2)3","No OR-8 equivalent"
+"P5","OR-8","Master Sergeant (MSG)18","Senior Master Sergeant (SMSgt)","First Sergeant (1st Sgt)18","Master Sergeant 18","Senior Chief Petty Officer (SCPO)","Warrant Officer Class 21
+ (WO2) (Company Sergeant Major etc.12
+)","Warrant Officer Class 21
+ (WO2)3","Warrant Officer Class 21
+ (WO2)3","No OR-8 equivalent"
+"P6","OR-7","Sergeant First Class (SFC)","Master Sergeant (MSgt)","Gunnery Sergeant (GySgt)","Gunnery Sergeant (GySgt)","Chief Petty Officer (CPO)","Colour Sergeant (CSgt)/Staff Sergeant (SSgt)","Colour Sergeant (CSgt)","Chief Petty Officer (CPO)","Flight Sergeant2
+ (FS)"
+"P7","OR-7","Sergeant First Class (SFC)","Master Sergeant (MSgt)","Gunnery Sergeant (GySgt)","Gunnery Sergeant (GySgt)","Chief Petty Officer (CPO)","Colour Sergeant (CSgt)/Staff Sergeant (SSgt)","Colour Sergeant (CSgt)","Chief Petty Officer (CPO)","Chief Technician 7
+ (Chf Tech or CT)"
+"P8","OR-6","Staff Sergeant (SSG)","Technical Sergeant (TSgt)","Staff Sergeant (SSgt)","Staff Sergeant (SSgt)","Petty Officer 1st Class (PO1)","Sergeant (Sgt)","Sergeant (Sgt)","Petty Officer (PO)","Sergeant (Sgt)"
+"P9","OR-5 4","Sergeant (SGT)","Staff Sergeant (SSgt)","Sergeant (Sgt)","Sergeant (Sgt)","Petty Officer 2nd Class (PO2)","Sergeant (Sgt)","Sergeant (Sgt)","Petty Officer (PO)","Sergeant (Sgt)"
+"P10","OR-4","Corporal (CPL)","Senior Airman (SrA)","Corporal (Cpl)","Corporal (Cpl)","Petty Officer 3rd Class (PO3)","Corporal (Cpl)","Corporal (Cpl)","Leading Hand (LH)","Corporal (Cpl)"
+"P11","OR-4","Specialist (SPC)","Senior Airman (SrA)","Corporal (Cpl)","Corporal (Cpl)","Petty Officer 3rd Class (PO3)","Corporal (Cpl)","Corporal (Cpl)","Leading Hand (LH)","Corporal (Cpl)"
+"P12","OR-3","Private First Class (PFC)","Airman First Class (A1C)","Lance Corporal (LCpl)","Lance Corporal (LCpl)","Seaman (SN)19","Lance Corporal (LCpl)","Lance Corporal (LCpl)","Able Seaman 1(AB1)6","Lance Corporal (LCpl) (RAF Regt only)
+Junior Technician  (Jnr Tech or JT) or Senior Aircraftman (Technician) (SAC(T))7"
+"P13","OR-2","Private (PV2)","Airman (Amn)","Private First Class (PFC)","Private First Class (PFC)","Seaman Apprentice (SA)20","Private (Pte) etc.17
+ (Classes 1 to 3) etc.","Marine6
+ (Mne) / Musician (Mus) / Bugler","Able Seaman 2 (AB2)6","Senior Aircraftman (SAC)
+Leading Aircraftman (LAC)"
+"P14","OR-1","Private (PV1)","Airman Basic (AB)","Private (Pvt)","Private (Pvt)","Seaman Recruit (SR)21","Private (Pte) etc.17
+ (Class 4) / Junior","Marine6
+ (Mne) / Musician (Mus) / Bugler","New Entry","Aircraftman (AC)"

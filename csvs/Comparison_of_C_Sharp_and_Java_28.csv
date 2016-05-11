@@ -1,0 +1,17 @@
+"Products","Java","C#"
+"P2","",""
+"P1","",""
+"P3","Notes for the Java version:
+ The infinite Fibonacci sequence is represented by the  class (as opposed to a method). 
+ The  class implements the  interface, which allows client code to request the Fibonacci numbers one at a time.
+ The class implements the  method as always returning  since the Fibonacci sequence is infinite
+ The  method calculates and returns the next number.
+ The  interface formally also allows the client to request removal of numbers. As the Fibonacci sequence is a mathematically defined sequence, the  method is implemented as unsupported.
+ The  annotation is necessary to avoid compiler warnings about possible unintentional overriding of base class methods.
+ Because  is a primitive type and  is a generic interface, the Java compiler generates a boxing conversion for each number.","Notes for the C# version:
+ The infinite Fibonacci sequence is represented by the static  method (as opposed to a class).
+ The method is defined as returning instances of the interface , which allows client code to repeatedly request the next number of a sequence
+ The  keyword converts the method into a generator method. 
+ The method body calculates and returns Fibonacci numbers.
+ The  statement returns the next number of the sequence and creates a continuation so that subsequent invocations of the  interface's  method will continue execution from the following statement with all local variables intact.
+ The implementation uses two  statements to alternate calculations instead of using a temporary tmp variable."

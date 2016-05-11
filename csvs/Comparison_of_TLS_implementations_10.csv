@@ -1,0 +1,55 @@
+"Implementation","secp160k1
+(15)","secp160r1
+(16)","secp160r2
+(17)","secp192k1
+(18)","secp192r1
+prime192v1
+NIST P-192
+(19)","secp224k1
+(20)","secp224r1
+NIST P-244
+(21)","secp256k1
+(22)","secp256r1
+prime256v1
+NIST P-256
+(23)","secp384r1
+NIST P-384
+(24)","secp521r1
+NIST P-521
+(25)","arbitrary prime curves
+(0xFF01)","arbitrary char2 curves
+(0xFF02)"
+"Botan","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No"
+"GnuTLS","No","No","No","No","Yes","No","Yes","No","Yes","Yes","Yes","No","No"
+"JSSE","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No"
+"LibreSSL","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No"
+"MatrixSSL","No","No","No","No","Yes","No","Yes","No","Yes","Yes","Yes","No","No"
+"mbed TLS","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No"
+"NSS","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No"
+"OpenSSL","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","No"
+"RSA BSAFE","No","No","No","No","Yes","No","Yes","No","Yes","Yes","Yes","No","No"
+"SChannel Vista/2008, 7/2008R2, 8/2012, 8.1/2012R2, 10 Technical Preview","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No"
+"Secure Transport","No","No","No","No","Yes","No","No","No","Yes","No","Yes","No","No"
+"SharkSSL","No","No","No","No","Yes","No","Yes","No","Yes","Yes","Yes","No","No"
+"wolfSSL","No","Yes","No","No","Yes","No","Yes","No","Yes","Yes","Yes","No","No"
+"Implementation","secp160k1
+(15)","secp160r1
+(16)","secp160r2
+(17)","secp192k1
+(18)","secp192r1
+prime192v1
+NIST P-192
+(19)","secp224k1
+(20)","secp224r1
+NIST P-224
+(21)","secp256k1
+(22)","secp256r1
+prime256v1
+NIST P-256
+(23)","secp384r1
+NIST P-384
+(24)","secp521r1
+NIST P-521
+(25)","arbitrary prime curves
+(0xFF01)","arbitrary char2 curves
+(0xFF02)"

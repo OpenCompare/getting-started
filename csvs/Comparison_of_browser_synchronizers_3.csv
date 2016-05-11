@@ -1,0 +1,6 @@
+"Client","Bookmark","Favicon","Browsing history","Form history","Web feed subscriptions","Search engine plugins","Passwords","Dictionary","Other"
+"BookmarkSync","Yes","No","No","No","No","No","No","No","No"
+"Opera Link","Yes","Yes","Yes","No","No","Yes","Yes in <= 12.16","No","Personal bar, speed dial, notes, typed browser history, content blocker list"
+"Firefox Sync","Yes","No but planned to be added in future","Last 60 days","Yes","Yes","No","Yes","No","open tabs, tab groups, personas, preferences, add-ons (up to 25MB by default)"
+"Xmarks","Yes","Yes","Yes (Firefox)","No","Yes","Yes","Yes (deprecated)","No","open tabs"
+"","","","","","","","","",""

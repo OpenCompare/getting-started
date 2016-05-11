@@ -1,0 +1,32 @@
+"Version","Shell","Visual styles","Internet Explorer","Web server","Windows Media Player","Command-line interpreter"
+"Windows 1.0","MS-DOS executive","(Unnamed)","N/A","N/A","N/A","N/A"
+"Windows 2.0","MS-DOS executive","(Unnamed)","N/A","N/A","N/A","N/A"
+"Windows 3.0","Program Manager","(Unnamed)","N/A","N/A","3.0 (Multimedia Extension edition only)","N/A"
+"Windows 3.1x","Program Manager","(Unnamed)","N/A","N/A","3.1","N/A"
+"Windows 95","Windows shell","Classic","2.0 in OSR1
+3.0 in OSR2 and OSR2.1
+4.0 in OSR2.5","N/A","4.0","COMMAND.COM"
+"Windows NT 4.0","Windows shell","Classic","2.0","PWS","4.0","COMMAND.COM, CMD.EXE"
+"Windows 98","Windows shell","Classic","4.01","PWS","4.0","COMMAND.COM"
+"Windows 98 SE","Windows shell","Classic","5.0","PWS","4.0","COMMAND.COM"
+"Windows 2000","Windows shell","Classic","5.01","IIS 5.0","5.0 and 6.4 (side by side)","COMMAND.COM, CMD.EXE"
+"Windows Me","Windows shell","Classic","5.5","N/A","6.4 and 7.0 (side by side)","COMMAND.COM"
+"Windows XP","Windows shell","Luna (default), Classic","6.0","IIS 5.1","5.1, 6.4 and 8 (in RTM)
+5.1, 6.4 and 9 (in SP1)","COMMAND.COM, CMD.EXE,
+PowerShell (optional)"
+"Windows Server 2003","Windows shell","Classic (default), Luna","6.0","IIS 6.0","9 (10 in SP1)","COMMAND.COM, CMD.EXE,
+PowerShell (optional)"
+"Windows Vista","Windows shell","Aero (default), Classic","7.0","IIS 7","11","COMMAND.COM, CMD.EXE,
+PowerShell (optional)"
+"Windows Server 2008","Windows shell, Server Core","Classic (default), Aero (via ""Desktop Experience"")","7.0","IIS 7","11 (enabled by installing ""Desktop Experience"")","COMMAND.COM, CMD.EXE,
+PowerShell (optional)"
+"Windows 7","Windows shell","Aero (default), Classic","8.0","IIS 7.5","12","COMMAND.COM, CMD.EXE,
+PowerShell v2.0"
+"Windows Server 2008 R2","Windows shell, Server Core","Classic (default), Aero (via ""Desktop Experience"")","8.0","IIS 7.5","12 (via ""Desktop Experience"")","CMD.EXE,
+PowerShell v2.0"
+"Windows Server 2012","Windows shell, Server Core","Metro-inspired","10.0","IIS 8","12 (via ""Desktop Experience"")","CMD.EXE,
+PowerShell v3.0"
+"Windows 8","Windows shell","Metro-inspired","10.0","IIS 8","12","COMMAND.COM, CMD.EXE,
+PowerShell v3.0"
+"Windows Server 2012 R2","Windows shell, Windows server core","Metro-inspired","11.0","IIS 8.5","12 (via ""Desktop Experience"")","CMD.EXE,
+PowerShell v4.0"

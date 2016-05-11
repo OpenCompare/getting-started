@@ -1,0 +1,40 @@
+"Products","Model","Codename","UMI","SATA","USB
+3.0+2.0+1.1","RAID","NIC","33 MHz PCI","SD","VGA DAC","TDP (W)","Features / notes","Part number"
+"P19","","","","","","","","","","","","",""
+"P1","A55T","Hudson-M2T","×2 Gen. 1","1× 3 Gbit/s
+AHCI 1.1","0 + 8 + 0","No","No","No","SDIO","No","","",""
+"P2","A50M","Hudson-M1","×4 Gen. 1","6× 6 Gbit/s
+AHCI 1.2","0 + 14 + 2","No","5.9","~920 mW idle","100-CG2198","","","",""
+"P3","A60M","Hudson-M2","×4 Gen. 1 +DP","6× 6 Gbit/s
+AHCI 1.2","0 + 14 + 2","0,1","10/100/1000","Yes","Yes","4.7","","",""
+"P4","A68M","Hudson-M3L","×4 Gen. 1 +DP","2× 6 Gbit/s
+AHCI 1.2","2 + 8 + 0","0,1","10/100/1000","No","~750 mW idle","4.7","","",""
+"P5","A70M","Hudson-M3","×4 Gen. 1 +DP","6× 6 Gbit/s
+AHCI 1.2","4 + 10 + 2","0,1","10/100/1000","Yes","First native
+USB 3.0 controller","4.7","100-CG2389","",""
+"P6","A76M","Bolton-M3","","","","","","","","","","",""
+"P7","A45","Hudson-D1","×4 Gen. 2","6× 3 Gbit/s
+AHCI 1.1","0 + 14 + 2","No","No","Up to 4 slots","No","No","","",""
+"P8","A55","Hudson-D2","×4 Gen. 2 +DP","6× 3 Gbit/s
+AHCI 1.1","0 + 14 + 2","0,1,10","10/100/1000","Up to 3 slots","Yes","Yes","7.6","",""
+"P9","A58","Bolton-D2","×4 Gen 2","6× 3 Gbit/s
+AHCI 1.3","0 + 14 + 2","0,1,10","","Up to 3 slots","7.6","","218-0844023","",""
+"P10","A68H","Bolton-D2H","×4 Gen 2","4× 6 Gbit/s
+AHCI 1.3","2 + 10 + 2","0,1,10","","Up to 3 slots","","xHCI 1.0","218-0844029-00","",""
+"P11","A75","Hudson-D3","×4 Gen. 2 +DP","6× 6 Gbit/s
+AHCI 1.2","4 + 10 + 2","0,1,10","10/100/1000","Up to 3 slots","7.8","First native
+USB 3.0 controller","100-CG2386","",""
+"P12","A78","Bolton-D3","×4 Gen. 2 +DP","6× 6 Gbit/s
+AHCI 1.3","4 + 10 + 2","0,1,10","","Up to 3 slots","7.8","xHCI 1.0","218-0844014","",""
+"P13","A85X","Hudson-D4","×4 Gen. 2 +DP","8× 6 Gbit/s
+AHCI 1.2","4 + 10 + 2","0,1,5,10","10/100/1000","Up to 3 slots","7.8","USB 3.0 (xHCI 0.96)","","",""
+"P14","A88X","Bolton-D4","×4 Gen 2","8× 6 Gbit/s
+AHCI 1.3","4 + 10 + 2","0,1,5,10","","Up to 3 slots","7.8","USB 3.0 (xHCI 1.0)","218-0844016","",""
+"P15","A55E","Hudson-E1","×4 Gen. 2","6× 6 Gbit/s
+AHCI 1.2","0 + 14 + 2","0,1,5,10","10/100/1000","Up to 4 slots","No","No","5.9","","100-CG2293"
+"P16","A77E","Bolton-E4","1-, 2-, or 4-lane
+2 or 5 GB/s","6× 6 Gbit/s
+AHCI 1.3","4 + 10 + 2","","","Up to 3 slots","Yes","Yes","","4-lane PCIe 2.0","218-0844020-00"
+"P17","Model","Codename","UMI","SATA","USB
+3.0+2.0+1.1","RAID","NIC","33 MHz PCI","SD","VGA DAC","TDP (W)","Features / notes","Part number"
+"P18","","","","","","","","","","","","",""

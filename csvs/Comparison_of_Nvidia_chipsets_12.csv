@@ -1,0 +1,26 @@
+"Model","Code Name","Release Date","Processors Supported","Fabrication
+process (nm)","FSB/HT
+Frequency (MHz)","PCI-Express","SLI","PCI","USB","PATA","SATA","LAN","Sound","Features","Notes"
+"nForce 710a","MCP78","2008","Phenom, Athlon 64 X2, Athlon 64, Sempron 64
+Socket AM2+","","HT3.0 2.6 GHz","2.0
+20 lanes","No","5 Ports","12 Ports Rev 2.0","1 Ports UDMA 133","6 Ports 3.0Gbit/s","1000 Mbit/s","HDA","",""
+"nForce 720a","MCP78","2008","Phenom, Athlon 64 X2, Athlon 64, Sempron 64
+Socket AM2+","","HT3.0 2.6 GHz","2.0
+20 lanes","No","5 Ports","12 Ports Rev 2.0","1 Ports UDMA 133","6 Ports 3.0Gbit/s","1000 Mbit/s","HDA","Onboard GeForce 8100",""
+"nForce 720d","MCP78","2008","Phenom, Athlon 64 X2, Athlon 64, Sempron 64
+Socket AM2+","","HT3.0 2.6 GHz","2.0
+20 lanes","No","5 Ports","12 Ports Rev 2.0","1 Ports UDMA 133","6 Ports 3.0Gbit/s","1000 Mbit/s","HDA","","Rebranded nForce 710a"
+"nForce 730a","MCP72","May 2008","Phenom, Athlon 64 X2, Athlon 64, Sempron 64
+Socket AM2+","","HT3.0 2.6 GHz","2.0
+20 lanes","No","5 Ports","12 Ports Rev 2.0","1 Ports UDMA 133","6 Ports 3.0Gbit/s","1000 Mbit/s","HDA","Onboard GeForce 8200","Hybrid with IGP"
+"nForce 740a SLI","MCP72","May 2008","Phenom, Athlon 64 X2, Athlon 64, Sempron 64
+Socket AM2+","","HT3.0 2.6 GHz","2.0
+20 lanes","x8+x8","5 Ports","12 Ports Rev 2.0","1 Ports UDMA 133","6 Ports 3.0Gbit/s","1000 Mbit/s","HDA","",""
+"nForce 750a SLI","MCP72","May 2008","Phenom, Athlon 64 X2, Athlon 64, Sempron 64
+Socket AM2+","","HT3.0 2.6 GHz","2.0
+18 lanes","x8+x8","5 Ports","12 Ports Rev 2.0","1 Ports UDMA 133","6 Ports 3.0Gbit/s","1000 Mbit/s","HDA","Onboard GeForce 8200","Hybrid with IGP"
+"nForce 780a SLI","MCP72 + nForce200","May 2008","Phenom, Athlon 64 X2, Athlon 64, Sempron 64
+Socket AM2+","","HT3.0 2.6 GHz","2.0
+51 lanes","x16+x16
+x16+x16+x8
+x8+x8+x8","5 Ports","12 Ports Rev 2.0","1 Ports UDMA 133","6 Ports 3.0Gbit/s","1000 Mbit/s","HDA","Onboard GeForce 8200","Hybrid with IGP"

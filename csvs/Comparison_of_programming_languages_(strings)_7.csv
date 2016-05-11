@@ -1,0 +1,4 @@
+"Syntax","Variant name","Language(s)"
+"","Triple quoting","Python"
+"","Hollerith notation","Fortran 66"
+"(indented with whitespace)","Indented with whitespace and newlines","YAML"

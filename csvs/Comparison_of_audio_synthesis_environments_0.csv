@@ -1,0 +1,8 @@
+"Name","Creator","Primary Purpose(s)","First release date","Most recent update","Most recent version","Cost","License","Main user interface type","Development status"
+"ChucK","Ge Wang and Perry Cook","Realtime synthesis, live coding, pedagogy, acoustic research, algorithmic composition","2004","2014-12","v1.3.5.0","Free","GPL","Document","Immature"
+"Csound","Barry Vercoe","Realtime performance, sound synthesis, algorithmic composition, acoustic research","1986","2014-07","v6.03","Free","LGPL","Document, graphical","Mature"
+"Impromptu","Andrew Sorensen","Live coding, algorithmic composition, hardware control, realtime synthesis, 2d/3d graphics programming","2006","2010-10","v2.5","Free","Proprietary","Document","Stable"
+"Max/MSP","Miller Puckette","Realtime audio + video synthesis, hardware control","1980s (mid)","2014-12","v7.0.1","Non-free","Proprietary","Graphical","Mature"
+"Pure Data","Miller Puckette","Realtime synthesis, hardware control, acoustic research","1990s","2015-03","v0.46.6","Free","BSD-like","Graphical","Mature"
+"Reaktor","Native Instruments","Realtime synthesis, hardware control, GUI design","1996","2014-09","5.9.2","Non-free","Proprietary","Graphical","Mature"
+"SuperCollider","James McCartney","Realtime synthesis, live coding, algorithmic composition, acoustic research, all-purpose programming language","1996-03","2013-04","v3.6.6","Free","GPL","Document","Mature"

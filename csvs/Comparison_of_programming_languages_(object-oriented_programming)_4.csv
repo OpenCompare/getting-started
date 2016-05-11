@@ -1,0 +1,45 @@
+"","basic/void method","value-returning method"
+"ABAP Objects","",""
+"C++","",""
+"C#","",""
+"D","",""
+"Java","",""
+"Eiffel","",""
+"Objective-C","",""
+"Swift","",""
+"Python","",""
+"Visual Basic .NET","",""
+"Xojo","",""
+"PHP","",""
+"Perl","",""
+"Perl 6","",""
+"Ruby","",""
+"Windows PowerShell","",""
+"OCaml","N/A",""
+"F#","",""
+"JavaScript","",""
+"Javascript (ES6)","",""
+"COBOL","METHOD-ID. foo.
+
+«DATA DIVISION.
+
+LINKAGE SECTION.
+
+parameter declarations»
+
+PROCEDURE DIVISION« USING parameters».
+
+END METHOD foo.","METHOD-ID. foo.
+
+DATA DIVISION.
+
+LINKAGE SECTION.
+
+«parameter declarations»
+
+result-var declaration
+
+PROCEDURE DIVISION« USING parameters» RETURNING result-var.
+
+END METHOD foo."
+"Cobra","",""

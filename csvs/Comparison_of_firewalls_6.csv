@@ -1,0 +1,7 @@
+"Can:","NAT (static, dynamic w/o ports, PAT)","IDS (Intrusion Detection System)","VPN (Virtual Private Network)","AV  (Anti-Virus)","Sniffer","Profile selection"
+"IPFire","Yes","Yes (with integrated Snort)","Yes (IPsec and OpenVPN)","Yes (with clamav)","Yes (with tcpdump)","?"
+"OPNsense","Yes","Yes (with Snort)","Yes (OpenVPN, IPsec, L2TP, IKEv2, Tinc, PPTP)","Yes (with clamav)","Yes (tcpdump)","No"
+"Untangle","Yes","Yes","Yes (IPsec and OpenVPN)","Yes (clamav,commtouch (optional) )","Yes (tcpdump)","?"
+"Vyatta","Yes (supports three NAT types)","Yes (integrated Snort)","Yes (IPsec and OpenVPN)","Yes (with clamav,Sophos Antivirus (optional) )","Yes (with wireshark or tcpdump)","?"
+"WinGate","Yes","Yes (with NetPatrol)","Yes (proprietary)","Yes (Kaspersky Labs)","Yes (filtered capturing to pcap format)","No"
+"pfSense","Yes","Yes (with Snort)","Yes (OpenVPN, IPsec, L2TP, IKEv2, Tinc, PPTP)","Yes (with clamav)","Yes (tcpdump)","No"

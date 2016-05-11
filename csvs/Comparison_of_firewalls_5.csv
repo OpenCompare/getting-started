@@ -1,0 +1,7 @@
+"Features:","Modularity: supports third-party modules to extend functionality?","IPS : Intrusion prevention system","Open-Source License?","supports IPv6 ?","Class: Home / Professional","Operating Systems on which it runs?"
+"IPFire","Yes","Yes, with Snort","Yes","Yes (since IPFire 3)","Both","Linux-based appliance distribution."
+"OPNsense","Yes","Yes, with Snort","Yes","Yes","Professional","FreeBSD-based appliance"
+"Untangle","Yes","Yes","Yes","No","Both","Linux (built on Debian)"
+"Vyatta","Yes","Yes","Yes","Yes","Professional","Vyatta OS (built on Debian)"
+"WinGate","Yes","?","No","No","Professional","Windows 2000, Windows XP, Windows 2003, Windows Vista, Windows 2008. 32bit and 64bit."
+"pfSense","Yes","Yes, with Snort","Yes","Yes","Professional","FreeBSD/NanoBSD-based appliance"

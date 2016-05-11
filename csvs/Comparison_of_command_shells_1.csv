@@ -1,0 +1,48 @@
+"","Command
+name
+completion","Path
+completion","Command
+argument
+completion","Wildcard
+completion","Command
+history","Mandatory
+argument
+prompt","Automatic
+suggestions","Syntax
+highlighting","Directory history, stack or similar features","Implicit
+directory
+change","Autocorrection","Integrated
+environment","Snippets","Value
+prompt","Menu/options
+prompt","Progress
+indicator","Interactive
+table","Context
+sensitive
+help","Command
+builder"
+"Bourne shell 1977 version","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No"
+"Bourne shell current version","No","Yes","No","No","Yes","No","No","No","Yes(CDPATH, pushd, popd, dirs), CDPATH since SVr4","No","No","No","No","Yes","No","No","No","No","No"
+"POSIX shell","No","No","No","No","Yes","No","No","No","Yes ()","No","No","No","No","Yes","No","No","No","No","No"
+"bash (v4.0)","Yes","Yes","when defined","Yes","Yes","No","No","No","Yes (, , )","optional","No","No","No","Yes","Yes","No","No","No","No"
+"csh","Yes","Yes","No","No","Yes","No","No","No","Yes (, , )","optional","No","No","No","Yes","No","No","No","No","No"
+"tcsh","Yes","Yes","No","No","Yes","No","No","No","No","optional","experimental","No","No","Yes","No","No","No","No","No"
+"Hamilton C shell","Yes","Yes","No","Yes","Yes","No","No","No","Yes (, , )","No","No","No","No","Yes","No","No","No","No","No"
+"Scsh","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No"
+"ksh (ksh93t+)","Yes (extendable)","Yes (extendable)","No","No","Yes","No","No","No","Yes ( builtin, ,  implemented as functions)","No","No","No","No","Yes","Yes","No","No","No","No"
+"pdksh","Yes","Yes","No","No","Yes","No","No","No","No","No","No","No","No","Yes","Yes","No","No","No","No"
+"zsh","Yes","Yes","when defined","Yes","Yes","No","Yes (via  or user-defined)","No","Yes","optional","Yes","No","No","Yes","Yes","No","No","Yes","No"
+"ash","No","No","No","No","Yes","No","No","No","No","No","No","No","No","Yes","Yes","No","No","No","No"
+"CCP","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"COMMAND.COM","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No (only via external  command, in DR-DOS also via  /  internal commands)","No","No","No","No"
+"OS/2
+CMD.EXE","Yes","Yes","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"Windows
+CMD.EXE","partial","partial","No","No","Yes ()","No","No","No","Yes (, )","No","No","No","No","Yes (via  command)","No","No","No","No","No"
+"4DOS","Yes","Yes","Yes","Yes","Yes","No","No","No","(via popup, extended directory searches, , , , , , ,  commands and  function)","Yes","No","Yes","No","Yes (via ,  and  commands)","Yes (via  function, and indirectly via a combination of , ,  commands)","No","No","Yes","No (except for  command for INI file directives)"
+"4OS2","?","?","?","?","Yes","No","No","No","Yes","Yes","No","?","No","?","?","No","No","Yes","No"
+"TCC (formerly 4NT)","Yes","Yes","Yes","Yes","Yes","No","No","Yes","(via popup, extended directory searches, , , , , , ,  commands and  function)","Yes","No","Yes","No","Yes (via , ,  and  commands)","Yes (via  function, and indirectly via a combination of , ,  commands)","No","No","Yes","No"
+"Windows PowerShell","Yes","Yes","Yes","Yes","Yes ()","Yes","Yes","Yes","Yes; multiple stacks; multiple location types","No","No","Yes","Yes","Yes","Yes","Yes","popup window","Yes","popup window"
+"rc","Yes","Yes","No","No","Yes","No","No","No","No","No","No","No","No","?","No","No","No","No","No"
+"BeanShell","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"VMS DCL","Minimum uniqueness scheme","No","No","No","Yes","Yes","No","No","No","No","No","No","No","Yes","No","No","No","No","No"
+"fish","Yes","Yes","when defined","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","(via  command)","No","Yes","No","No"

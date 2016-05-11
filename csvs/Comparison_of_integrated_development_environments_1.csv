@@ -1,0 +1,3 @@
+"IDE","License","Windows","Linux","Mac OS X","Other platforms","Debugger","GUI builder","Toolchain","Profiler","Code coverage","Autocomplete","Static code analysis","GUI-based design","Class browser","Latest stable release"
+"Eclipse w/ AonixADT","EPL","Yes","Yes","Yes","FreeBSD, JVM, Solaris","Yes","Yes","No","Unknown","Unknown","Yes","Unknown","No","Yes","December 2009"
+"GNAT Programming Studio","GPL","Yes","Yes","Yes","DragonFly BSD, FreeBSD, NetBSD, OpenBSD, Solaris","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes","June 2014"

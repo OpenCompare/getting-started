@@ -1,0 +1,15 @@
+"Model","Launch","Code name","Fab (nm)","Bus interface","Memory (MB)","Core clock (MHz)","Memory clock (MHz)","Core config","Fillrate","Fillrate","Fillrate","Fillrate","Memory","Memory","Memory"
+"Model","Launch","Code name","Fab (nm)","Bus interface","Memory (MB)","Core clock (MHz)","Memory clock (MHz)","Core config","MOperations/s","MPixels/s","MTextels/s","MVertices/s","Bandwidth (GB/s)","Bus type","Bus width (bit)"
+"GeForce Go 6100 + nForce Go 430","Unknown","C51M","110","HyperTransport","Up to 128 MB system","425","System Memory","2:1:2:1","850","425","850","106.25","System Memory","DDR2","64/128"
+"GeForce Go 6150 + nForce Go 430","Unknown","C51M","110","HyperTransport","Up to 128 MB system","425","System Memory","2:1:2:1","850","425","850","106.25","System Memory","DDR2","64/128"
+"GeForce Go 6200","Unknown","NV44M","110","PCI-E x16","16","300","600","4:3:4:2","1200","600","1200","225","2.4","DDR","32"
+"GeForce Go 6400","Unknown","NV44M","110","PCI-E x16","16","400","700","4:3:4:2","1600","800","1600","250","5.6","DDR","64"
+"GeForce Go 6600","Unknown","NV43M","110","PCI-E x16","128","300","700","8:3:8:4","3000","1500","3000","281.25","11.2","DDR","128"
+"GeForce Go 6800","November 8, 2004","NV41M","130","PCI-E x16","128","300","700
+1100","12:5:12::12","3000","1500","3000","375","22.4
+35.2","DDR, DDR2
+DDR3","256"
+"GeForce Go 6800 Ultra","February 24, 2005","NV41M","130","PCI-E x16","256","450","700
+1100","12:5:12::12","5400","3600","5400","562.5","22.4
+35.2","DDR, DDR2
+DDR3","256"

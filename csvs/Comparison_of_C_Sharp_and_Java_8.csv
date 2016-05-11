@@ -1,0 +1,20 @@
+"keyword","feature, example usage"
+"checked, unchecked","In C#, checked statement blocks or expressions can enable run-time checking for arithmetic overflow."
+"get, set","C# implements properties as part of the language syntax with their optional corresponding get and set accessors, as an alternative for the accessor method used in Java, which is not a language feature but a coding-pattern based on method name conventions."
+"goto","C# supports the goto keyword. This can occasionally be useful, for example for implementing finite state machine or for generated code, but the use of a more structured method of control flow is usually recommended (see criticism of the goto statement). Java does not support the goto statement (but goto is a reserved word). However, Java does support labeled break and continue statements, which in certain situations can be used when a goto statement might otherwise be used."
+"lock","In C#, the lock keyword is a shorthand for synchronizing access to a block of code across threads (using a Monitor), wrapped in a try … finally block."
+"out, ref","C# has support for output and reference parameters. These allow returning multiple output values from a method, or passing values by reference."
+"strictfp","Java uses strictfp to guarantee the results of floating point operations remain the same across platforms."
+"switch","In C#, the switch statement also operates on strings and longs. Fallthrough is allowed for empty statements and possible via 'goto case' for statements containing code. Java's switch statement does not operate on strings (before Java 7) nor long primitive type but falls through for all statements (excluding those with 'break')."
+"synchronized","In Java, the synchronized keyword is a shorthand for synchronizing access to a block of code across threads (using a Monitor), wrapped in a try … finally block."
+"throws","Java requires every method to declare the checked exceptions or superclasses of the checked exceptions that it can throw. Any method can also optionally declare the unchecked exception that it throws. C# has no such syntax."
+"using","In C#, using causes the Dispose method (implemented via the IDisposable interface) of the object declared to be executed after the code block has run or when an exception is thrown within the code block.
+
+
+
+
+
+ 
+
+
+In Java SE 7 a similar construct has been added called try-with-resources :"

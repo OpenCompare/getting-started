@@ -1,0 +1,89 @@
+"Products","Model","Code name","Released","CPU support","Fab (nm)","HT (MHz)","IGP","CrossFire","SLI","TDP (W)","Southbridge","Features / Notes"
+"P1","AMD 870 chipset","RX880","2010","Phenom II,
+Athlon 64,
+Sempron","65","2600 (HT 3.0)","No","Hybrid, x16 + x4","No","","SB850","Single PCIe 2.0 x16"
+"P2","AMD 880G chipset","RS880P","Q4 2010","Phenom II,
+Athlon II,
+Sempron","55","2600 (HT 3.0)","Radeon HD 4250","Hybrid","No","","SB710,
+SB750,
+SB810,
+SB850,
+SB920,
+SB950","DirectX 10.1, UVD2,
+HDMI/HDCP, DisplayPort/DPCP,
+OR single PCIe 2.0 x16
+AM3+ socket support"
+"P3","AMD 880M chipset","RS880M","Q2 2010","Mobile Turion II,
+Mobile Athlon II,
+Mobile Sempron","55","2600 (HT 3.0)","Radeon HD 4200","PowerXpress
+AXIOM/MXM
+module(s)","No","","SB820","DirectX 10.1, UVD2,
+HDMI/HDCP, DisplayPort, DVI, VGA,
+sideport memory,
+OR single PCI-E 2.0 x16
+Mobile Chipset, Tigris platform"
+"P4","AMD 880M chipset","RS880M","Q2 2010","Athlon II Neo,
+Turion II Neo","55","2600 (HT 3.0)","Radeon HD 4225","PowerXpress
+AXIOM/MXM
+module(s)","No","","SB820","DirectX 10.1, UVD2,
+HDMI/HDCP, DisplayPort, DVI, VGA,
+OR Single PCI-E 2.0 x16
+Mobile Chipset, Nile platform"
+"P5","AMD 880M chipset","RS880M","Q2 2010","Mobile Phenom II,
+Mobile Turion II,
+Mobile Athlon II,
+Mobile Sempron
+V-Series","55","2600 (HT 3.0)","Radeon HD 4250
+Radeon HD 4270","PowerXpress
+AXIOM/MXM
+module(s)","No","","SB820","DirectX 10.1, UVD2,
+HDMI/HDCP, DisplayPort, DVI, VGA,
+OR single PCI-E 2.0 x16
+Mobile Chipset, Danube platform"
+"P6","AMD 890GX chipset","RS880D","Q2 2010","Phenom II,
+Athlon II,
+Sempron","55","2600 (HT 3.0)","Radeon HD 4290","Hybrid,
+x8 + x8","No","22 W","SB710,
+SB750,
+SB810,
+SB850","DirectX 10.1, UVD2,
+HDMI/HDCP, DisplayPort/DPCP,
+Side-port memory,
+OR two PCIe 2.0 x16"
+"P7","AMD 890FX chipset","RD890","Q2 2010","Bulldozer,
+Phenom II,
+Athlon II,
+Sempron","65","2600 (HT 3.0)","No","x16 + x16
+or x8 quad","No","18 W","SB710,
+SB750,
+SB810,
+SB850","Four PCIe 2.0 x16"
+"P8","","","","","","","","","","","",""
+"P9","AMD 970 chipset","RX980","Q2 2011","Bulldozer, Piledriver
+Phenom II, Athlon II, Sempron, FX","65","2400 (HT 3.0)","No","x16 + x4","No","13.6W","SB710,
+SB750,
+SB810,
+SB850,
+SB920,
+SB950","Single PCIe 2.0 x16, IOMMU
+AM3+ socket support"
+"P10","AMD 990X chipset","RD980","Q2 2011","Bulldozer, Piledriver
+Phenom II, Athlon II, Sempron, FX","65","2600 (HT 3.0)","x8 + x8","x8 + x8","14W","Two PCIe 2.0 x16, IOMMU
+AM3+ socket support","SB710,
+SB750,
+SB810,
+SB850,
+SB920,
+SB950",""
+"P11","AMD 990FX chipset","RD990","Q2 2011","Bulldozer, Piledriver
+Phenom II, Athlon II, Sempron, FX","65","2600 (HT 3.0)","x16 + x16
+or x8 quad","x16 + x16
+or x16 + x8 + x8
+or x8 quad","19.6 W","Four PCIe 2.0 x16, IOMMU
+AM3+ socket support","SB710,
+SB750,
+SB810,
+SB850,
+SB920,
+SB950",""
+"P12","Model","Code name","Released","CPU support","Fab (nm)","HT (MHz)","IGP","CrossFire","SLI","TDP (W)","Southbridge","Features / Notes"

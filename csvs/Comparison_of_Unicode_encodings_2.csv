@@ -1,0 +1,24 @@
+"Code range (hexadecimal)","UTF-8","UTF-16","UTF-32","UTF-EBCDIC","GB 18030","UTF-9 and UTF-18"
+"000000 – 00007F","8","16","32","8","8","9/18"
+"000080 – 00009F","16","16","32","8","16 for characters inherited from
+GB 2312/GBK (e.g. most
+Chinese characters) 32 for
+everything else.","18"
+"0000A0 – 0003FF","16","16","32","16","16 for characters inherited from
+GB 2312/GBK (e.g. most
+Chinese characters) 32 for
+everything else.","18"
+"000400 – 0007FF","16","16","32","24","16 for characters inherited from
+GB 2312/GBK (e.g. most
+Chinese characters) 32 for
+everything else.","18"
+"000800 – 003FFF","24","16","32","24","16 for characters inherited from
+GB 2312/GBK (e.g. most
+Chinese characters) 32 for
+everything else.","18"
+"004000 – 00FFFF","24","16","32","32","16 for characters inherited from
+GB 2312/GBK (e.g. most
+Chinese characters) 32 for
+everything else.","18"
+"010000 – 03FFFF","32","32","32","32","32","27/18"
+"040000 – 10FFFF","32","32","32","40","32","27/18"

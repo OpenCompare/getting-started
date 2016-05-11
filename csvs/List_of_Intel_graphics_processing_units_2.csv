@@ -1,0 +1,67 @@
+"Graphics","Launch","Market","Chipset","Code name","Device id.","Core render
+clock (MHz)","Pixel 
+pipelines","Shader model
+(vertex/pixel)","API support","API support","API support","Memory bandwidth 
+(GB/s)","DVMT 
+(MB)","Hardware acceleration","Hardware acceleration","Hardware acceleration"
+"Graphics","Launch","Market","Chipset","Code name","Device id.","Core render
+clock (MHz)","Pixel 
+pipelines","Shader model
+(vertex/pixel)","DirectX","OpenGL","OpenCL","Memory bandwidth 
+(GB/s)","DVMT 
+(MB)","AVC","",""
+"GMA 900","2004","Desktop","910GL","Grantsdale","2582
+2782 
+ 258A","333","4","3.0 (SW) / 2.0","9.0 (No WDDM nor Aero support)","1.4 on Windows
+2.1 on Linux","No","3.2","128","MC","No","No"
+"GMA 900","2004","Desktop","915GL","Grantsdale","2582
+2782 
+ 258A","333","4","3.0 (SW) / 2.0","9.0 (No WDDM nor Aero support)","1.4 on Windows
+2.1 on Linux","","3.2","128","MC","",""
+"GMA 900","2004","Desktop","915GV","Grantsdale","2582
+2782 
+ 258A","333","4","3.0 (SW) / 2.0","9.0 (No WDDM nor Aero support)","1.4 on Windows
+2.1 on Linux","8.5","","128","MC","",""
+"GMA 900","2004","Desktop","915G","Grantsdale","2582
+2782 
+ 258A","333","4","3.0 (SW) / 2.0","9.0 (No WDDM nor Aero support)","1.4 on Windows
+2.1 on Linux","8.5","","128","MC","",""
+"GMA 900","2005","Mobile","Mobile 915
+Family","Alviso","2592
+2792","133–333","4","3.0 (SW) / 2.0","9.0 (No WDDM nor Aero support)","1.4 on Windows
+2.1 on Linux","8.5","","128","MC","",""
+"GMA 950","2005","Desktop","945GZ","Lakeport","2772
+2776","400","4","3.0 (SW) / 2.0","9.0c","1.4 on Windows
+2.1 on Linux","8.5","256","","MC","",""
+"GMA 950","2005","Desktop","945GC","Lakeport","2772
+2776","400","4","3.0 (SW) / 2.0","9.0c","1.4 on Windows
+2.1 on Linux","10.7","256","","MC","",""
+"GMA 950","2005","Desktop","945G","Lakeport","2772
+2776","400","4","3.0 (SW) / 2.0","9.0c","1.4 on Windows
+2.1 on Linux","10.7","256","","MC","",""
+"GMA 950","2006","Mobile","Mobile 945
+Family","Calistoga","27A2
+27A6
+27AE","166–400","4","3.0 (SW) / 2.0","9.0c","1.4 on Windows
+2.1 on Linux","10.7","256","","MC","",""
+"GMA 3100","2007","Desktop","Q33","Bearlake","29D2
+29D3","400","4","3.0 (SW) / 2.0","9.0c","1.4 on Windows
+2.1 on Linux","12.8","256","","MC","",""
+"GMA 3100","2007","Desktop","Q35","Bearlake","29B2
+29B3","400","4","3.0 (SW) / 2.0","9.0c","1.4 on Windows
+2.1 on Linux","12.8","256","","MC","",""
+"GMA 3100","2007","Desktop","G31","Bearlake","29C2
+29C3","400","4","3.0 (SW) / 2.0","9.0c","1.4 on Windows
+2.1 on Linux","12.8","256","","MC","",""
+"GMA 3100","2007","Desktop","G33","Bearlake","29C2
+29C3","400","4","3.0 (SW) / 2.0","9.0c","1.4 on Windows
+2.1 on Linux","12.8 (DDR2)
+17 (DDR3)","256","Full","","",""
+"GMA 3150","2010","Nettop","Atom D4xx
+Atom D5xx","Pineview","A001
+A002","400","2","3.0 (SW) / 2.0","9.0c","1.5 on Windows
+2.1 on Linux","6.4","384","Full","","",""
+"GMA 3150","2010","Netbook","Atom N4xx
+Atom N5xx","Pineview","A011
+A012","200","2","3.0 (SW) / 2.0","9.0c","1.5 on Windows
+2.1 on Linux","5.3","384","Full","","",""

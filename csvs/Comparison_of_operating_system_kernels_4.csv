@@ -1,0 +1,7 @@
+"Kernel Name","HTTP","FTP","NFS","CIFS","Name server","Transport-layer load balancer","Application-layer load balancer","9P","SSL proxy"
+"Linux kernel","(TUX web server patch)","(TUX web server patch)","knfsd","No","?","IP Virtual Server","(KTCPVS)","(patch available)","No"
+"DragonFly BSD kernel","No","No","Yes","Yes","?","?","?","No","No"
+"FreeBSD kernel","No","No","Yes","No","No","Yes","No","No","No"
+"Solaris kernel","?","?","Yes","Yes","?","Yes","Yes","?","KSSL"
+"Windows NT kernel","HTTP.sys","?","?","Yes","?","Yes","Yes","No","?"
+"XNU","No","No","Yes","No","No","No","No","No","No"

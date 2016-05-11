@@ -1,0 +1,10 @@
+"Model","Launch","Code name","Graphics core","Fab (nm)","Transistors (Million)","Die Size (mm)","Bus interface","Memory (MB)","Core clock (MHz)","Config core","Fillrate","Fillrate","Fillrate","Memory","Memory","Memory","Memory","GFLOPS","Features / Notes"
+"Model","Launch","Code name","Graphics core","Fab (nm)","Transistors (Million)","Die Size (mm)","Bus interface","Memory (MB)","Core clock (MHz)","Config core","Pixel (GP/s)","Texture (GT/s)","FP32 (GP/s)","Bandwidth (GB/s)","Bus type","Effective clock (MHz)","Bus width (bit)","GFLOPS","Features / Notes"
+"Radeon 3000 Graphics (760G Chipset)","2009","RS780L","RV610","55","205","~73 (~9 × 8.05)","HT 3.0","Up to 512 system","350","40:4:4","1.4","1.4","0.7","20.8 (system)","HT (system)","N/A","N/A","28","AVIVO"
+"Radeon 3100 Graphics (780V Chipset)","2008
+Jan 23 (China)
+Mar 4 (Worldwide)","RS780C","RV610","55","205","~73 (~9 × 8.05)","HT 3.0","Up to 512 system","350","40:4:4","1.4","1.4","0.7","20.8 (system)","HT (system)","N/A","N/A","28","AVIVO"
+"Radeon HD 3200 Graphics (780G Chipset)","2008
+Jan 23 (China)
+Mar 4 (Worldwide)","RS780","RV610","55","205","~73 (~9 × 8.05)","HT 3.0","Up to 512 system + optional 128 sideport","500","40:4:4","2","2","1","20.8 (system) + 2.6 (sideport)","HT (system) + DDR2-1066 DDR3-1333 (sideport)","1333 (sideport)","16 (sideport)","40","UVD2, 8x AA (wide-tent CFAA)"
+"Radeon HD 3300 Graphics (790GX Chipset)","Jul 2008","RS780D","RV610","55","205","~73 (~9 × 8.05)","HT 3.0","Up to 512 system + 128 sideport","700","40:4:4","2.8","2.8","1.4","20.8 (system) + 2.6 (sideport)","HT (system) + DDR3-1333 (sideport)","1333 (sideport)","16 (sideport)","56","UVD2, PowerPlay"

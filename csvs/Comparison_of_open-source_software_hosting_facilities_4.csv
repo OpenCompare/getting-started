@@ -1,0 +1,8 @@
+"Name","Ad-free","CVS","Git","SVN","Arch","Notes"
+"Drupal","Yes","No","Yes","No","No","Only for Drupal related projects."
+"freedesktop.org","Yes","No","Yes","No","No","Only for interoperability and shared base technology for free software desktop environments on Linux and other Unix-like operating systems, including the X Window System (X11) and cairo (graphics)."
+"GNOME Git Repositories","No","No","Yes","No","No","Only for GNOME related projects."
+"mozdev","Yes","Yes","?","No","No","Only for Mozilla related projects."
+"OCamlForge","Yes","Yes","Yes","Yes","Yes","Only for Ocaml related projects"
+"RubyForge","Yes","Yes","Yes","Yes","No","Only for Ruby related projects. Closed down as of May 15, 2014."
+"","","","","","",""

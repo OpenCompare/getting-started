@@ -1,0 +1,7 @@
+"","Trident","Gecko","WebKit","Presto"
+"Ogg Vorbis","Manual install","1.9.1","Depends","2.5"
+"WAV PCM","Manual install","1.9.1","525","2.0"
+"MP3","5.0","No","525","Depends"
+"AAC","5.0","No","525",""
+"Speex","Manual install","No","Depends","No"
+"Opus","In IE 12 ??","15.0","Depends","No"

@@ -1,0 +1,7 @@
+"Software","Windows","Mac OS X","Linux","BSD","Unix","IIS","Apache","Notes"
+"Connectbeam","Yes","No","No","No","No","Yes","No","none"
+"Dogear","Yes","Yes","Yes","No","Yes","No","No","requires IBM WebSphere Application Server 6.1.0.13 for the web server"
+"Jumper 2.0","Yes","Yes","Yes","Yes","Yes","Yes","Yes","none"
+"Knowledge Plaza","No","No","Yes","No","No","No","No","No OS management required. Infrastructure-as-a-Service for on-premises installation."
+"Licorize","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Written in Java 6, runs on Apache Tomcat and compatible servers."
+"Scuttle","Yes","Yes","Yes","Yes","Yes","Yes","Yes","none"

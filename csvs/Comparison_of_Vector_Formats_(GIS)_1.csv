@@ -1,0 +1,4 @@
+"","Point","Multipoint","Line","Polyline","MultiPolyline","Polygon","Multipolygon"
+"GeoJSON","Yes","Yes","?","Yes","Yes","Yes","Yes"
+"Personal Geodatabase","Yes","No","Yes","No","No","Yes","No"
+"Shapefile","Yes","Yes","?","Yes","Yes","Yes","Yes (as Polygon with multiple outer rings or as MultiPatch)"

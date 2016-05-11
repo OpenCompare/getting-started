@@ -1,0 +1,15 @@
+"Model","Launch","Code name","Fab (nm)","Transistors (Million)","Die Size (mm)","Die Count","Bus interface","Memory (MB)","SMM count","Core config","Clock rate","Clock rate","Clock rate","Clock rate","Fillrate","Fillrate","Memory Configuration","Memory Configuration","Memory Configuration","API support (version)","API support (version)","API support (version)","Processing Power (peak) 
+ GFLOPS","Processing Power (peak) 
+ GFLOPS","TDP (watts)","GFLOPS/W","GFLOPS/W","Release Price (USD)"
+"Model","Launch","Code name","Fab (nm)","Transistors (Million)","Die Size (mm)","Die Count","Bus interface","Memory (MB)","SMM count","Core config","Base (MHz)","Average Boost (MHz)","Max Boost (MHz)","Memory (MHz)","Pixel (GP/s)","Texture (GT/s)","Bandwidth (GB/s)","DRAM type","Bus width (bit)","DirectX","OpenGL","OpenCL","Single Precision","Double Precision","TDP (watts)","Double Precision","","Release Price (USD)"
+"GeForce GTX 960","January 22, 2015","GM206","28","2940","227","1","PCIe 3.0 x16","2048
+4096","8","1024:64:32","1127","1178","1228","1752.5
+(7010)","36.1","72.1","112","GDDR5","128","12.0","4.5","1.2","2308","72.1","120","19.2","0.6","$199"
+"GeForce GTX 970","September 18, 2014","GM204-200","28","5200","398","1","PCIe 3.0 x16","3584+512","13","1664:104:56","1050","1178","1250","1752.5
+(7010)","58.8","109.2","196 and 28","GDDR5","224 and 32","12.0","4.5","1.2","3494","109","145","24.1","0.75","$329"
+"GeForce GTX 980","September 18, 2014","GM204-400","28","5200","398","1","PCIe 3.0 x16","4096","16","2048:128:64","1126","1216","1266","1752.5
+(7010)","72.1","144","224","GDDR5","256","12.0","4.5","1.2","4612","144","165","28.0","0.87","$549"
+"GeForce GTX 980 Ti","June 1, 2015","GM200-310","28","8000","601","1","PCIe 3.0 x16","6144","22","2816:176:96","1000","1075","","1752.5
+(7010)","96","176","336","GDDR5","384","12.0","4.5","1.2","5632","176","250","22.5","0.70","$649"
+"GeForce GTX Titan X","March 17, 2015","GM200-400","28","8000","601","1","PCIe 3.0 x16","12288","24","3072:192:96","1000","1088.5","","1752.5
+(7010)","106","196","336","GDDR5","384","12.0","4.5","1.2","6144","192","250","24.6","0.77","$999"

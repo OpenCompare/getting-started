@@ -1,0 +1,34 @@
+"Firewall","License","Cost / Usage Limits","OS"
+"Comodo Internet 
+Security","Proprietary","Free","Windows 7 / Vista / XP SP2/ Windows 8"
+"FirewallD","GPL","Free","Fedora, Red Hat Enterprise Linux, CentOS"
+"Glasswire","Proprietary","Free","Windows 7 / Windows 8 / Windows 10"
+"Intego VirusBarrier","Proprietary","?","Mac OS X 10.5 or later; on an Xserve"
+"IPFilter","GPLv2","Free","Package for multiple UNIX-like operating systems"
+"ipfirewall","BSD","Free","*BSD package"
+"Kaspersky 
+Internet Security","Proprietary","$59,95 Year / 30 day trial","Windows unknown versions x32/x64"
+"Lavasoft 
+Personal Firewall","Proprietary","€36 Year","Windows unknown versions x32/x64"
+"Microsoft 
+Forefront Threat 
+Management 
+Gateway","Proprietary","discontinued","Windows unknown versions x64"
+"Netfilter/iptables","GPL","Free","Linux kernel module"
+"Norton 360","Proprietary","$59.99 Year","Windows unknown versions x32/x64"
+"NPF","BSD","Free","NetBSD kernel module"
+"Online Armor 
+Personal Firewall","Proprietary","€39.95 Year","Windows unknown versions x32/x64"
+"Outpost 
+Firewall Pro","Proprietary","Free / Paid","Windows unknown versions x32/x64"
+"PC Tools 
+Firewall Plus","Proprietary","Free ?","Windows unknown versions x32/x64"
+"PF","BSD","Free","*BSD kernel module"
+"Sunbelt 
+Personal Firewall","Proprietary","discontinued","Windows unknown versions x32"
+"Sygate 
+Personal Firewall","Proprietary","discontinued","Windows unknown versions x32"
+"Windows Firewall","Proprietary","Included with Windows 
+XP SP2 and later","ALL Windows Versions x32/x64"
+"WinGate","Proprietary","Paid","Windows unknown versions x32/x64"
+"ZoneAlarm","Proprietary","Freemium","Windows unknown versions x32/x64 (except XP-64)"

@@ -1,0 +1,26 @@
+"Model","Code name","Fab (nm)","Bus interface","Memory (MB)","Core clock (MHz)","Shader clock (MHz)","Memory clock (MHz)","Core config","Fillrate","Fillrate","Memory","Memory","Memory","Processing Power 
+ GFLOPS","API support (version)","API support (version)","Nvidia Optimus 
+ Technology","TDP (watts)","Notes"
+"Model","Code name","Fab (nm)","Bus interface","Memory (MB)","Core clock (MHz)","Shader clock (MHz)","Memory clock (MHz)","Core config","Pixel (GP/s)","Texture (GT/s)","Bandwidth (GB/s)","Bus type","Bus width (bit)","Single precision","DirectX","OpenGL","Nvidia Optimus 
+ Technology","TDP (watts)","Notes"
+"Quadro K510M","GK208","28","PCIe 3.0 x8","1024","850","850","1200 
+ (2400)","192:16:8
+(1 SMX)","","","19.2","GDDR5","64","326.4","11.0","4.5","Yes","30",""
+"Quadro K610M","GK208","28","PCIe 3.0 x16","1024","980","980","1300 
+ (2600)","192:16:8
+(1 SMX)","","","20.8","GDDR5","64","376.32","11.0","4.5","Yes","30",""
+"Quadro K1100M","GK107","28","PCIe 3.0 x16","2048","716","716","1400 
+ (2800)","384:32:16
+(2 SMX)","","","44.8","GDDR5","128","549.89","11.0","4.5","Yes","45",""
+"Quadro K2100M","GK106","28","PCIe 3.0 x16","2048","654","654","1500 
+ (3000)","576:48:16
+(3 SMX)","","","48.0","GDDR5","128","753.41","11.0","4.5","Yes","55",""
+"Quadro K3100M","GK104","28","PCIe 3.0 x16","4096","680","680","800 
+ (3200)","768:64:32
+(4 SMX)","","","102.4","GDDR5","256","1044.48","11.0","4.5","Yes","75",""
+"Quadro K4100M","GK104","28","PCIe 3.0 x16","4096","706","706","800 
+ (3200)","1152:96:32
+(6 SMX)","","","102.4","GDDR5","256","1626.624","11.0","4.5","Yes","100",""
+"Quadro K5100M","GK104","28","PCIe 3.0 x16","8192","771","771","900 
+ (3600)","1536:128:32
+(8 SMX)","","","115.2","GDDR5","256","2368.51","11.0","4.5","Yes","100",""

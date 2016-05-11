@@ -1,0 +1,15 @@
+"Parameter","CRT","LCD","Plasma",""
+"Contrast","Over 15,000:1","","",""
+"Color depth","","","68 × 10",""
+"Response time","Less than 1 µs","1–8 ms typical (according to manufacturer data), older units could be as slow as 35 ms","",""
+"Frame rate","60–85 fps typically, some CRTs can go even higher (""200 fps at reduced resolution"");
+internally, display refreshed at input frame rate speed","","60 fps typically, some can do 120 fps;
+internally, display refreshed at e.g. 480 or 600 Hz",""
+"Environmental influences","Sensitive to ambient magnetic fields, which can adversely effect convergence and color purity.","","High altitude pressure difference may cause poor function or buzzing noises",""
+"Flicker","","Depends; as of 2013, most LCDs use PWM (strobing) to dim the backlight","",""
+"Size","Up to 43""","","Up to 150""(3.8m)",""
+"Energy consumption and heat generation","High","Low","Varies with brightness but usually higher than LCD",""
+"Maintenance","Hazardous to repair or service due to high-voltage, 
+requires skilled convergence calibration and adjustments for geographic location changes","","",""
+"Electro-magnetic radiation emission","","","Emits strong radio-frequency electromagnetic radiation",""
+"Other","No native resolution. Currently, the only display technology capable of multi-syncing (displaying different resolutions and refresh rates without the need for scaling). Display lag is extremely low due to its nature, which does not have the ability to store image data before output, unlike LCDs, plasma displays and OLED displays.","The LCD grid can mask effects of spatial and grayscale quantization, creating the illusion of higher image quality.","Screen-door effects are more noticeable than LCD when up close, or on larger sizes;",""

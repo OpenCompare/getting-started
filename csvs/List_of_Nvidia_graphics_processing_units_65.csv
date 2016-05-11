@@ -1,0 +1,7 @@
+"Model","Launch","Code name","Fab (nm)","Bus interface","Memory (MB)","Core clock (MHz)","Memory clock (MHz)","Core config","Fillrate","Fillrate","Fillrate","Fillrate","Memory","Memory","Memory","API support","API support"
+"Model","Launch","Code name","Fab (nm)","Bus interface","Memory (MB)","Core clock (MHz)","Memory clock (MHz)","Core config","MOperations/s","MPixels/s","MTextels/s","MVertices/s","Bandwidth (GB/s)","Bus type","Bus width (bit)","DirectX","OpenGL"
+"XGPU(Xbox)","November 15, 2001","NV2A","150","Integrated","64","233","200","4:2:8:4","932","932","1864","116.5","6.4","DDR","128","8.1","1.4"
+"RSX(PS3)","November 11, 2006","G70","90, 65, 40","FlexIO","256
+256","550","700","24:8:24:8","13200","4400","13200","1100","22.4
+20 (read), 15 (write)","GDDR3
+XDR","128","N/A","ES 1.1 w/Cg"

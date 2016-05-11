@@ -1,0 +1,101 @@
+"Name","Network","Anonymous P2P","Link system compatibility","Price","Platform","License","Programming language","Spyware-adware free","Latest release version","Extra information",""
+"Acquisition","Gnutella, BitTorrent","No","magnet","Nagware or US$17.99","OS X","GPL","Objective-C, Java","Yes","2.2 (v223) (November 19, 2010; 4 years ago)","Alternative to LimeWire for Mac users; uses Cocoa GUI",""
+"aMule","eDonkey, Kad","No","eD2k, magnet","Free","Linux, OS X, Windows","GPL","C++","Yes","2.3.1 (November 11, 2011; 3 years ago)","",""
+"ANts P2P","ANts","Yes","ed2k","Free","Linux, OS X, Windows","GPL","Java","Yes","2010","File sharing and HTTP publishing.",""
+"Ares Galaxy","Ares, BitTorrent","No","arlnk","Free","Windows","GPL","Object Pascal (Delphi)","Yes","2.3.0 (August 17, 2014; 9 months ago
+)","",""
+"BearShare 
+(pre v6.0)","Gnutella","No","ed2k, magnet","Free or US$3.29 monthly","Windows","Proprietary","C++","No","10.0.0.131462 (January 29, 2013; 2 years ago)","Since version 6: clone of the commercial iMesh software; does not connect to Gnutella and restricts downloads to media formats",""
+"BitComet","BitTorrent, eDonkey, Kad; HTTP/FTP download","No","ed2k, magnet","Free","Windows","Proprietary","C++","Yes","1.38 (March 30, 2015; 2 months ago)","Exploits SuperSeeding and thus is often banned by trackers and peers. Compatible with e2DK links through an eMule plugin which gives access to eDonkey and Kad networks and cross-network sharing abilities with BitTorrent network.",""
+"BitTornado","BitTorrent","No","No","Free","Linux, OS X, Windows","MIT","Python","Yes","2006","",""
+"BitTorrent","BitTorrent","No","No","Free","Windows, Mac OS X","Proprietary","C++","Yes","Windows:
+
+7.9.3 (Build 40299) (May 6, 2015; 36 days ago) 
+
+Mac OS X:
+
+7.4.3 (Build 39559) (March 19, 2015; 2 months ago)","µTorrent rebrand",""
+"broolz","Direct Connect","No","No","Free or US$59.95","Windows, OS X, Linux","Proprietary","Java","Yes","2011","Internal p2p protocols that allow only secondary users authorised by primary user to share.",""
+"Cabos","Gnutella","No","magnet","Free","OS X, Windows","GPL","Java, REALbasic","Yes","0.8.2 (February 9, 2010; 5 years ago)","",""
+"Calypso","MUTE","Yes","No","Donation","Linux, Windows","GPL","C++, Qt","Yes","2010","Prior name: Kommute",""
+"Datawire","P2P Private Networking (chat supported)","Yes","No","Free","Windows, Linux, OS X","Proprietary","Java","Yes","2011","",""
+"DC++","Direct Connect","No","magnet","Free","Windows","GPL","C++","Yes","0.851 April 6, 2015; 2 months ago","Many modifications exist, for example LinuxDC++",""
+"Deluge","BitTorrent","Unknown","magnet","Free","Linux, OS X, Windows","GPL","Python","Yes","1.3.11 (November 30, 2014; 6 months ago)","",""
+"eDonkey2000","eDonkey, Overnet","No","ed2k","Free or US$19.95","Linux, OS X, Windows","Proprietary","C++","Yes","2005","Discontinued",""
+"eMule","eDonkey, Kad","No","ed2k","Free","Windows","GPL","C++","Yes","0.50a (April 7, 2010; 5 years ago)","Supports protocol obfuscation",""
+"ExoSee","?","No","No","Free","Windows","Proprietary","?","Yes","2007","ExoSee appears to have no business model.",""
+"Filetopia","Filetopia","No (except when using a bouncer)","No","Free","Windows","Proprietary","Delphi","No","2002","",""
+"Flashget","BitTorrent, eDonkey; HTTP/FTP download","?","?","?","Windows","GPL","?","?","?","",""
+"Free Download Manager","BitTorrent; HTTP/FTP download","No","metalink","Free","Windows","GPL","C++","Yes","3.9.5 (build 1537) (April 14, 2015; 58 days ago)","",""
+"Freenet's FProxy","Freenet","Yes","No","Free","Linux, OS X, Windows","GPL","Java","Yes","0.7.5 (Build 1465) (August 9, 2014; 9 months ago)","",""
+"Frost","Freenet","Yes","No","Free","Linux, OS X, Windows","GPL","Java","Yes","2011","",""
+"FrostWire","Gnutella, BitTorrent","No","magnet","Free","Linux, OS X, Windows","GPL","Java","Yes","6.1.1 (May 12, 2015; 30 days ago)","Fork of LimeWire, with no copyrighted-material blocker planned.",""
+"GetRight","BitTorrent; HTTP/FTP download","?","?","?","Windows","?","?","?","?","",""
+"giFT","OpenFT and, with plugins, Ares, Gnutella, FastTrack","No","No","Free","Linux, OS X, Windows","GPL","C","Yes","0.11.8.1 (2004-11-27)","",""
+"Gnucleus","Gnutella, Gnutella2","No","No","Free","Windows","GPL","C++","Yes","2.2.0.0 (June 17, 2005; 9 years ago)","",""
+"GNUnet","GNUnet","Yes","ECRS","Free","Linux, OS X, Windows","GPL","C","Yes","0.10.1 (April 8, 2014; 13 months ago)","",""
+"gtk-gnutella","Gnutella","No","magnet","Free","Linux, Windows","GPL","C","Yes","1.1.3 (April 8, 2015; 2 months ago)","",""
+"iMesh 
+ (pre v6.0)","FastTrack, Gnutella, Gnutella2","No","No","Free","Windows","Proprietary","C++","Yes","2008","",""
+"I2Phex","I2P (protocol Gnutella)","Yes","magnet","Free","Linux, OS X, Windows","GPL","Java","Yes","2011","Need I2P to run.",""
+"I2PSnark","I2P (protocol BitTorrent)","Yes","magnet","Free","Linux, OS X, Windows","GPL","Java","Yes","2014","Integrated into I2P distribution.",""
+"iMule","I2P (protocol Kad network)","Yes","ed2k, magnet","Free","Linux, OS X, Windows","GPL","C++","Yes","2.3.2.3 (May 3, 2013)","needs I2P to run",""
+"Infinit","Infinit","No","No","Free","OS X, Windows","Proprietary","C++","Yes","2014","Unlimited and encrypted peer to peer file sharing application with pause and resume.",""
+"Kazaa","FastTrack","No","No","Free","Windows","Proprietary","C++","adware & spyware","2006","Illegal in Australia.",""
+"Kazaa Lite","FastTrack","No","No","Free","Windows","Proprietary","?","Yes","2007","Adware-disabled version of Kazaa (fake versions in circulation)",""
+"KCeasy","Ares, Gnutella, FastTrack, OpenFT","No","No","Free","Windows","GPL","C++, Object Pascal (Delphi)","Yes","2008","Uses integrated giFT file sharing daemon as back-end.",""
+"KGet","BitTorrent; HTTP/FTP download","?","?","Free","part of KDE on Windows","GPL","?","?","?","?",""
+"KTorrent","BitTorrent","No","magnet","Free","Linux, OS X, Windows","GPL","C++","Yes","4.3.1 (January 17, 2013; 2 years ago)","Part of the KDE desktop, can be installed separately.",""
+"LimeWire","Gnutella, BitTorrent","No","magnet","Free or US$18.88","Linux, OS X, Windows","GPL","Java","No","2010","Shutdown permanently due to injunction from MGM v. Grokster in which Limewire was ordered to disable all functionality of the software.",""
+"Manolito","MP2P","No","MP2P","Free or US$19.95","Windows","Proprietary","?","No","2008","",""
+"MLDonkey","BitTorrent, eDonkey, FastTrack, (Gnutella, Gnutella2), Kad; HTTP/FTP download","No","ed2k, magnet, sig2dat","Free","Linux, OS X, Windows","GPL","OCaml","Yes","3.1.5 (March 22, 2014; 14 months ago)","P2P application, telnet / web-interface / GUI interface, complete and complex remote usage. Sancho GUI makes automatic SSH tunnels.",""
+"MonoTorrent (client library)","BitTorrent","No","magnet","Free","Linux, OS X, Windows","MIT/X11","C#","Yes","0.90 (May 22, 2010; 5 years ago)","Requires either Mono or .NET Framework to be installed",""
+"Morpheus","NEOnet, Gnutella, Gnutella2, BitTorrent","No","No","Free or US$19.95","Windows","Proprietary","?","Yes","5.55.1 (November 15, 2007; 7 years ago)","",""
+"MUTE","MUTE","Yes","No","Donation","Linux, OS X, Windows","GPL","C++","Yes","2007","",""
+"µTorrent","BitTorrent","No","magnet","Free","OS X, Windows, Linux","Proprietary","C++","No","Microsoft Windows:
+3.4.3 (Build 40298) (May 5, 2015; 37 days ago) 
+
+OS X for Intel:
+1.8.7 (Build 40398) (May 15, 2015; 27 days ago) 
+
+OS X for PPC:
+1.6.5 (Build 27624) (July 25, 2012; 2 years ago) 
+
+Android:
+3.4 (May 28, 2015; 14 days ago)","Specifically designed to be very small; entire program runs from a 315KB compressed executable which can be either installed or run as a stand-alone.",""
+"Nachtblitz","I2P (protocol Kad network)","Yes","ed2k, magnet","Free","Windows, Linux with Wine","GPL",".NET Framework","Yes","1.4.18 (April 30, 2014)","needs I2P to run",""
+"Net Transport","BitTorrent, eMule; HTTP/FTP download","?","?","?","?","?","?","?","?","",""
+"Nodezilla","Private","Yes","No","Free","Linux, Windows","core proprietary, GUI GPL","Java","Yes","2010","Most is proprietary, GUI is GPL.",""
+"Opera","BitTorrent; HTTP/FTP download","No","No","Free","Linux, OS X, Windows","Proprietary","C++","Yes","; Windows, OS X, Linux
+30.0.1835.59 (June 10, 2015; 1 day ago
+
+
+
+
+ )","",""
+"Perfect Dark","Perfect Dark","Yes","No","Free","Windows","Proprietary","?","Yes","2014","Boards. Auto update.",""
+"Piolet","MP2P","No","MP2P","Free or US$19.95","Windows","Proprietary","?","No","2008","",""
+"","BitTorrent","No","magnet","Free","Linux, Solaris, OS X, Windows","GPL","C++","Yes","3.2.0 (May 9, 2015; 33 days ago)","",""
+"Retroshare","Retroshare","Yes","Own format","Free","Windows, Linux, Mac OS","GPL","C++","Yes","0.5.5c (2014), 0.6.0 beta (2015)","Uses PGP for friend authentication. Decentralized F2F network type.",""
+"RShare","RShare","Yes","No","Free","Windows","GPL","C#","Yes","2007","eMule-like usability",""
+"Robert","I2P (protocol BitTorrent)","Yes","magnet","Free","Linux, OS X, Windows","GPL","Python","Yes","2012","needs I2P to run",""
+"Share","Share","Yes","No","Free","Windows","Proprietary","Object Pascal (Delphi)","Yes","2006","Anonymous developer; tries to be Winny successor",""
+"Shareaza","eDonkey, BitTorrent, Gnutella, Gnutella2, Direct Connect; HTTP/FTP download","No","ed2k, magnet, Piolet/MP2P, gnutella","Free","Windows","GPL","C++","Yes","2.7.8.0 (December 15, 2014; 5 months ago)","Uses a powerful files library; maintained by volunteer group",""
+"Sharing Max","Sharing Max","No","Yes","Free","Windows","Proprietary","Visual Basic","No","2012","",""
+"SoMud","SoMud","No","magnet uri, meta link","Free","Windows, OS X","Proprietary","C++","Yes","2013","Search and download P2P and web video networks such as YouTube and Yahoovideo etc.",""
+"StealthNet","RShare","Yes","No","Free","Linux, OS X, Windows","GPL","C#","Yes","2011","Evolution of the RShare client with many functions.",""
+"Soulseek","Soulseek","No","No","Free, donations for privileges","Windows","Proprietary","?","Yes","SoulseekQt build 2015.2.21 (February 21, 2015; 3 months ago)","Folder downloads, browse users with folder trees, no multi-source downloads",""
+"SymTorrent","BitTorrent","No","No","Free","Symbian S60","GPL","C++","Yes","2008","Runs on mobile phones with Symbian operating system",""
+"Thaw","Freenet","Yes","No","Free","Linux, OS X, Windows","GPL","Java","Yes","2008","",""
+"Transmission","BitTorrent","No","magnet","Free","BeOS, Linux, OS X","MIT","C, Objective-C","Yes","2.84 (1 July 2014; 11 months ago)","Lightweight, cross-platform",""
+"Tribler","BitTorrent","Yes","magnet","Free","Windows, Linux, OS X","GNU LGPL v2.1+","Python, C++","Yes","6.4.3 (January 21, 2015; 4 months ago)","Unlike most other torrent clients, Tribler is decentralized (as well as anonymous) and does not rely on any trackers or any other indexing service to discover content. Also features a built-in video streamer.",""
+"TrustyFiles","eDonkey, Overnet, Gnutella, Gnutella2, FastTrack, BitTorrent","No","ed2k","Free or US$29","Windows","Proprietary","?","adware & spyware","2007","Has code stolen from Gnucleus, giFT, and avlib; Linux version announced, but never released; takeover similar to the Shareaza.com and Lphant issues is likely to have happened",""
+"uGet","BitTorrent; HTTP/FTP download","?","magnet, metalink","Free","Linux, Windows, Android","LGPL","C, GTK+","Yes","2014","uGet 2.0 is currently in Beta Development (as of 9 September 2014) and available for testing via uGetdm.com",""
+"Vuze 
+ (formerly Azureus)","BitTorrent","No (except when using I2P)","magnet","Free","Linux, OS X, Windows","GPL","Java","No","5.6.0.0 (March 3, 2015; 3 months ago)","",""
+"Warez P2P","iP2P DHT","No","No","Free or US$19.99","Windows","Proprietary","?","Yes","2007","Developer claims Warez v3.0 beta is malware-free",""
+"WinMX","WinMX Peer Network (independent, now user-operated), OpenNAP, chatrooms supported","No","No","Free","Windows","Proprietary","C++","Yes","2004","Official development has ceased due to RIAA coercion. Versions 3.53, 3.54 beta 4 and older are available from 3rd parties.",""
+"Winny","Winny","Yes","No","Free","Windows","Proprietary","C++","Yes","2003","",""
+"Wuala","Wuala","No","No","Free","Linux, OS X, Windows","Proprietary","Java","Yes","2009","",""
+"YobiDrive FLOWS","YobiDrive","No","No","Free","Linux, OS X, Windows","Proprietary","Java","Yes","2013","",""
+"Name","Network","Anonymous P2P","Link system compatibility","Price","Platform","License","Programming language","Spyware or adware free","Last release year","Extra information",""

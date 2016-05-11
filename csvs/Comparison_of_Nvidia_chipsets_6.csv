@@ -1,0 +1,20 @@
+"Model","Code Name","Release Date","Processors Supported","Fabrication
+process (nm)","FSB/HT
+Frequency (MHz)","Memory","PCI-Express","SLI","PCI","USB","PATA","SATA","LAN","Sound","Features","Notes"
+"nForce4 Ultra","Crush19 + MCP51","January 17, 2006","Pentium 4, Pentium EE, Pentium D, Celeron D
+LGA 775","","1066 MHz","DDR2-666
+dual channel","1.0a
+20 lanes","No","6 Ports","8 Ports Rev 2.0","2 Ports UDMA 133","4 Ports 3.0 Gbit/s","1000 Mbit/s","HDA","",""
+"nForce4 SLI XE","Crush19 + MCP51","January 17, 2006","Pentium 4, Pentium EE, Pentium D, Celeron D
+LGA 775","","1066 MHz","DDR2-666
+dual channel","1.0a
+20 lanes","×8+×8","6 Ports","8 Ports Rev 2.0","2 Ports UDMA 133","4 Ports 3.0 Gbit/s","1000 Mbit/s","HDA","",""
+"nForce4 SLI","Crush19 + MCP04","April 5, 2005","Pentium 4, Pentium EE, Pentium D, Celeron D
+LGA 775","","1066 MHz","DDR2-666
+dual channel","1.0a
+20 lanes","x8+x8","6 Ports","10 Ports Rev 2.0","2 Ports UDMA 133","4 Ports 3.0 Gbit/s","1000 Mbit/s","AC'97 2.3","",""
+"nForce4 SLI X16","Crush19 + MCP04","April 5, 2005","Pentium 4, Pentium EE, Pentium D, Celeron D
+Core2 (unofficial, some MB)
+LGA 775","","1066 MHz","DDR2-666
+dual channel","1.0a
+40 lanes","x16+x16","6 Ports","10 Ports Rev 2.0","2 Ports UDMA 133","4 Ports 3.0 Gbit/s","1000 Mbit/s","AC'97 2.3","",""

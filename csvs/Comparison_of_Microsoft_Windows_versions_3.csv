@@ -1,0 +1,9 @@
+"","Release date","RTM build","Current version","Status support","License","Codename","Based on (kernel)","Kernel type","Operating environments","Editions","Purpose","Short description"
+"Windows CE 1.0","1996-11","","","","","Pegasus, Alder","CE 1.0","","","","Embedded","first release of Microsoft's Windows CE line for minimalistic computers and embedded systems"
+"Windows CE 2.0","1997-11","","","","","Mercury, Apollo","CE 2.0","","","2.1, 2.11","Embedded",""
+"Windows CE 3.0","2000-04","","","Unsupported
+(2007-10-09)","Shared source","Cedar, Galileo, Rapier, Merlin, Stinger","CE 3.0","Embedded kernel","","","Embedded",""
+"Windows CE 4.0","2002-01-07","","","","","Talisker","CE 4.0","","","4.1, 4.2","Embedded",""
+"Windows CE 5.0","2004-07-09","","5.0 (2004-07-09)","Supported","Shared source","Macallan","CE 5.0","Embedded kernel","","","Embedded",""
+"Windows Embedded CE 6.0","2006-11-01","","","","Shared source","Yamazaki","CE 6.0","Hybrid kernel","","","",""
+"Windows Embedded Compact 7","2011-03-01","?","?","Supported","Shared source","?","CE 7.0","Hybrid","?","N/A","",""

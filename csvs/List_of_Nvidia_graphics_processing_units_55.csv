@@ -1,0 +1,6 @@
+"Model","Code name","Fab (nm)","Bus interface","Memory (MB)","Core clock (MHz)","Shader clock (MHz)","Memory clock (MHz)","Core config","Fillrate","Fillrate","Memory","Memory","Memory","Processing Power 
+ GFLOPS","API support (version)","API support (version)","TDP (watts)","Notes"
+"Model","Code name","Fab (nm)","Bus interface","Memory (MB)","Core clock (MHz)","Shader clock (MHz)","Memory clock (MHz)","Core config","Pixel (GP/s)","Texture (GT/s)","Bandwidth (GB/s)","Bus type","Bus width (bit)","Single precision","DirectX","OpenGL","TDP (watts)","Notes"
+"Quadro FX 1500M","G71GLM","90","PCIe 1.0 x16","512","375","375","1000","8:24:24:16","6","9","32","GDDR3","256","","9.0c","2.1","45",""
+"Quadro FX 2500M","G71GLM","90","PCIe 1.0 x16","512","500","500","1200","8:24:24:16","8","12","38.4","GDDR3","256","","9.0c","2.1","45",""
+"Quadro FX 3500M","G71GLM","90","PCIe 1.0 x16","512","575","575","1200","8:24:24:16","9.2","13.8","38.4","GDDR3","256","","9.0c","2.1","45",""

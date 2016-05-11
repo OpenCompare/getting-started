@@ -1,0 +1,8 @@
+"Model","Launch","Core","Fab (nm)","Transistors (Million)","Die Size (mm)","Bus interface","Memory (MB)","Core clock (MHz)","Memory clock (MHz)","Config core","Fillrate","Fillrate","Memory","Memory","Memory","API compliance (version)","API compliance (version)","TDP / idle (watts)","Notes"
+"Model","Launch","Core","Fab (nm)","Transistors (Million)","Die Size (mm)","Bus interface","Memory (MB)","Core clock (MHz)","Memory clock (MHz)","Config core","Pixel (GP/s)","Texture (GT/s)","Bandwidth (GB/s)","Bus type","Bus width (bit)","DirectX","OpenGL","TDP / idle (watts)","Notes"
+"FirePro 2250","2007","RV516","Unknown","Unknown","Unknown","PCIe x1/x16","256","Unknown","Unknown","2:4:4:4","Unknown","Unknown","Unknown","Unknown","Unknown","9.0","2.1","20/11","DMS-59 for dual DVI-D output"
+"FirePro 2270","January 31, 2011","Cedar","40","292","59","PCIe 2.1 x1/x16","512
+1024","600","600","80(16×5):8:4","2.4","4.8","9.6","GDDR3","64","11.0","4.1","15/8
+17/8","DMS-59 for dual output: DP or DVI-I or D-sub"
+"FirePro 2450 Multi-View","2009","2x RV620","Unknown","Unknown","Unknown","PCIe 2.0 x1/x16","512","Unknown","Unknown","2x 40(8×5):4:4","Unknown","Unknown","Unknown","GDDR3","Unknown","10.1","3.3","36/18","2x VHDCI for quad output: DVI-I or D-sub"
+"FirePro 2460 Multi-View","April 2010","Cedar (RV810)","Unknown","Unknown","Unknown","PCIe 2.1 x16","512","Unknown","Unknown","80(16×5):8:4","Unknown","Unknown","16","GDDR5","64","11","4.1","17/13","4x Mini DP for quad output: DP or DVI-D, UVD2, PowerPlay, Eyefinity"

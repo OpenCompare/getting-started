@@ -1,0 +1,15 @@
+"Format","Languages"
+"string.Trim()
+string.TrimStart()
+string.TrimEnd()","C#"
+"(string-trim '(#\Space #\Tab #\Newline) string)","Common Lisp"
+"strings.TrimSpace(string)","Go"
+"string.trim()","Java"
+"string.trim()
+string.replace(^\s+|\s+$/g, """")","JavaScript"
+"StringTrim[string]","Mathematica"
+"trim(string)","PHP"
+"string.strip()","Python"
+"string.trim
+string.trimStart
+string.trimEnd","Cobra"

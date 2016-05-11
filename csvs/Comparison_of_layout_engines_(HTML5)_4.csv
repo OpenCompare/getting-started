@@ -1,0 +1,8 @@
+"","Trident","Gecko","WebKit","Presto"
+"getElementsByClassName","5.0","1.9","525","2.1"
+"registerProtocolHandler","No","1.9","Yes","2.10"
+"registerContentHandler","1.8","","","2.10"
+"Cross-document messaging","4.0","1.9","Yes","2.0"
+"Drag-and-drop","6.0","1.9.1","Yes","2.10.270"
+"pushState() and replaceState()","6.0","2.0","528","2.9"
+"","Trident","Gecko","WebKit","Presto"

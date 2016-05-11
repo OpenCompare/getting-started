@@ -1,0 +1,46 @@
+"Implementation","Namespace","Build tools","API manual","Crypto back-end","OpenSSL compatibility Layer"
+"Botan","Botan::TLS","Makefile","Sphinx","Included (monolithic)","No"
+"cryptlib","crypt*","makefile, MSVC project workspaces","Programmers reference manual (PDF), architecture design manual (PDF)","Included (monolithic)","No"
+"GnuTLS","gnutls_*","Autoconf, automake, libtool","Manual and API reference (HTML, PDF)","External, libnettle","Yes (limited)"
+"JSSE","javax.net.ssl","Makefile","API Reference (HTML) +
+Java SE 8","Java Cryptography Architecture/
+Java Cryptography Extension","No"
+"MatrixSSL","matrixSsl_*
+
+ps*","Makefile, MSVC project workspaces, Xcode projects for Mac OS X and iOS","API Reference (PDF), Integration Guide","Included (pluggable)","Yes (Subset: SSL_read, SSL_write, etc.)"
+"mbed TLS","ssl_*
+
+sha1_*
+
+md5_*
+
+x509parse_*
+
+...","Makefile, CMake, MSVC project workspaces","API Reference + High Level and Module Level Documentation (HTML)","Included (monolithic)","No"
+"NSS","CERT_*
+
+SEC_*
+
+SECKEY_*
+
+NSS_*
+
+PK11_*
+
+SSL_*
+
+...","Makefile","Manual (HTML)","Included, PKCS#11 based","Yes (separate package called nss_compat_ossl)"
+"OpenSSL","SSL_*
+
+SHA1_*
+
+MD5_*
+
+EVP_*
+
+...","Makefile","Man pages","Included (monolithic)","N/A"
+"SharkSSL","SharkSsl*","Makefile","(online) HTML Manual and API Reference","Included (monolithic)","No"
+"wolfSSL","CyaSSL_*
+
+SSL_*","Autoconf, automake, libtool, MSVC project workspaces, XCode projects, CodeWarrior projects, MPLAB X projects, Keil, IAR, Clang, GCC","Manual and API Reference (HTML, PDF)","Included (monolithic)","Yes (about 10% of API)"
+"Implementation","Namespace","Build tools","API manual","Crypto back-end","OpenSSL compatibility layer"

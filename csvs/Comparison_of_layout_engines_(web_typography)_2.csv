@@ -1,0 +1,6 @@
+"Format","Trident","Gecko","WebKit","Presto"
+"Embedded OpenType (EOT)","No","No","No","No"
+"TrueType (TTF)","Yes","Yes","2.2",""
+"OpenType (OTF)","18.0","No","2.2",""
+"Scalable Vector Graphics (SVG)","No","525","2.2",""
+"Web Open Font Format (WOFF)","No","No","2.7.81",""

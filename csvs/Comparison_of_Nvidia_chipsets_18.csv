@@ -1,0 +1,13 @@
+"Model","Code Name","Release Date","Processors Supported","Fabrication
+process (nm)","FSB/HT
+Frequency (MHz)","AGP","PCI-Express","SLI","PCI","USB","PATA","SATA","LAN","Sound","Features","Notes"
+"nForce3 Go 120","","2003","Turion 64","","HT 400 MHz","AGP4X","No","No","6 Ports","6 Ports Rev 2.0","2 Ports UDMA 133","No","100 Mbit/s","AC'97 2.1","",""
+"nForce3 Go 150","","2003","Turion 64","","HT 600 MHz","AGP8X","No","No","6 Ports","6 Ports Rev 2.0","3 Ports UDMA 133","No","1000 Mbit/s","AC'97 2.1","",""
+"nForce 430 Go","","2005","Turion 64, Sempron 64","","HT 800 MHz","No","1.0a
+18 lanes","No","6 Ports","8 Ports Rev 2.0","2 Ports UDMA 133","4 Ports 3.0Gbit/s","1000 Mbit/s","HDA","RAID 0,1,0+1,5",""
+"nForce 610m","","2007","Turion 64, Sempron 64","","HT 1 GHz","No","1.1
+4 lanes","No","5 Ports","10 Ports Rev 2.0","1 Ports UDMA 133","4 Ports 3.0Gbit/s","100 Mbit/s","HDA","Onboard GeForce 7000M",""
+"nForce 630m","","2007","Turion 64, Sempron 64","","HT 1 GHz","No","1.1
+20 lanes","No","5 Ports","10 Ports Rev 2.0","1 Ports UDMA 133","4 Ports 3.0Gbit/s","1000 Mbit/s","HDA","Onboard GeForce 7150M",""
+"nForce 8200M","","2008","Turion 64, Sempron 64","","HT3.0 2.6 GHz","No","2.0
+4 lanes","No","5 Ports","10 Ports Rev 2.0","No","4 Ports 3.0Gbit/s","1000 Mbit/s","HDA","Onboard GeForce 8200M",""

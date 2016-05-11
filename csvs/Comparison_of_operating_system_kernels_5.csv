@@ -1,0 +1,22 @@
+"Kernel Name","a.out","ECOFF","ELF","FDPIC
+ELF
+binaries
+(mmu less)","flat
+binaries
+(superH)","HUNK","Mach-O","Misc
+(wrapper
+based,
+like
+interpreters)","PE","SOM
+(PA-RISC,
+HP-UX)","NLM","PEF","DOS COM","MZ","LE","LX","NE"
+"Amiga Exec","No","No","Yes","No","No","Yes","No","No","No","No","?","?","?","?","?","?","?"
+"DragonFly BSD kernel","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No"
+"HP-UX kernel","No","No","Yes","No","No","No","No","No","No","Yes","No","No","?","?","?","?","?"
+"Linux kernel","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Some","Yes","?","No","?","?","?","?","?"
+"MINIX 3 kernel","Some","No","Yes","No","No","No","No","No","No","No","No","No","?","?","?","?","?"
+"NetBSD kernel","Yes","Yes","Yes","?","?","?","Yes","?","Yes","?","?","?","?","?","?","?","?"
+"ReactOS kernel","?","?","?","?","?","?","?","?","Yes","?","?","?","?","?","?","?","?"
+"Solaris kernel","Yes","No","Yes","No","No","No","No","No","Some","No","?","?","?","?","?","?","?"
+"Windows NT kernel","No","No","No","No","No","No","No","No","Yes","No","No","No","?","?","?","?","?"
+"XNU","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No"

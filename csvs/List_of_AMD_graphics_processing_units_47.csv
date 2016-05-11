@@ -1,0 +1,9 @@
+"Model","Launch","Code name","Fab (nm)","Bus interface","Memory (MB)","Clock rate","Clock rate","Config core","Fillrate","Fillrate","Memory","Memory","Memory","Processing Power
+GFLOPs","Processing Power
+GFLOPs","API compliance (version)","API compliance (version)","API compliance (version)","TDP watts","Notes"
+"Model","Launch","Code name","Fab (nm)","Bus interface","Memory (MB)","Core (MHz)","Memory (MHz)","Config core","Texture (GT/s)","Bandwidth (GB/s)","Bus type","Bus width (bit)","Single Precision","Double Precision","DirectX","OpenGL","OpenCL","","TDP watts","Notes"
+"FirePro W600","June 13, 2012","Cape Verde Pro","28","PCIe 3.0 x16","2048","750","1000","512:32:16","","","64","GDDR5","128","","","11.1","4.2","1.2","75","Six Mini DisplayPort"
+"FirePro W5000","June 13, 2012","Pitcairn LE","28","PCIe 3.0 x16","2048","825","800","768:48:32","26.4","39.6","102.4","GDDR5","256","1267.2","79.2","11.1","4.2","1.2","<75","Two DisplayPort, One DVI-I"
+"FirePro W7000","June 13, 2012","Pitcairn XT","28","PCIe 3.0 x16","4096","950","1200","1280:80:32","30.4","76","153.6","GDDR5","256","2432","152","11.1","4.2","1.2","<150","Four DisplayPort"
+"FirePro W8000","June 14, 2012","Tahiti PRO","28","PCIe 3.0 x16","4096","900","1375","1792:112:32","28.8","100.8","176","GDDR5","384","3225.6","806.4","11.1","4.2","1.2","189","ECC RAM, Four DisplayPort + SDI-Link"
+"FirePro W9000","June 14, 2012","Tahiti XT","28","PCIe 3.0 x16","6144","975","1375","2048:128:32","31.2","124.8","264","GDDR5","384","3993.6","998.4","11.1","4.2","1.2","<274","ECC RAM, Six Mini DisplayPort + SDI-Link"

@@ -1,0 +1,3 @@
+"Kernel name","Deflate","zlib","LZO","LZJB","gzip"
+"Linux","Yes","Yes","Yes","?","Yes"
+"Solaris kernel","?","?","?","Yes","Yes"

@@ -1,0 +1,8 @@
+"Name","Operating system(s)","Source code language(s)","Programming (plugin) API language(s)","Other technical features"
+"ChucK","Mac OS X, Linux, Windows","C++","","Unified timing mechanism (no separation between audio-rate and control-rate), command-line access"
+"Csound","Mac OS X, Linux, Windows","C, C++","C; also Python, Java, Lisp, Lua, Tcl, C++","IDE (QuteCsound), multitrack interface (blue); several analysis/resynthesis facilities; can compute double-precision audio; Python and LuaJIT algorithmic composition library; multi-threaded processing"
+"Impromptu","Mac OS X","Lisp,  Objective-C, Scheme","C, C++,  Objective-C, Scheme","Native access to most OS X APIs including Core Image, Quartz, QuickTime and OpenGL.  Impromptu also includes its own statically typed (inferencing) systems language for heavy numeric processing - OpenGL, RT AudioDSP etc.."
+"Max/MSP","Mac OS X, Windows","C, Objective-C","C, Java, JavaScript, also Python and Ruby via externals",""
+"Pure Data","Mac OS X, Linux, Windows, iPod, Android","C","C, C++, FAUST, Haskell, Java, Lua, Python, Q, Ruby, Scheme, others",""
+"Reaktor","Mac OS X, Windows","","",""
+"SuperCollider","Mac OS X, Linux, Windows, FreeBSD","C, C++, Objective-C","C++","Client-server architecture; client and server can be used independently, command-line access"

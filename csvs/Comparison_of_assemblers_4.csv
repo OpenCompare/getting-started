@@ -1,0 +1,6 @@
+"Assembler","License","Instruction set","Host platform"
+"IBM AIX assembler","Proprietary","POWER","IBM AIX"
+"MPW Power Assembler","Proprietary","PowerPC","Apple Power Macintosh"
+"Power Fantasm","Proprietary","PowerPC","Apple Power Macintosh"
+"StormPowerASM","Proprietary","PowerPC","PowerPC Amiga"
+"vasm","Free","PowerPC","various"

@@ -1,0 +1,33 @@
+"Model","Code Name","Release Date","Processors Supported","Fabrication
+process (nm)","FSB/HT
+Frequency (MHz)","Memory","PCI-Express","SLI","PCI","USB","PATA","SATA","LAN","Sound","Features","Notes"
+"nForce 730i","MCP7A","October 16, 2008","Intel Core2, Pentium Dual-Core, Celeron
+LGA 775","","1333 MHz","DDR3-1333
+dual channel","2.0
+20 lanes","No","5 Ports","12 Ports Rev 2.0","1 Ports UDMA 133","6 Ports 3.0Gbit/s","1000 Mbit/s","HDA","Onboard GeForce 9300",""
+"nForce 740i SLI","MCP7A","October 16, 2008","Intel Core2, Pentium Dual-Core, Celeron
+LGA 775","","1333 MHz","DDR3-1333
+dual channel","2.0
+20 lanes","x8+x8","5 Ports","12 Ports Rev 2.0","1 Ports UDMA 133","6 Ports 3.0Gbit/s","1000 Mbit/s","HDA","",""
+"nForce 750i SLI","Crush72 + MCP51 + nForce200","2007","Intel Core2, Pentium Dual-Core, Celeron
+LGA 775","90nm","1333 MHz","DDR2-800
+dual channel","2.0
+24 lanes
+1.1
+2 lanes","x8+x8","5 Ports","8 Ports Rev 2.0","2 Ports UDMA 133","4 Ports 3.0Gbit/s","1000 Mbit/s","HDA","","Unofficial support DDR2-1066"
+"nForce 760i SLI","MCP7A","October 16, 2008","Intel Core2, Pentium Dual-Core, Celeron
+LGA 775","","1333 MHz","DDR3-1333
+dual channel","2.0
+20 lanes","x8+x8","5 Ports","12 Ports Rev 2.0","1 Ports UDMA 133","6 Ports 3.0Gbit/s","1000 Mbit/s","HDA","Onboard GeForce 9300",""
+"nForce 780i SLI","Crush72 + MCP55 + nForce200","December 17, 2007","Intel Core2, Pentium Dual-Core, Celeron
+LGA 775","90nm","1333 MHz","DDR2-800
+dual channel","2.0
+32 lanes
+1.1
+30 lanes","x16+x16+x16","5 Ports","10 Ports Rev 2.0","1 Ports UDMA 133","6 Ports 3.0Gbit/s","2*1000 Mbit/s","HDA","","Unofficial support DDR2-1066"
+"nForce 790i SLI","Crush73 + MCP55","March 2008","Intel Core2, Pentium Dual-Core, Celeron
+Compatible with Intel 05B/05A/06 processors","45nm","1600 MHz","DDR3-1333
+dual channel, up to 8 GB","2.0
+32 lanes
+1.1
+28 lanes","x16+x16+x16","5 Ports","10 Ports Rev 2.0","1 Ports UDMA 133","6 Ports 3.0Gbit/s","2*1000 Mbit/s","HDA","","Compatible with Intel 05B/05A/06 processors"

@@ -1,0 +1,7 @@
+"Model","Code name","Fab (nm)","Bus interface","Memory (MB)","Core clock (MHz)","Shader clock (MHz)","Memory clock (MHz)","Core config","Fillrate","Fillrate","Memory","Memory","Memory","Processing Power
+GFLOPS","Processing Power
+GFLOPS","API support (version)","API support (version)","TDP (watts)","Notes"
+"Model","Code name","Fab (nm)","Bus interface","Memory (MB)","Core clock (MHz)","Shader clock (MHz)","Memory clock (MHz)","Core config","Pixel (GP/s)","Texture (GT/s)","Bandwidth (GB/s)","Bus type","Bus width (bit)","Single Precision","Double Precision","DirectX","OpenGL","TDP (watts)","Notes"
+"Quadro M6000","GM200","28","PCIe 3.0 x16","12288","988","988","1653
+(6612)","3072:192:96
+(24 SMM)","94.8","189.7","317","GDDR5","384","6070","190","12.0","4.5","225","10.5"" Card"

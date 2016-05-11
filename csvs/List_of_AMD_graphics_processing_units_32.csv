@@ -1,0 +1,14 @@
+"Model","Launch","Model Number","Code name","Fab (nm)","Bus interface","Memory (MB)","Core clock (MHz)","Memory clock (MHz)","Config core","Fillrate","Fillrate","Memory","Memory","Memory","API compliance (version)","API compliance (version)","Notes"
+"Model","Launch","Model Number","Code name","Fab (nm)","Bus interface","Memory (MB)","Core clock (MHz)","Memory clock (MHz)","Config core","Pixel (GP/s)","Texture (GT/s)","Bandwidth (GB/s)","Bus type","Bus width (bit)","DirectX","OpenGL","Notes"
+"Mobility Radeon X1300","January 19, 2006","M52","RV515","90","PCIe x16","128 + shared","350","250","2:4:4:4","1.4","1.4","8","DDR DDR2","128","9.0c","2.0",""
+"Mobility Radeon X1350","September 18, 2006","M62","RV515","90","PCIe x16","128 + shared","470","350","2:4:4:4","1.88","1.88","11.2","DDR2 GDDR3","128","9.0c","2.0",""
+"Mobility Radeon X1400","January 19, 2006","M54","RV515","90","PCIe x16","128 + shared","445","250","2:4:4:4","1.78","1.78","8","DDR DDR2","128","9.0c","2.0",""
+"Mobility Radeon X1450","September 18, 2006","M64","RV515","90","PCIe x16","128 + Shared","550","450","2:4:4:4","2.2","2.2","14.4","DDR2 GDDR3","128","9.0c","2.0",""
+"Mobility Radeon X1600","February 1, 2006","M56","RV530","90","PCIe x16","256","450","470","5:12:4:4","1.8","1.8","15.04","GDDR3","128","9.0c","2.0",""
+"Mobility Radeon X1700","February 1, 2006","M66","RV535","80","PCIe x16","256","475","400
+550","5:12:4:4","1.9","1.9","11.2
+17.6","DDR2
+GDDR3","128","9.0c","2.0","strained silicon"
+"Mobility Radeon X1800","March 1, 2006","M58","R520","90","PCIe x16","256","450","500","8:12:12:12","5.4","5.4","32","GDDR3","256","9.0c","2.0",""
+"Mobility Radeon X1800 XT","March 1, 2006","M58","R520","90","PCIe x16","256","550","650","8:16:16:16","8.8","8.8","41.6","GDDR3","256","9.0c","2.0",""
+"Mobility Radeon X1900","January 11, 2007","M59","RV570","80","PCIe x16","256","400","480","8:36:12:12","4.8","4.8","30.72","GDDR3","256","9.0c","2.0","PowerPlay 6.0"

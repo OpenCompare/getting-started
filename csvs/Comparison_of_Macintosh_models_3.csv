@@ -1,0 +1,6 @@
+"Model","Memory slots","Memory Max","User-replaceable HDD?","HDD bays","Expansion slots"
+"Mac Mini","2","8 GB","No","1 (desktops) 2 (server)","No"
+"iMac","2 (21.5"") 4 (27"")","8 GB (21.5"") 16 GB (27"")","No","1 (21.5"") 2 (27"")","No"
+"Mac Pro","8","32 GB","Yes","4","4 (PCI-E)"
+"MacBook Air","No","8 GB","No","1","No"
+"MacBook Pro","2","16GB","Yes","1","1 (ExpressCard/34, 17"" only)"

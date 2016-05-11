@@ -1,0 +1,90 @@
+"Implementation","Developed by","Open source","Software license","Copyright owner","Written in","Latest stable version / release date","Origin"
+"Botan","Jack Lloyd","Yes","Simplified BSD License","Jack Lloyd","C++","1.11.16 (March 29, 2015; 2 months ago
+
+
+
+)","US (Vermont)"
+"Bouncy Castle","The Legion of the Bouncy Castle Inc.","Yes","MIT License","Legion of the Bouncy Castle Inc.","Java / C#","1.52 (Java) (March 1, 2015; 3 months ago 
+
+
+
+) 
+
+1.7 (C#) (April 7, 2011; 4 years ago 
+
+
+
+)","Australia"
+"cryptlib","Peter Gutmann","Yes","Sleepycat License and commercial license","Peter Gutmann","C","3.4.2 (December 17, 2012; 2 years ago 
+
+
+
+)","NZ"
+"GnuTLS","GnuTLS project","Yes","GNU LGPLv2.1+","Free Software Foundation","C","3.4.1 (May 3, 2015; 39 days ago 
+
+
+
+) 
+
+3.3.15 (May 3, 2015; 39 days ago )","EU (Greece and Sweden)"
+"Java Secure Socket Extension (JSSE)","Oracle","Yes","GNU GPLv2 and commercial license","Oracle","Java","JDK 8 / 2014-03-18","US"
+"LibreSSL","OpenBSD Project","Yes","Apache License 1.0, 4-clause BSD License, ISC License, and some are public domain","Eric Young, Tim Hudson, Sun, OpenSSL project, OpenBSD Project, and others","C, assembly","2.1.6 (March 19, 2015; 2 months ago
+
+
+
+)","Canada"
+"MatrixSSL","PeerSec Networks","Yes","GNU GPLv2+ and commercial license","PeerSec Networks","C","3.7.2 (April 14, 2015; 58 days ago 
+
+
+
+)","US"
+"mbed TLS (previously PolarSSL)","Offspark","Yes","GNU GPLv2+ and commercial license","Brainspark B.V. (brainspark.nl)","C","1.3.10 (February 8, 2015; 3 months ago 
+
+
+
+
+) 
+
+1.2.13 (February 16, 2015; 3 months ago
+
+
+
+
+)","EU (Netherlands)"
+"Network Security Services (NSS)","Mozilla, AOL, Red Hat, Sun, Oracle, Google and others","Yes","MPL 2.0","NSS contributors","C, assembly","3.19.1 (May 28, 2015; 14 days ago
+
+
+
+
+) 
+
+3.16.2.3 (October 27, 2014; 7 months ago
+
+
+
+
+)","US"
+"OpenSSL","OpenSSL project","Yes","OpenSSL / SSLeay dual-license","Eric Young, Tim Hudson, Sun, OpenSSL project, and others","C, assembly","1.0.2a (March 19, 2015; 2 months ago
+
+
+) 
+
+1.0.1m (March 19, 2015; 2 months ago
+
+
+) 
+
+1.0.0r (March 19, 2015; 2 months ago) 
+
+0.9.8zf (March 19, 2015; 2 months ago)","Australia/EU"
+"RSA BSAFE","RSA Security","No","Proprietary","RSA, The Security Division of EMC","","MES: 4.0
+SSL-J: 6.1.4","Australia"
+"SChannel","Microsoft","No","Proprietary","Microsoft Inc.","","Windows 8.1 / 2013-11-13","US"
+"Secure Transport","Apple Inc.","Yes","APSL 2.0","Apple Inc.","","55471.14 (OS X 10.9.2) / 2014-02-25","US"
+"SharkSSL","Realtimelogic LLC","No","Proprietary","Realtimelogic LLC","","2.1 / 2014-01-12","US"
+"wolfSSL (previously CyaSSL)","wolfSSL","Yes","GNU GPLv2+ and commercial license","wolfSSL Inc.","C","3.4.6 (March 30, 2015; 2 months ago
+
+
+
+)","US"
+"","","","","","","",""

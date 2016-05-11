@@ -1,0 +1,4 @@
+"Format","Languages"
+"string.partition(separator)","Python, Ruby(1.9+)"
+"lists:partition(pred, string)","Erlang"
+"split /(separator)/, string, 2","Perl"

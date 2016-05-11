@@ -1,0 +1,34 @@
+"","class","protocol","namespace"
+"ABAP Objects","","","N/A"
+"C++ (STL)","","",""
+"C#","","",""
+"D","","",""
+"Java","","",""
+"PHP","","",""
+"Objective-C","","",""
+"Swift","","",""
+"Python","","",""
+"Visual Basic .NET","","",""
+"Xojo","","",""
+"Eiffel","","N/A",""
+"Perl","","",""
+"Perl 6","","",""
+"Ruby","","",""
+"Windows PowerShell","N/A","",""
+"OCaml","","",""
+"F#","","",""
+"Smalltalk","","",""
+"JavaScript (ES6)","class name «extends parentclass» { members }","",""
+"Object Pascal (Delphi)","","",""
+"Scala","","",""
+"COBOL","CLASS-ID. name« INHERITS« FROM» parentclasses».
+
+
+
+
+
+
+END CLASS name.","INTERFACE-ID. name« INHERITS« FROM» interfaces».
+
+END INTERFACE name.","N/A"
+"Cobra","","",""

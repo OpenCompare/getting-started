@@ -1,0 +1,43 @@
+"Model","Launch","Code name","Fab (nm)","Bus interface","Memory (MB)","Core config","Clock speed","Clock speed","Clock speed","Fillrate","Fillrate","Memory","Memory","Memory","API support (version)","API support (version)","Processing Power
+ (GFLOPS)","TDP (watts)","Notes"
+"Model","Launch","Code name","Fab (nm)","Bus interface","Memory (MB)","Core config","Core (MHz)","Shader (MHz)","Memory (MHz)","Pixel (GP/s)","Texture (GT/s)","Bandwidth (GB/s)","Bus type","Bus width (bit)","DirectX","OpenGL","Processing Power
+ (GFLOPS)","TDP (watts)","Notes"
+"GeForce GT 520M","January 5, 2011","GF119","40","PCIe 2.0 x16","1024","48:8:4","740","1480","1600","2.96","5.92","12.8","DDR3","64","11.0","4.5","142.08","12","Similar to Desktop 510/520"
+"GeForce GT 520M","","GF108","40","PCIe 2.0 x16","1024","96:16:4","515","1030","1600","2.06","8.24","12.8","DDR3","64","11.0","4.5","197.76","20","Noticed in Lenovo laptops, similar to Desktop 530/430/440"
+"GeForce GT 520MX","May 30, 2011","GF119","40","PCIe 2.0 x16","1024","48:8:4","900","1800","1800","3.6","7.2","14.4","DDR3","64","11.0","4.5","172.8","20","Similar to Desktop 510 & GT520"
+"GeForce GT 525M","January 5, 2011","GF108","40","PCIe 2.0 x16","1024","96:16:4","600","1200","1800","2.4","9.6","28.8","DDR3","128","11.0","4.5","230.4","20-23","Similar to Desktop GT 530/430/440"
+"GeForce GT 540M","January 5, 2011","GF108","40","PCIe 2.0 x16","2048
+1024","96:16:4","672","1344","1800","2.688","10.752","28.8","DDR3","128","11.0","4.5","258.048","32-35","Similar to Desktop GT 530/440"
+"GeForce GT 550M","January 5, 2011","GF108","40","PCIe 2.0 x16","1024","96:16:4","740","1480","1800","2.96","11.84","28.8","DDR3","128","11.0","4.5","284.16","32-35","Similar to Desktop GT 530/440"
+"GeForce GT 555M","January 5, 2011","GF106
+
+GF108","40","PCIe 2.0 x16","1536
+2048
+1024","144:24:24
+144:24:16
+96:16:4","590
+650
+753","1180
+1300
+1506","1800
+1800
+3138","14.6
+10.4
+3","14.6
+15.6
+12","43.2
+28.8
+50.2","DDR3
+DDR3
+GDDR5","192
+128
+128","11.0","4.5","339.84
+374.4
+289.15","30-35","Similar to Desktop GT545"
+"GeForce GTX 560M","May 30, 2011","GF116","40","PCIe 2.0 x16","2048
+1536, 3072","192:32:16
+192:32:24","775","1550","2500","18.6","24.8","40.0
+60.0","GDDR5","128
+192","11.0","4.5","595.2","75","Similar to Desktop GTX 550Ti"
+"GeForce GTX 570M","June 28, 2011","GF114","40","PCIe 2.0 x16","1536","336:56:24","575","1150","3000","13.8","32.2","72.0","GDDR5","192","11.0","4.5","772.8","75","Similar to Desktop GTX 560"
+"GeForce GTX 580M","June 28, 2011","GF114","40","PCIe 2.0 x16","2048","384:64:32","620","1240","3000","19.8","39.7","96.0","GDDR5","256","11.0","4.5","952.3","100","Similar to Desktop GTX 560 Ti"

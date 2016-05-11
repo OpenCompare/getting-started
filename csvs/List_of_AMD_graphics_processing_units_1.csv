@@ -1,0 +1,10 @@
+"Model","Launch","Fab (µm)","Bus interface","Memory (KB)","Config core","Memory","Memory","API compliance"
+"Model","Launch","Fab (µm)","Bus interface","Memory (KB)","Config core","Bus type","Bus width (bit)","API compliance"
+"Mach 8","1991","0.8","ISA, MCA","512
+1024","1:1","DRAM
+VRAM","32","2D"
+"Mach 32","1992","0.8","ISA, EISA, VLB
+PCI, MCA","1024
+2048","1:1","DRAM
+VRAM","64","2D"
+"Mach 64","1994","0.6","ISA, VLB, PCI","1024, 2048, 4096, 8192","1:1","DRAM, VRAM, SGRAM","64","2D"

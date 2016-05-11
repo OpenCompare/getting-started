@@ -1,0 +1,15 @@
+"Can Target:","Changing default policy to accept/reject (by issuing a single rule)","IP destination address(es)","IP source address(es)","TCP/UDP destination port(s)","TCP/UDP source port(s)","Ethernet MAC destination address","Ethernet MAC source address","Inbound firewall (ingress)","Outbound firewall (egress)"
+"IPFire","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Trend Micro Internet Security","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes"
+"Untangle","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes"
+"Vyatta","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"OPNsense","No","Yes","Yes","Yes","Yes","No","No","Yes","Yes"
+"Windows XP Firewall","No","No","Yes","Partial","No","No","No","Yes","No"
+"Windows Vista Firewall","Yes","Yes","Yes","Yes","Yes","No","No","Yes","Yes"
+"Windows 7 /
+Windows 2008 R2
+Firewall","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"WinGate","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"Zeroshell","Yes","Yes","Yes","Yes","Yes","No","Yes","Yes","Yes"
+"Zorp","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
+"pfSense","No","Yes","Yes","Yes","Yes","No","No","Yes","Yes"

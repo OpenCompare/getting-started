@@ -1,0 +1,31 @@
+"Function","Year","Designer","Derived from","Reference"
+"HAVAL","1992","Yuliang Zheng
+Josef Pieprzyk
+Jennifer Seberry","","Website"
+"MD2","1989","Ronald Rivest","","RFC 1319"
+"MD4","1990","Ronald Rivest","","RFC 1320"
+"MD5","1992","Ronald Rivest","MD4
+RFC 1321 page 1","RFC 1321"
+"MD6","2008","Ronald Rivest","","md6_report.pdf"
+"RIPEMD","1990","The RIPE Consortium","MD4",""
+"RIPEMD-128
+RIPEMD-256
+RIPEMD-160
+RIPEMD-320","1996","Hans Dobbertin
+Antoon Bosselaers
+Bart Preneel","RIPEMD","Website"
+"SHA-0","1993","NSA","","SHA-0"
+"SHA-1","1995","NSA","SHA-0",""
+"SHA-256
+SHA-512
+SHA-384","2002","NSA","",""
+"SHA-224","2004","NSA","",""
+"GOST R 34.11-94","1994","FAPSI and VNIIstandart","GOST 28147-89","RFC 5831, RFC 4357"
+"Tiger","1995","Ross Anderson
+Eli Biham","","Website"
+"Whirlpool","2004","Vincent Rijmen
+Paulo Barreto","","Website"
+"SHA-3 (Keccak)","2008","Guido Bertoni
+Joan Daemen
+Michaël Peeters
+Gilles Van Assche","","Website"

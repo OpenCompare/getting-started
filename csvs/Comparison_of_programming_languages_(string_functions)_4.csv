@@ -1,0 +1,2 @@
+"Definition","string OP string OR (compare string string) returns Boolean."
+"Description","Lexicographically compares two strings using a relational operator or function. Boolean result returned."

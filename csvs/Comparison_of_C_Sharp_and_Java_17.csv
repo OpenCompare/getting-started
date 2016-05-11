@@ -1,0 +1,7 @@
+"Functional programming","Java","C#"
+"Method references","Yes (As of Java 8)","Yes"
+"Closures","All lambdas do not introduce a new level of scope. All referenced variables must be effectively final(As of Java 8)","Yes"
+"Lambda expressions","Yes (As of Java 8)","Yes"
+"Expression trees","No","Yes"
+"Generic query language","No; but see 'Java 8 Stream' (Monad)","Yes"
+"Tail recursion compiler optimizations","No","Only on x64"

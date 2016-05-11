@@ -1,0 +1,5 @@
+"BitTorrent library","Cache","Web seeding","Broadcatching (RSS)","Prioritization","Selective downloads","SOCKS","Remote control via web","Engine","Notes"
+"libtorrent (Rasterbar)","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?",""
+"MonoTorrent","Yes","Yes","Yes","Yes","Yes","No","Yes","No",""
+"rTorrent (libTorrent Rakshasa)","Partial","No","No","Yes","Yes","No","Yes","No","No built-in cache-disk cache but a delayed sync"
+"BitTorrent library","Cache","Web seeding","Broadcatching (RSS)","Prioritization","Selective downloads","SOCKS","Remote control via web","Engine","Notes"

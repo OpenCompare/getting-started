@@ -1,0 +1,53 @@
+"Kernel name","Used in","Creator","Executable
+format
+(also see
+section
+below)","Type","Integrated firewall","SMP support","Multiple architecture
+support
+(also see
+section below).","Multitasking","Virtualization","Security","Profiling/Debugging","Soft real-time support","Hard real-time support","Can keep RTC in UT"
+"Agnix","?","?","?","?","?","?","?","Yes","?","?","?","?","?","?"
+"Amiga Exec","AmigaOS","Commodore International","HUNK","Exokernel (atypical)","No","No","No","Yes","No","No","Yes","No","No","No"
+"Amiga Exec SG (2nd Generation)","AmigaOS 4","Hyperion Entertainment","ELF/HUNK","Exokernel (atypical)","No","No","No","Yes","No","No","Yes","No","No","?"
+"DragonFly BSD kernel","DragonFly BSD","Matt Dillon","ELF","hybrid","Ipfirewall,
+PF","Yes","No","Yes","chroot, jail, vkernel","Unix permissions","DDB, KGDB","?","?","?"
+"FreeBSD kernel","FreeBSD,
+Debian GNU/kFreeBSD,
+Gentoo/FreeBSD,
+Orbis OS","The FreeBSD Project","ELF, others - platform dependent","monolithic","IPFilter, Ipfirewall,
+PF","Yes","Yes","Yes","chroot, jail, bhyve","Unix permissions, POSIX.1e and NFSv4 ACLs, Capsicum, TrustedBSD MAC, OpenBSM","KDB, DDB, KGDB, DTrace, hwpmc","Yes","?","Yes"
+"GNU Hurd","GNU/Hurd (Arch Hurd, Debian GNU/Hurd, NixOS)","GNU Project/Free Software Foundation","ELF","multiserver microkernel","No","partial","No","Yes","chroot, Xen","Unix permissions, POSIX ACL, POSIX Capabilities","?","?","?","?"
+"GNU Mach","part of GNU Hurd, used in GNU/Hurd","GNU Project/Free Software Foundation","ELF","microkernel","No","partial","No","Yes","chroot, Xen","Unix permissions, POSIX ACL, POSIX Capabilities","?","?","?","?"
+"Inferno kernel","Inferno","Bell Labs / Vita Nuova Holdings","?","virtual machine","?","Yes","Yes","Yes","chroot, Xen","?","?","?","?","?"
+"L4","L4","Jochen Liedtke","No","microkernel","No","Yes","Yes","Yes","Yes","Afterburner/L4 , Marzipan , capabilities in L4/Fiasco","L4/Fiasco","L4/Fiasco","?","?"
+"Linux kernel","Linux, Android, webOS, Firefox OS, Chrome OS, Syllable Server, Mastodon Linux, OpenBSD/Linux, Plan 9/Linux, Sailfish OS, Tizen, others","Linus Torvalds","ELF, others","monolithic","*ipfwadm (2.0 –)
+ ipchains (2.2 –)
+ Netfilter (2.4 – 3.x)
+ nftables (3.13 –)","Yes","Yes","Yes","cgroups, chroot, Lguest, Xen, KVM, kvm-lite, LXC","Unix permissions, POSIX ACL, POSIX Capabilities, keyctl, LSM(SELinux, SMACK, TOMOYO Linux, AppArmor)","OProfile, kprobe, SystemTap, JProbe, ftrace, KDB, KGDB, kernel marker, perf tools","CONFIG_PREEMPT","(CONFIG_PREEMPT_RT Patch)","Yes"
+"Compute Node Linux","Compute Node Linux","Cray Inc.","?","?","?","?","?","?","?","?","?","?","?","?"
+"Mach","NeXTSTEP and OPENSTEP for Mach","Carnegie Mellon University","Mach-O","microkernel","?","?","?","?","?","?","?","?","?","?"
+"MINIX 3 kernel","MINIX 3","Andrew S. Tanenbaum","ELF, a.out","microkernel","No","No","Yes","Yes","No","Unix permissions","Call profiling, statistical profiling, Minix Debugger (mdb)","No","No","?"
+"MkLinux","?","OSF Research Institute and Apple Computer","?","microkernel","?","?","?","?","?","?","?","?","?","?"
+"NetBSD kernel","NetBSD,
+GNU/kNetBSD (Debian GNU/NetBSD),","The NetBSD Project","ELF, others - platform dependent","monolithic, anykernel using rump kernel architecture","IPFilter, PF, NPF","Yes","Yes","Yes","Xen, chroot","kauth, Unix permissions","DDB, KGDB, tprof","POSIX real-time scheduling extensions","Kernel preemption","?"
+"NetWare kernel","NetWare","Novell","NLM","hybrid","Yes","Yes","No","Yes","?","?","?","?","?","?"
+"OpenBSD kernel","OpenBSD","OpenBSD developers","ELF, others - platform dependent","monolithic","PF","Yes","Yes","Yes","?","Unix permissions","?","?","?","?"
+"OS/2 kernel","OS/2 version 2 and above","IBM","LX","hybrid","No","Yes","No PowerPC version developed but never officially released.","Yes","No","Yes","Yes","Yes","No","?"
+"Plan 9 kernel","Plan 9 from Bell Labs","Bell Labs","?","hybrid","ipmux","Yes","Yes","Yes","?","?","?","?","?","?"
+"ReactOS kernel","ReactOS","ReactOS Foundation","PE, others?","hybrid","?","?","?","Yes","?","?","?","?","?","?"
+"Rockbox kernel","Rockbox","The Rockbox Project","?","?","?","?","Yes","?","?","?","?","?","?","?"
+"SunOS kernel","SunOS","Sun Microsystems","a.out","monolithic","?","Yes","Yes","Yes","?","Unix permissions","?","?","?","?"
+"Solaris kernel","Solaris,
+OpenSolaris,
+GNU/kOpenSolaris (Nexenta OS)","Sun Microsystems","ELF (32-bit only until
+Solaris 7 in 1998)","monolithic","IPFilter","Yes","Yes","Yes","Zones, chroot","Unix permissions, ACL, RBAC, Auditing, Privileges, Zones, Trusted Extensions","DTrace, CPU profiling, microstate accounting, perf counters, kernel lock stats, kstats, mdb, kmdb","Real-time scheduler","?","?"
+"Trix kernel","Trix, GNU/kTrix","Massachusetts Institute of Technology","a.out","monolithic","?","Yes","No","Yes","?","?","?","?","?","?"
+"Windows NT kernel","Windows NT, 2000,
+XP, 2003, Vista, Windows 7, Windows 8","Microsoft","PE, others?","hybrid","Yes","Yes","Yes","Yes","Hyper-V","ACL","Event Tracing","No","No","Unofficial"
+"XNU (Darwin kernel)","Mac OS X, iOS,
+OpenDarwin,
+PureDarwin
+GNU/Darwin","Apple Computer","Mach-O","hybrid","Ipfirewall,
+PF (starting in Lion)","Yes","Yes","Yes","?","Unix permissions, ACL","DTrace","?","?","?"
+"SPARTAN kernel","HelenOS","Jakub Jermar","ELF","microkernel","?","Yes","Yes","Yes","?","?","?","?","?","?"
+"","","","","","","","","","","","","","",""

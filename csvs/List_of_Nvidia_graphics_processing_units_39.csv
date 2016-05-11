@@ -1,0 +1,24 @@
+"Products","Model","Launch","Code name","Fab (nm)","Bus interface","Memory (GB)","Core config","Clock speed","Clock speed","Clock speed","Fillrate","Fillrate","Memory","Memory","Memory","API support (version)","API support (version)","API support (version)","Processing Power
+ (GFLOPS)","TDP (watts)","Notes"
+"Products","Model","Launch","Code name","Fab (nm)","Bus interface","Memory (GB)","Core config","Min (MHz)","Average (MHz)","Memory (MT/s)","Pixel (GP/s)","Texture (GT/s)","Bandwidth (GB/s)","Bus type","Bus width (bit)","DirectX","OpenGL","OpenCL","Processing Power
+ (GFLOPS)","TDP (watts)","Notes"
+"P11","","","","","","","","","","","","","","","","","","","","",""
+"P1","GeForce 920M","March 12, 2015","GK208","28","PCIe 3.0 x16","2","384:32:8
+(2 SMX)","575","Unknown","1800","4.6","18.4","14.4","DDR3","64","12.0","4.5","1.1/1.2","441","Unknown",""
+"P2","GeForce 930M","March 12, 2015","GM108","28","PCIe 3.0 x16","2","256:16:8
+(2 SMM)","1029","1150","1800","8.2","16.5","14.4","DDR3","64","12.0","4.5","1.2","527","Unknown",""
+"P3","GeForce 940M","March 12, 2015","GM108","28","PCIe 3.0 x16","2","384:24:8
+(3 SMM)","1072","1176","2000","8.6","25.7","16","DDR3","64","12.0","4.5","1.2","823","Unknown",""
+"P4","GeForce GTX 950M","March 12, 2015","GM107","28","PCIe 3.0 x16","2, 4","640:40:16
+(5 SMM)","914","Unknown","5000","14.6","36.6","80","GDDR5","128","12.0","4.5","1.2","1170","Unknown","similar to Desktop 750"
+"P5","GeForce GTX 950M","March 12, 2015","GM107","28","PCIe 3.0 x16","2, 4","640:40:16
+(5 SMM)","914","2000","32","14.6","36.6","DDR3","","128","12.0","4.5","1.2","1170","","similar to Desktop 750"
+"P6","GeForce GTX 960M","March 12, 2015","GM107","28","PCIe 3.0 x16","2, 4","640:40:16
+(5 SMM)","1096","Unknown","5000","17.5","43.8","80","GDDR5","128","12.0","4.5","1.2","1403","Unknown","105% of Desktop 750Ti"
+"P7","GeForce GTX 965M","January 5, 2015","GM204","28","PCIe 3.0 x16","2, 4","1024:64:32
+(8 SMM)","944","Unknown","5000","30.2","60.4","80","GDDR5","128","12.0","4.5","1.2","1933","Unknown","85% of GTX960"
+"P8","GeForce GTX 970M","October 7, 2014","GM204","28","PCIe 3.0 x16","3, 6","1280:80:48
+(10 SMM)","924","993","5000","44.4","73.9","120","GDDR5","192","12.0","4.5","1.2","2365","75","80% of GTX 970"
+"P9","GeForce GTX 980M","October 7, 2014","GM204","28","PCIe 3.0 x16","4, 8","1536:96:64
+(12 SMM)","1038","1127","5000","66.4","99.6","160","GDDR5","256","12.0","4.5","1.2","3189","100","80% of GTX 980"
+"P10","","","","","","","","","","","","","","","","","","","","",""

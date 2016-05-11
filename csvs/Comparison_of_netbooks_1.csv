@@ -1,0 +1,7 @@
+"Manufacturer","Model","Weight 
+[kg]","Display size","Display","CPU","Speed 
+[GHz]","Storage type","Storage size
+[GB]","RAM
+[MB]","Linux OS choice(s)","Windows OS choice(s)","Expected release date"
+"GNB","GL-750","0.65/1.29","7.0","800×480 touchscreen","Freescale i.MX31","0.53","SSD","2 to 8","128 or 256","Android","None (not x86 based)","June/July 2009"
+"Nokia","Nokia Booklet 3G","1.2","10.1","1280×720","Intel Atom Z530","1.6","HDD","120","1024","No","7","November 2009"

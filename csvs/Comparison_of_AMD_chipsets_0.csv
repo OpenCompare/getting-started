@@ -1,0 +1,9 @@
+"Model","Code name","Released","CPU support","Fab (nm)","FSB/HT (MHz)","Southbridge","Features / Notes"
+"AMD-640 chipset","AMD-640","","K6, Cyrix 6x86","","66 (FSB)","AMD-645","AMD licensed VIA Technologies' Apollo VP2/97"
+"AMD-750 chipset","AMD-751","1999","Athlon, Duron (Slot&nbsp;A, Socket&nbsp;A), Alpha&nbsp;21264","","100 (FSB)","AMD-756, VIA-VT82C686A","AGP 2×, SDRAM
+Irongate chipset family; early steppings had issues with AGP 2×; drivers often limited support to AGP 1×; later fixed with ""super bypass"" memory access adjustment."
+"AMD-760 chipset","AMD-761","Nov 2000","Athlon, Athlon XP, Duron (Socket&nbsp;A), Alpha&nbsp;21264","","133 (FSB)","AMD-766, VIA-VT82C686B","AGP 4×, DDR SDRAM"
+"AMD-760MP chipset","AMD-762","May 2001","Athlon&nbsp;MP","","133 (FSB)","AMD-766","AGP 4×"
+"AMD-760MPX chipset","AMD-762","May 2001","Athlon&nbsp;MP","","133 (FSB)","AMD-768","AGP 4×, Hardware RNG
+Most initial boards shipped without USB headers due to a fault with the integrated USB controller. Manufacturers included PCI USB cards to cover this shortcoming. A later refresh of the chipset had the USB problem remedied."
+"AMD-8000 series chipset","AMD-8111","Apr 2004","Opteron","","800 (HT 1.x)","AMD-8131 AMD-8132","Hardware RNG"

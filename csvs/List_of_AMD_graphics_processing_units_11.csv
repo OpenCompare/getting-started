@@ -1,0 +1,34 @@
+"Products","Model","Launch","Code name","Fab (nm)","Memory (MB)","Core clock (MHz)","Memory clock (MHz)","Config core","Fillrate","Fillrate","Fillrate","Fillrate","Memory","Memory","Memory"
+"Products","Model","Launch","Code name","Fab (nm)","Memory (MB)","Core clock (MHz)","Memory clock (MHz)","Config core","MOperations/s","MPixels/s","MTexels/s","MVertices/s","Bandwidth (GB/s)","Bus type","Bus width (bit)"
+"P1","Radeon X700 SE","Apr. 1, 2005","RV410 (alto)","110","128","400","400
+500","4:6:4:8","1600","3200","1600","600","3.2","DDR","64"
+"P2","Radeon X700 LE","Dec. 21, 2004","RV410 (alto)","110","128","400","500","8:6:8:8","3200","3200","3200","600","4","DDR","64"
+"P3","Radeon X700","Sept. 2005","RV410 (alto)","110","128, 256","400","500
+700","8:6:8:8","3200","3200","3200","600","8
+11.2","DDR","128"
+"P4","Radeon X700 Pro","Dec. 21, 2004","RV410 (alto)","110","128, 256","425","864","8:6:8:8","3400","3400","3400","637.5","13.824","GDDR3","128"
+"P5","Radeon X700 XT","Never Released","RV410 (alto)","110","128, 256","475","1050","8:6:8:8","3800","3800","3800","712.5","16.8","GDDR3","128"
+"P6","Radeon X800 GT 128MB","Aug. 1, 2005","R423
+R480 (thor)","130","128","475","350","8:6:8:16","3800","7600","3800","712.5","22.4","DDR","256"
+"P7","Radeon X800 GT 256MB","Aug. 1, 2005","R423
+R480 (thor)","130","256","475","980","8:6:8:16","3800","7600","3800","712.5","31.36","GDDR3","256"
+"P8","Radeon X800","Dec. 1, 2004","R430 (thor)","110","128, 256","392","700","12:6:12:16","4704","6272","4704","588","22.4","GDDR3","256"
+"P9","Radeon X800 GTO 128MB","Sept. 15, 2005","R423
+R480
+R430 (thor)","130
+110","128","400","700","12:6:12:16","4800","6400","4800","600","22.4","GDDR3","256"
+"P10","Radeon X800 GTO 256MB","Sept. 15, 2005","R423
+R480
+R430 (thor)","130
+110","256","400","980","12:6:12:16","4800","6400","4800","600","31.36","GDDR3","256"
+"P11","Radeon X800 Pro","May 5, 2004","R423 (thor)","130","256","475","900","12:6:12:16","5700","7600","5700","712.5","28.8","GDDR3","256"
+"P12","Radeon X800 XL","Dec. 1, 2004 (256 MB)
+May 4, 2005 (512 MB)","R430 (thor)","110","256, 512 MB","400","980","16:6:16:16","6400","6400","6400","600","31.36","GDDR3","256"
+"P13","Radeon X800 XT","Dec. 1, 2004","R423 (thor)","130","256","500","1000","16:6:16:16","8000","8000","8000","750","32","GDDR3","256"
+"P14","Radeon X800 XT Platinum Edition","May 5, 2004","R423 (thor)","130","256","520","1120","16:6:16:16","8320","8320","8320","780","35.84","GDDR3","256"
+"P15","Radeon X850 Pro","Dec. 1, 2004","R480 (thor)","130","256","507","1040","12:6:12:16","6084","8112","6084","760.5","33.28","GDDR3","256"
+"P16","Radeon X850 XT","Dec. 1, 2004","R480 (thor)","130","256","520","1080","16:6:16:16","8320","8320","8320","780","34.56","GDDR3","256"
+"P17","Radeon X850 XT CrossFire Master","Sept. 29, 2004","R480 (thor)","130","256","520","1080","16:6:16:16","8320","8320","8320","780","34.56","GDDR3","256"
+"P18","Radeon X850 XT Platinum Edition","Dec. 21, 2004","R480 (thor)","130","256","540","1180","16:6:16:16","8640","8640","8640","810","37.76","GDDR3","256"
+"P19","Model","Launch","Code name","Fab (nm)","Memory (MB)","Core clock (MHz)","Memory clock (MHz)","Config core","MOperations/s","MPixels/s","MTexels/s","MVertices/s","Bandwidth (GBit/s)","Bus type","Bus width (bit)"
+"P20","Model","Launch","Code name","Fab (nm)","Memory (MB)","Core clock (MHz)","Memory clock (MHz)","Config core","Fillrate","Fillrate","Fillrate","Fillrate","Memory","Memory","Memory"

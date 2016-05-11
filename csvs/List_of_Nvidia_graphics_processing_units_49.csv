@@ -1,0 +1,24 @@
+"Model","Code name","Fab (nm)","Bus interface","Memory (MB)","Core clock (MHz)","Shader clock (MHz)","Memory clock (MHz)","Core config","Fillrate","Fillrate","Memory","Memory","Memory","Processing Power
+GFLOPS","Processing Power
+GFLOPS","API support (version)","API support (version)","TDP (watts)","Notes"
+"Model","Code name","Fab (nm)","Bus interface","Memory (MB)","Core clock (MHz)","Shader clock (MHz)","Memory clock (MHz)","Core config","Pixel (GP/s)","Texture (GT/s)","Bandwidth (GB/s)","Bus type","Bus width (bit)","Single Precision","Double Precision","DirectX","OpenGL","TDP (watts)","Notes"
+"Quadro 410","GK107","28","PCIe 3.0 x16","512","706","706","1800","192:16:8
+(1 SMX)","5.65","11.3","14.4","DDR3","64","271.10","","11.0","4.5","38",""
+"Quadro K600","GK107","28","PCIe 2.0 x16","1024","876","876","891
+(1782)","192:16:16
+(1 SMX)","14.0","14.0","28.5","DDR3","128","336.38","","11.0","4.5","41","6.3"" Card"
+"Quadro K2000","GK107","28","PCIe 2.0 x16","2048","954","954","1000
+(4000)","384:32:16
+(2 SMX)","15.2","30.5","64","GDDR5","128","732.67","","11.0","4.5","51","7.97"" Card"
+"Quadro K2000D","GK107","28","PCIe 2.0 x16","2048","954","954","1000
+(4000)","384:32:16
+(2 SMX)","15.2","30.5","64","GDDR5","128","732.67","","11.0","4.5","51","7.97"" Card"
+"Quadro K4000","GK106","28","PCIe 2.0 x16","3072","810.5","810.5","1404
+(5616)","768:64:24
+(4 SMX)","19.4","51.9","134.8","GDDR5","192","1244.93","","11.0","4.5","80","9.5"" Card"
+"Quadro K5000","GK104","28","PCIe 2.0 x16","4096","706","706","1350
+(5400)","1536:128:32
+(8 SMX)","22.6","90.4","172.8","GDDR5","256","2168.83","90.4","11.0","4.5","122","10.5"" Card"
+"Quadro K6000","GK110","28","PCIe 3.0 x16","12288","901.5","901.5","1502
+(6008)","2880:240:48
+(15 SMX)","54.1","216","288","GDDR5","384","5196","1732","11.0","4.5","225","10.5"" Card"
