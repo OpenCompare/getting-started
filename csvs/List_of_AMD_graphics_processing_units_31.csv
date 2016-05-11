@@ -1,7 +1,0 @@
-"Model","Launch","Model Number","Code name","Fab (nm)","Bus interface","Memory (MB)","Core clock (MHz)","Memory clock (MHz)","Config core","Fillrate","Fillrate","Memory","Memory","Memory","API compliance (version)","API compliance (version)","Notes"
-"Model","Launch","Model Number","Code name","Fab (nm)","Bus interface","Memory (MB)","Core clock (MHz)","Memory clock (MHz)","Config core","Pixel (GP/s)","Texture (GT/s)","Bandwidth (GB/s)","Bus type","Bus width (bit)","DirectX","OpenGL","Notes"
-"Mobility Radeon X300","Nov 2005","M22","RV370","110","PCI-E x16","128","350","250","2:4:4:4","1.4","1.4","4","DDR","64","9.0b","2.0","Powerplay 5.0"
-"Mobility Radeon X600","Jun 2004","M24","RV380","130","PCI-E x16","64, 128","400","250","2:4:4:4","1.6","1.6","8","DDR","128","9.0b","2.0",""
-"Mobility Radeon X700","Mar 2005","M26","RV410","110","PCI-E x16","Shared-128? 64, 128","350","350","6:8:8:4","1.4","2.8","11.2","DDR, GDDR3","128","9.0b","2.0","3DC, Dynamic Lane Count Switching,"
-"Mobility Radeon X800","Nov 2004","M28","R423","130","PCI-E x16","256","400","400","6:12:12:12","4.8","4.8","25.6","GDDR3","256","9.0b","2.0","3DC, DLCS, Clock Gating"
-"Mobility Radeon X800 XT","Jun 2005","M28 PRO","R423","130","PCI-E x16","256","480","550","6:16:16:16","7.68","7.68","35.2","GDDR3","256","9.0b","2.0","3DC, DLCS, Clock Gating"

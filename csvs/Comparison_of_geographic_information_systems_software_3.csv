@@ -1,4 +1,0 @@
-"Name","Language","WMS","WFS","WFS-T","WCS","WMC","Other"
-"Geomajas","Ajax or Java","Yes","Yes","No","No","No","Full vectorial editing capabilities, support for complex relation models (1 to n, n to 1, inheritance) through Hibernate Spatial, printing functionality through iT3xt and OpenStreetMap compatibility."
-"Mapbender","PHP","Yes","Yes","Yes","No","Yes","A Geo-CMS that provides interfaces for displaying, navigating, querying, and editing WMS, WFS, WFS-T, and WMC data sources."
-"Mapbuilder","PHP or Java","Yes","Yes","Yes","No","Yes","Set of JavaScript widgets that provide interfaces for displaying, navigating, querying, and editing WMS, WFS, WFS-T, and WMC data sources. Uses OpenLayers as the rendering engine. Provides server-side script for saving the map as a WMC document."

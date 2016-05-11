@@ -1,8 +1,0 @@
-"Model","Code name","Fab (nm)","Bus interface","Memory (MB)","Core clock (MHz)","Shader clock (MHz)","Memory clock (MHz)","Core config","Fillrate","Fillrate","Memory","Memory","Memory","Processing Power
-GFLOPS","Processing Power
-GFLOPS","API support (version)","API support (version)","TDP (watts)","Notes"
-"Model","Code name","Fab (nm)","Bus interface","Memory (MB)","Core clock (MHz)","Shader clock (MHz)","Memory clock (MHz)","Core config","Pixel (GP/s)","Texture (GT/s)","Bandwidth (GB/s)","Bus type","Bus width (bit)","Single Precision","Double Precision","DirectX","OpenGL","TDP (watts)","Notes"
-"Quadro FX 560","G73GL","90","PCIe x16","128","350","350","1200","5:12:12:8","2.8","4.2","19.2","GDDR3","128","","","9.0c","2.1","30",""
-"Quadro FX 4600","G80","90","PCIe x16","768","500","1200","1400","96:24:24","12","24","67.2","GDDR3","384","345","-","10.0","3.3","134","Stereo display, SLI, Genlock"
-"Quadro FX 4600 SDI","G80","90","PCIe x16","768","500","1200","1400","96:24:24","12","24","67.2","GDDR3","384","345","-","10.0","3.3","154","Stereo display, SLI, Genlock"
-"Quadro FX 5600","G80","90","PCIe 2.0 x16","1536","600","1350","1600","128:32:24","14.4","38.4","76.8","GDDR3","384","518.4","-","10.0","3.3","171","Stereo display, SLI, Genlock"

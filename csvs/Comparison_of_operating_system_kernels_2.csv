@@ -1,6 +1,0 @@
-"Kernel Name","File access control","Disable memory execution support","Kernel ASLR","Mandatory access control","Capability-based security","In-kernel key management","Audit API","Sandbox","SYN flood protection","UDP flood protection","Ping flood protection","Smurf attack protection","Network Behavior Analysis"
-"Linux","Traditional Unix permissions, POSIX ACL","Yes","Yes","LSM(SELinux, SMACK, TOMOYO Linux, AppArmor)","No","keyctl","fanotify","SELinux Sandbox, seccomp, KVM","SYN cookies","No?","No?","No?","No"
-"FreeBSD Kernel","Traditional Unix permissions, POSIX and NFSv4 ACL","Yes","?","TrustedBSD MAC","Capsicum","?","OpenBSM","Capsicum","SYN cookies","?","?","?","?"
-"Solaris Kernel","Traditional Unix permissions, POSIX ACL, NFSv4 ACL","Default","?","Solaris Trusted Extensions","?","?","?","?","?","?","?","?","?"
-"Windows NT kernel","Access control list","DEP","Yes","Mandatory Integrity Control","?","?","?","?","?","?","?","?","?"
-"XNU","Traditional Unix permissions, access control list","Yes","Yes","TrustedBSD MAC","?","?","OpenBSM","Apple XNU Sandbox","?","?","?","?","?"

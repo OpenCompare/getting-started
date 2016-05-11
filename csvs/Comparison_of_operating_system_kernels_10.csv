@@ -1,5 +1,0 @@
-"Kernel name","DES","AES","Blowfish","Triple DES","Serpent","Twofish","CAST-128","DES-X","IDEA","RC2","RC5","SEED","Skipjack","TEA","XTEA","CAST-256","RC4","Camellia","Anubis","KHAZAD","Salsa20","FCrypt"
-"Linux","Yes","Yes","Yes","Yes","Yes","Yes","Yes","?","?","?","?","Yes","?","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
-"Windows NT kernel","Yes","Yes","Yes","Yes","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","No","No","No","No","No"
-"FreeBSD kernel","Yes","Yes","Yes","Yes","No","No","Yes","No","Yes","No","No","No","Yes","No","No","Yes","Yes","Yes","No","No","No","No"
-"","","","","","","","","","","","","","","","","","","","","","",""

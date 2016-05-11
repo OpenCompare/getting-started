@@ -1,4 +1,0 @@
-"IDE","License","Windows","Linux","Mac OS X","Other platforms","editor","Debugger","Stepper","GUI builder","Profiler","Browsers"
-"Allegro Common Lisp","Proprietary","Yes","Yes","Yes","FreeBSD, HP-UX, IBM AIX, Solaris, Tru64 UNIX","Yes","Yes","Yes","Yes","Yes","Class browser, Systems, Definitions"
-"LispWorks","Proprietary","Yes","Yes","Yes","FreeBSD, HP-UX, Solaris","Yes","Yes","Yes","Yes","Yes","Class browser, Functions, Errors, Processes, Symbols, Systems"
-"SLIME (Emacs)","portions in GPL v2, LGPL, BSD and public domain","Yes","Yes","Yes","DragonFly BSD, FreeBSD, HP-UX, IBM AIX, IRIX, MS-DOS, NetBSD, OpenBSD, OpenVMS, OS/2, Solaris, other Unix","Yes","Yes","Yes","No","Yes","Class browser, Errors, Symbols"

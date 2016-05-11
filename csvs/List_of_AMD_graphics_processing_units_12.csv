@@ -1,5 +1,0 @@
-"Model","Launch","Code name","Fab (nm)","Bus interface","Memory (MB)","Core clock (MHz)","Memory clock (MHz)","Config core","Fillrate","Fillrate","Fillrate","Fillrate","Memory","Memory","Memory"
-"Model","Launch","Code name","Fab (nm)","Bus interface","Memory (MB)","Core clock (MHz)","Memory clock (MHz)","Config core","MOperations/s","MPixels/s","MTexels/s","MVertices/s","Bandwidth (GB/s)","Bus type","Bus width (bit)"
-"Radeon Xpress X1200","Feb. 28 2007","RS690C (zeus)","80","HT 2.0","256 - 512","350","400 - 800","4:2:4:4","1400","1400","1400","175","6.4 - 12.8","DDR2","128"
-"Radeon Xpress X1250","Aug. 29, 2006 (Intel), Feb. 28, 2007 (AMD)","RS600, RS690 (zeus)","80","FSB, HT 2.0","256 - 512","400","400 - 800","4:2:4:4","1600","1600","1600","200","6.4 - 12.8","DDR2","128"
-"Radeon Xpress 2100","March 4, 2008","RS740 (titan)","55","HT 2.0","256 - 512","500","400 - 800","4:2:4:4","2000","2000","2000","250","6.4 - 12.8","DDR2","128"

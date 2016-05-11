@@ -1,8 +1,0 @@
-"Application Ecosystem","Application Ecosystem","Application Ecosystem","Application Ecosystem","Application Ecosystem","Application Ecosystem","Application Ecosystem","Application Ecosystem","Application Ecosystem","Application Ecosystem"
-"Feature","iOS","Android","Firefox OS","Windows Phone","BlackBerry 10","Mer","Tizen","Sailfish OS","Ubuntu Touch"
-"Official application store","App Store","Google Play","Firefox Marketplace","Windows Phone Store","BlackBerry World, Amazon Appstore","?","Tizen Store","Jolla Store","Ubuntu Store"
-"Non-discriminatory stores","Apple discriminates based on country and own Apple policies","Developers can distribute apps from their own sources","Developers can distribute apps from their own sources, supports multiple app stores","Discriminates by country and manufacturer","3rd party software","?","?","?","?"
-"Common API for smartphones, tablets, and PCs","No","Yes","Yes","8.1+","No","Yes","No","Yes","Yes"
-"Official SDK platform(s)","Mac OS X using iOS SDK","Linux, Mac OS X and Windows","All where Firefox is available","Windows","Windows, Mac OS X, Linux (only Native SDK for 10+)","GNU/Linux and Windows","GNU/Linux, Windows, OS X","Windows, Mac OS X and Linux","Ubuntu desktop using Ubuntu SDK"
-"Cost to develop for the mobile OS","US$99/year","Free","Free","Free","Free","Free","Free","Free","Free"
-"Cost to publish application to official store","Included in the cost (US$99/year) to develop for the mobile OS","US$25 once to offer it on Google Play","Free","US$19/year for an individual and $99/year for a company account. Students can get a token for an individual account (1 token for 365 days) which gives free access to Windows Store/Phone Dev Center for 12 months.","Free","Free","Free","Free","Free"

@@ -1,7 +1,0 @@
-"","Full environments","Full environments","Full environments","Full environments","Full environments","Full environments","Full environments","Shell (semi-environment)"
-"","KDE Software Compilation","LXQt","GNOME","MATE","Xfce, LXDE and ROX Desktop","Étoilé","EDE","Enlightenment"
-"Main objective","Full desktop environment, graphical, easy to use, targeted at everyone. Focus on providing advanced features and configurability.","Lightweight desktop environment, modular, portable.","Full desktop environment, graphical, easy to use, targeted at everyone. Emphasis on ergonomics and workflow simplification.","Forked from GNOME. Emphasis on providing the traditional desktop metaphor eschewed by GNOME 3.","Lightweight desktop environment, modular, portable.","Lightweight desktop environment, modular, portable.","Lightweight desktop environment, modular, portable.","Advanced graphical libraries, tools and environments"
-"Programming language","Mainly C++, as Qt is written in C++","Mainly C++, as Qt is written in C++","Mainly C, as GTK+ is written in C","Mainly C, as GTK+ is written in C","Mainly C, as GTK+ is written in C","Objective-C","C++","C"
-"Additional library dependencies","KDELibs, KDE Frameworks 5","requires window manager","libgnome","libmate","libxfce* for Xfce.","","libede","EFL"
-"Toolkit used","Qt","Qt","GTK+","GTK+","GTK+","GNUstep","FLTK (previously eFLTK)","Elementary (provided by EFL)"
-"Size (base system, X installed)","~210 MB","~20 MB","~180 MB","~180 MB","Xfce: ~15 MB, ROX: ~780 KB","","EDE: ~3 MB","DR16: ~3 MB, DR17: ~15MB"

@@ -1,6 +1,0 @@
-"IDE","License","Windows","Linux","Mac OS X","Other platforms","Debugger","GUI builder","Profiler","Static code analysis","MXML","Export to Mobile"
-"Flash Professional","Proprietary","Yes","No","Yes","JVM","Yes","Yes","Yes","Yes","Yes","Yes"
-"Flash Builder","Proprietary","Yes","No","Yes","JVM","Yes","Yes","Yes","Yes","Yes","Yes"
-"FlashDevelop","MIT License","Yes","No","No","","Yes","No","Yes","No","Yes","Yes"
-"IntelliJ IDEA","Proprietary","Yes","Yes","Yes","FreeBSD, OpenBSD, Solaris","Yes","No","Yes","Yes","Yes","Yes"
-"Powerflasher FDT","Proprietary","Yes","Yes","Yes","JVM","Yes","No","Yes","Yes","Yes","Yes"

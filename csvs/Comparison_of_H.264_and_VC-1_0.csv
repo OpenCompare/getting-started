@@ -1,6 +1,0 @@
-"VC-1","H.264",""
-"Goals","Designed to offer very high image quality with excellent compression efficiency","Designed to meet a variety of industry needs with many profiles and levels, allowing for varying compression, quality and CPU usage levels, where the lowest level is for portable devices, designed with low CPU usage in mind, while the high levels are designed with very high quality and compression efficiency in mind"
-"Example industry use","Supports 4:2:0 compression / color space","Supports studio archiving requirements with 4:4:4 color space; 
- separate black and white (BW) video mode"
-"Licensing costs","Similar","Similar"
-"Documentation","Not free.  Reference decoder, comes with external documentation.","? AVC/H264 Licensing costs and terms from MPEG LA. Reference encoder and decoder free as well. Additionally, JVT & M4IF mailing lists are available where one may receive answers on AVC related questions."

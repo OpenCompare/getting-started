@@ -1,8 +1,0 @@
-"Name","Language","WMS-C","Other"
-"ArcGIS Server",".NET/Java","No",""
-"Erdas Apollo","Java/C++","Yes","Including WMTS, WMS"
-"GeoMedia WebMap and SDI Pro",".NET/C++","No","Offers WMS and WMTS based on a cache of tiles, but tiling schema is different from WMS-C"
-"GeoWebCache","Java","Yes","Open source, WMS, WMTS, TMS, KML, Virtual Earth"
-"MapDotNet","C#/.NET","No","File-based and SQL Server"
-"MapProxy","Python","Yes","Open source, Full WMS support"
-"TileCache","Python","Yes","Open source"

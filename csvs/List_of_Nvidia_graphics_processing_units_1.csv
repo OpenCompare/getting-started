@@ -1,8 +1,0 @@
-"Model","Launch","Code name","Bus interface","Memory (MB)","Core clock (MHz)","Memory clock (MHz)","Core config","Fillrate","Fillrate","Fillrate","Fillrate","Memory","Memory","Memory"
-"Model","Launch","Code name","Bus interface","Memory (MB)","Core clock (MHz)","Memory clock (MHz)","Core config","MOperations/s","MPixels/s","MTextels/s","MVertices/s","Bandwidth (GB/s)","Bus type","Bus width (bit)"
-"GeForce256","October 11, 1999","NV10","AGP 4x
-PCI","32
-64","120","166","4:4:4","480","480","480","0","2.656","SDR","128"
-"GeForce256 DDR","February 1, 2000","NV10","AGP 4x
-PCI","32
-64","120","300","4:4:4","480","480","480","0","4.8","DDR","128"

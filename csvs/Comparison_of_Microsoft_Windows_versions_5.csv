@@ -1,6 +1,0 @@
-"Name","Release date","RTM build","Current version","Status support","License","Codename","Based on (kernel)","Supported architectures"
-"Windows Phone 7","2010-11-08","","","","","Photon","CE 6.0",""
-"Windows Phone 7.5","2011-11","","","","","Mango","CE 6.1",""
-"Windows Phone 7.8","2013-01","","","","","","CE 6.1",""
-"Windows Phone 8","2012-10-29","10211","6.2","Supported","Closed source,
-Shared source","Apollo, Portico","NT 6.2","ARM"

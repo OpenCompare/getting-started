@@ -1,5 +1,0 @@
-"Program","Operating systems","License","Protocols/based upon/compatible with","Encryption","Other capabilities","Key and target markets","Latest release"
-"Tapioca","Linux","GPL","Telepathy (software)","Unknown","","","0.3.9 June 12, 2006"
-"Telepathy/Farstream","Linux, Mac OS X, Windows","LGPL","SIP, XMPP (Jingle), ICE (STUN/TURN), UPnP","No","Multi-user A/V conferencing, IM, collaborative applications","Mobile devices (Maemo), Linux Desktop","spec 0.17.8 July 24, 2008"
-"OPAL","Windows, Linux (including embedded variants), Mac OS X","MPL","SIP, H.323, IAX2, CAPI, VXML","Unknown","Multi-user A/V conferencing, IM, IVR","Softphones, Softswitches, Telephony application servers","3.14.3 October 10, 2014"
-"GNU oSIP","Linux, Windows, Mac OS, Android, iPhone, BlackBerry","LGPL","SIP, SDP","Unknown","Multi-user A/V conferencing, IM, IVR","Softphones, Embedded and Mobile devices, Telephony application servers","4.1.0 December 18, 2013"

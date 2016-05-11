@@ -1,6 +1,0 @@
-"Model","Code name","Fab (nm)","Bus interface","Memory (MB)","Core clock (MHz)","Shader clock (MHz)","Memory clock (MHz)","Core config","Fillrate","Fillrate","Memory","Memory","Memory","Processing Power
-GFLOPS","Processing Power
-GFLOPS","API support (version)","API support (version)","TDP (watts)","Notes"
-"Model","Code name","Fab (nm)","Bus interface","Memory (MB)","Core clock (MHz)","Shader clock (MHz)","Memory clock (MHz)","Core config","Pixel (GP/s)","Texture (GT/s)","Bandwidth (GB/s)","Bus type","Bus width (bit)","Single Precision","Double Precision","DirectX","OpenGL","TDP (watts)","Notes"
-"Quadro FX 330","NV37GL","150","PCIe x16","64","250","250","400","2:4:4:2","1","1","3.2","DDR","128","","","9.0","2.0","21",""
-"Quadro FX 1300","NV41","130","PCIe x16","128","350","350","550","3:8:8:8","2.8","2.8","8.8","DDR","256","","","9.0c","2.1","55",""

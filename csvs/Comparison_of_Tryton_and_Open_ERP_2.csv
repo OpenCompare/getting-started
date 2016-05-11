@@ -1,6 +1,0 @@
-"Subject","Tryton","Odoo"
-"Accounting","Uses decimal","Uses floats"
-"Password Storage","SHA1-hash (salted since version 1.4) or bcrypt","Cleartext by default, salted HMAC-MD5 hash with base_crypt module"
-"Code review","All commits through Rietveld","Bugfix/Feature branches reviewed by R&D on GitHub"
-"float/integer representation","Limited to float or long because using gtk.Entry without limit","Limited to sys.maxint of Python because using gtk.SpinButton"
-"Date representation","Uses datetime.datetime and datetime.date","Uses strings to represent dates"

@@ -1,7 +1,0 @@
-"Kernel Name","Container (no resource management, no security)","Container (no resource management)","Container (resource management)","Paravirtualization","Full virtualization","User-space execution"
-"Linux","chroot","LXC","LXC","Virtio, Hyper-V (guest only), Xen (guest only), VMI (guest only), kvm-lite, lguest","KVM","UML"
-"DragonFly BSD kernel","chroot","jail","jail","No","No","vkernel"
-"FreeBSD kernel","chroot","jail","jail","Virtio, Xen (guest only)","BHyVe (KVM)","?"
-"Solaris kernel","chroot","Solaris Containers / Zones","Solaris Containers / Zones","No","No","No"
-"Windows NT kernel","AppContainers","AppContainers","AppContainers","Hyper-V","Hyper-V","?"
-"XNU","chroot","?","?","?","?","?"

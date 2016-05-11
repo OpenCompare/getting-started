@@ -1,8 +1,0 @@
-"Model","Code Name","Release Date","Processors Supported","Fabrication
-process (nm)","FSB/HT
-Frequency (MHz)","PCI-Express","SLI","PCI","USB","PATA","SATA","LAN","Sound","Features","Notes"
-"nForce 630a","MCP68","September, 2007","Athlon 64 X2, Athlon 64, Sempron 64
-Socket AM2","","HT 1 GHz","1.1
-20 lanes","No","5 Ports","12 Ports Rev 2.0","1 Ports UDMA 133","4 Ports 3.0Gbit/s","1000 Mbit/s","HDA","Onboard GeForce 7025/7050",""
-"nForce 680a SLI","2*MCP55","December 6, 2006","AMD Dual Dual-core Socket F","","HT 1 GHz *2","1.0a
-56 lanes","x16+x16+x8+x8","5 Ports","20 Ports Rev 2.0","2 Ports UDMA 133","12 Ports 3.0Gbit/s","4*1000 Mbit/s","HDA","","For dual-socket systems"

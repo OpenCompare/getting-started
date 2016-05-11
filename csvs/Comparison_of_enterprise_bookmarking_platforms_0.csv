@@ -1,7 +1,0 @@
-"Software","Developed by","Latest stable release","Cost (USD)","Contract support offered","Community website support","Open source","Multilingual","Programming language","User Interface","Notes"
-"Connectbeam","Connectbeam","Spotlight 3.1 (2008-6)","per instance","Yes","No","No","No","binary only","browser","none"
-"Dogear","IBM Corporation","2.0.1 (2009-3)","per instance","Yes","Yes","No","Yes","binary only","browser","does not run on mySQL, requires IBM DB2 9.1 FP5, Oracle Database 10g 10.2.0.3, Microsoft SQL Server 2005 Enterprise Edition"
-"Jumper 2.0","Jumper Networks","2.0.1.7 (2010-7)","Free","Yes","Yes","Yes - GPL","Yes","Javascript & PHP","browser","runs on mySQL database for storing tag profiles. Can also be configured to run on Oracle Database 10g or Microsoft SQL Server 2005 Enterprise Edition"
-"Knowledge Plaza","Knowledge Plaza","2.3.18","free trial, starts at €35/month/instance","Yes","Yes","No","Yes","Javascript and Python (programming language)","browser","Software-as-a-Service"
-"Licorize","Licorize","2.0","$5 month/user if used as Software-as-a-Service, $4000 per server if installed (non expiring license)","Yes","Yes","No","Yes","Java","browser","Software-as-a-Service and installed option, full Java sources are provided in the installed version"
-"Scuttle","Scuttle","0.9.0 (2013-04)","Free","No","No","Yes - GPL","No","Javascript & PHP","browser","still in alpha stage"

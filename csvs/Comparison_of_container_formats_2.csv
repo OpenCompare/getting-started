@@ -1,8 +1,0 @@
-"","MPEG-1","MPEG-2","MPEG-4 (A)SP","H.264/ MPEG-4 AVC","H.265/ HEVC","VC-1/ WMV","Real Video","Theora","Microsoft MPEG4 V2","VP8","VP9","MVC"
-"AVI","Yes","Yes","Yes","Yes","?","Yes","Yes","Yes","Yes","Yes","No","?"
-"Matroska","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
-"MP4","Yes","Yes","Yes","Yes"," Possible","Yes","Yes","Yes","Yes","Yes","?","Yes"
-"MXF","Yes","Yes","Yes","Yes","?","Yes","No","?","?","?","?","?"
-"Ogg","Yes","Yes","Yes","Yes","?","Yes","No","Yes","?","?","?","?"
-"QuickTime","Yes","Yes","Yes","Yes","?","Yes","No","Yes","?","?","?","?"
-"WebM","No","No","No","No","?","No","No","No","No","Yes","Yes","No"

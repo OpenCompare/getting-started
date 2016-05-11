@@ -1,8 +1,0 @@
-"Feature","VC-1","H.264"
-"Partition sizes","16×16 and 8×8","16×16, 16×8, 8×16, 8×8, 8×4, 4×8, and 4×4"
-"Integer transform","8×8, 4×8, 8×4, and 4×4","4×4; 8×8 available in High Profile only"
-"Frame","Used for progressive or interlaced content","Used for progressive or interlaced content"
-"Macroblock sizes","16×16 only","16×16 only"
-"Motion vector","Two dimensional vector offset from current position to reference frame","Two dimensional vector offset from current position to reference frame"
-"Picture","A field or frame","A field or frame"
-"Skipped macroblock","No data is encoded for macroblock","No data is encoded for macroblock"

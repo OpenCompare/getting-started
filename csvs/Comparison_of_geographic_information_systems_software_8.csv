@@ -1,4 +1,0 @@
-"Name","WMS-C/WMTS","WMS","WFS","GPS","SHP","GML","GPX","Raster","Editing","Routing","Social Networks","Others"
-"gvSIG Mobile","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","Full vectorial editing capabilities both GPS and hand-based, SRS support, custom forms for alphanumeric attributes, vector symbology, thematic legend. SDI client."
-"gvSIG Mini","Yes","Yes","No","Yes","No","No","No","No","No","Yes","Yes","OpenStreetMap data + other free tile services. Integration with Twitter, weather, Facebook, namefinder. Off-line."
-"TouchGeo","No","No","No","Yes","Yes","Yes","No","No","Yes","No","No","OSM, Google, Bing, MapQuest tile services, integrated with SQL Server and Dynamics CRM for read and write."

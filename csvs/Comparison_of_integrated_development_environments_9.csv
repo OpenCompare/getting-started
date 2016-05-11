@@ -1,4 +1,0 @@
-"IDE","License","Written in Java","Windows","Linux","Mac OS X","Other platforms","GUI builder"
-"Eclipse JDT","EPL","Yes","Yes","Yes","Yes","FreeBSD, JVM, Solaris","No"
-"IntelliJ IDEA","ASLv2, proprietary","Yes","Yes","Yes","Yes","FreeBSD, OpenBSD, Solaris","No"
-"NetBeans","CDDL, GPL2","Yes","Yes","Yes","Yes","OpenBSD, Solaris","Yes"

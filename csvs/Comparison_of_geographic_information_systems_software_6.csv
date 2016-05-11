@@ -1,4 +1,0 @@
-"Name","Language","WMS","WFS","GeoRSS","Other"
-"Mscross","JavaScript","Yes","Yes","No","an Ajax Web GIS client"
-"WorldKit","Flash","No","No","",""
-"GeoMedia SDI Portal",".NET, ExtJS JavaScript","Yes","Yes","Yes","Generic web client; Also supports WMTS, WMS Time dimension, WFS-G, WCTS, WPS-CT, CSW 2.0.2 ISO AP 1.0, OpenLS, WMC"

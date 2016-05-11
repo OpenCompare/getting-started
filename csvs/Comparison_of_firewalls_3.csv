@@ -1,8 +1,0 @@
-"Can:","work at OSI Layer 4 (stateful firewall)","work at OSI Layer 7 (application inspection)","Change TTL? (Transparent to traceroute)","Configure REJECT-with answer","DMZ (de-militarized zone) - allows for single/several hosts not to be firewalled.","Filter according to time of day","Redirect TCP/UDP ports (port forwarding)","Redirect IP addresses (forwarding)","Filter according to User Authorization","Traffic rate-limit / QoS","Tarpit","Log"
-"IPFire","Yes","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes"
-"OPNsense","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes"
-"Sidewinder","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes"
-"Untangle","Yes","Yes (Some modules)","No","No","Yes","Yes (With Policy manager)","Yes","Yes","Yes","Yes","Yes","Yes"
-"WinGate","Yes","Yes","Yes","No","Yes","Yes","Yes","No","Yes","Yes","No","Yes"
-"Zeroshell","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes"
-"pfSense","Yes","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","Yes","No","Yes"

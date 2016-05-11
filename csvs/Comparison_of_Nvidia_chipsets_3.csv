@@ -1,9 +1,0 @@
-"Model","Release Date","Fabrication
-process (nm)","PCI","USB","FireWire
-(IEEE1394)","PATA","SATA","LAN","Sound","Features","Notes"
-"MCP2","2002","","5 Ports","6 Ports Rev 2.0","No","2 Ports UDMA 133","No","100 Mbit/s","AC'97 2.1","",""
-"MCP2-T","2002","","5 Ports","6 Ports Rev 2.0","2 Ports","2 Ports UDMA 133","No","2× 100 Mbit/s","AC'97 2.1
-NVAPU SoundStorm","additional 100 Mbit/s LAN by 3Com",""
-"MCP2-S/R","2004","","6 Ports","8 Ports Rev 2.0","No","2 Ports UDMA 133","2 Ports 1.5 Gbit/s","100 Mbit/s","AC'97 2.1","RAID 0, 1, 0+1 (MCP2-R)",""
-"MCP2-GB","2004","","6 Ports","8 Ports Rev 2.0","No","2 Ports UDMA 133","2 Ports 1.5 Gbit/s","1000 Mbit/s","AC'97 2.1","RAID 0, 1, 0+1
-Gigabit LAN with nVidia Firewall",""

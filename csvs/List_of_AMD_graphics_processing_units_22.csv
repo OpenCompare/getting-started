@@ -1,6 +1,0 @@
-"Model","Released","Code name","Fab (nm)","Core Clock (MHz)","Config core","Fillrate","Fillrate","Shared Memory","Shared Memory","Shared Memory","GFLOPS","Max. Combined TDP (W)","GFLOPS/W","AMD APU"
-"Model","Released","Code name","Fab (nm)","Core Clock (MHz)","Config core","Pixel (GP/s)","Texture (GT/s)","Bandwidth (GB/s)","Bus type","Bus width (bit)","GFLOPS","Max. Combined TDP (W)","GFLOPS/W","AMD APU"
-"Radeon HD 6370D","Q4 2011","WinterPark","32","443","160:8:4","1.77","3.54","25.6","DDR3-1600","128","142","65","2.18","E2-3200"
-"Radeon HD 6410D","Jun 20, 2011","WinterPark","32","600","160:8:4","2.4","4.8","29.9","DDR3-1866","128","192","65","2.95","A4-3300 A4-3400"
-"Radeon HD 6530D","Jun 20, 2011","BeaverCreek","32","443","320:16:8","3.54","7.08","29.9","DDR3-1866","128","284","65 - 100","2.84 - 4.37","A6-3500 A6-3600 A6-3620 A6-3650 A6-3670K"
-"Radeon HD 6550D","Jun 20, 2011","BeaverCreek","32","600","400:20:8","4.8","12","29.9","DDR3-1866","128","480","65 - 100","4.8 - 7.38","A8-3800 A8-3820 A8-3850 A8-3870K"

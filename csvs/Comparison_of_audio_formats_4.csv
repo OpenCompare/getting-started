@@ -1,8 +1,0 @@
-"Audio compression format","Algorithm","Sample Rate","Bits per sample","Latency","Stereo","Multichannel"
-"ALAC","Lossless","1–384000 Hz","16, 20, 24, 32","?","Yes","Yes: Up to 8 channels"
-"FLAC","Lossless","1–655350 Hz","8, 16, 20, 24, 32","4.3–92 ms (46.4 ms typical)","Yes","Yes: Up to 8 channels"
-"Monkey's Audio","Lossless","1–655350 Hz","8, 16, 24","insignificant","Yes","Yes: Up to 8 channels"
-"RealAudio Lossless","Lossless","Varies (see article)","Varies (see article)","Varies","Yes","Yes: Up to 6 channels"
-"True Audio (TTA)","Lossless","0–4 GHz","1 to > 64","1045 ms (typical)","Yes","Yes: Up to 65535 channels"
-"WavPack Lossless","Lossless, Hybrid","1 Hz to 16.777216 MHz","Varies in lossless mode; supports 32-bit float input; 2.2 minimum in lossy mode","?","Yes","Yes: Up to 256 channels"
-"Windows Media Audio Lossless","Lossless","8, 11.025, 16, 22.05, 32, 44.1, 48, 88.2, 96 kHz","16, 24",">100 ms","Yes","Yes: Up to 6 channels"

@@ -1,9 +1,0 @@
-"Model","Code Name","Release Date","Processors Supported","Fabrication
-process (nm)","FSB/HT
-Frequency (MHz)","AGP","PCI","USB","PATA","SATA","LAN","Sound","Features","Notes"
-"nForce3 150","CK8","September 23, 2003","Athlon 64, Sempron 64
-Socket 939, 754","","HT 800 MHz","AGP 8×","6 Ports","6 Ports Rev 2.0","2 Ports UDMA 133","2 Ports 1.5 Gbit/s","100 Mbit/s","AC'97 2.1","",""
-"nForce3 250","CK8","September 23, 2003","Athlon 64, Sempron 64
-Socket 939, 754","","HT 800 MHz","AGP 8×","6 Ports","8 Ports Rev 2.0","2 Ports UDMA 133","4 Ports 1.5 Gbit/s","100 Mbit/s","AC'97 2.3","","GB variant includes gigabit LAN"
-"nForce3 Ultra","CK8","June 1, 2004","Athlon 64 FX, Athlon 64 X2, Athlon 64, Sempron 64
-Socket 939, 754","","HT 1 GHz","AGP 8×","6 Ports","8 Ports Rev 2.0","2 Ports UDMA 133","4 Ports 1.5 Gbit/s","1000 Mbit/s","AC'97 2.3","",""

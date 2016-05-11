@@ -1,9 +1,0 @@
-"Model","Archi-
-tecture","# of GPUs","Thread Processors
-(total)","Bus Interface","Memory","Memory","TDP (watts)"
-"Model","Archi-
-tecture","# of GPUs","Thread Processors
-(total)","Bus Interface","Bus type","Memory
-(GB)","TDP (watts)"
-"GRID K1","GK107","4","768","PCIe 3.0 x16","DDR3","16","130"
-"GRID K2","GK104-895","2","3072","PCIe 3.0 x16","GDDR5","8","225"

@@ -1,7 +1,0 @@
-"Software","Hosted Platform","On-Premises Platform","Encryption level","Multi-user support","Access permissions","LDAP integration","Information-level permissions","Workspace-level permissions","Role-level permissions","Notes"
-"Connectbeam","Yes","Yes","?","Yes","Yes","No","?","?","?","none"
-"Dogear","No","Yes","?","Yes","Yes","Yes","?","?","?","The Lotus Connection Suite with Dogear runs on the AIX (Unix) operating system"
-"Jumper 2.0","No","Yes","HTTPS optionally available","Yes","Yes","Yes","Yes","Yes","Yes","LDAP integration is available"
-"Knowledge Plaza","Yes","Yes","HTTPS with high-grade 256-bit AES","Yes","Yes","Yes","Yes","Yes","Yes","none"
-"Licorize","Yes","Yes","HTTPS is available","Yes","Yes","Yes","Yes","Yes","No","none"
-"Scuttle","No","Yes","HTTPS optionally available","No","Yes","No","Yes","?","","none"
